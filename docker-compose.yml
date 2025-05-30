@@ -3,29 +3,25 @@ version: '3.9'
 services:
   postgres:
     image: postgres:15
-    container_name: logica_negocios
+    container_name: cowork
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_DB: my_postgres_db
-      POSTGRES_USER: postgres_user
-      POSTGRES_PASSWORD: postgres_pass
-    volumes:
-      - ./db/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
 
   mysql:
     image: mysql:8
-    container_name: organizacion
+    container_name: organization
     ports:
       - "3306:3306"
     environment:
-      MYSQL_DATABASE: my_mysql_db
-      MYSQL_ROOT_PASSWORD: mysql_root
-      MYSQL_USER: mysql_user
-      MYSQL_PASSWORD: mysql_pass
-    volumes:
-      - ./db/mysql/init.sql:/docker-entrypoint-initdb.d/init.sql
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
 
 networks:
   default:
-    name: dev_network
+    name: cowork_network
