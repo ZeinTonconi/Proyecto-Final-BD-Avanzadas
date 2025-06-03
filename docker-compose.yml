@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   postgres:
-    image: postgres:15
+    image: postgres:17
     container_name: cowork
     ports:
       - "5432:5432"
@@ -11,16 +11,16 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
 
-  mysql:
-    image: mysql:8
+  mariadb:
+    image: mariadb:10.11
     container_name: organization
     ports:
       - "3306:3306"
     environment:
-      MYSQL_DATABASE: ${MYSQL_DATABASE}
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
-      MYSQL_USER: ${MYSQL_USER}
-      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MARIADB_DATABASE: ${MARIADB_DATABASE}
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD}
+      MARIADB_USER: ${MARIADB_USER}
+      MARIADB_PASSWORD: ${MARIADB_PASSWORD}
 
 networks:
   default:
