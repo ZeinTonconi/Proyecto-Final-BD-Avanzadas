@@ -748,6 +748,23 @@ docker exec -u postgres cowork pg_restore -U admin -d cowork_hashed /tmp/cowork_
 ## Postgres
 
 - Como primer paso realizamos consultas que use a nuestras tablas de users, reservas y payments para ver cuánto tiempo nos toma realizar cada consulta
+```
+explain analyze
+    SELECT
+        u.business_name,
+        bt.type_name,
+        s.sucursal_name,
+        d.city,
+        count(r.reserva_id)::INTEGER
+    FROM sucursales s
+    INNER JOIN estaciones e ON s.sucursal_id = e.sucursal_id
+    INNER JOIN reservas r ON e.estacion_id = r.estacion_id
+    INNER JOIN users u ON r.user_id = u.user_id
+    INNER JOIN business_type bt ON u.business_type = bt.type_id
+    inner join directions d on s.id_direction = d.directions_id
+    where bt.type_name like 'Postres' and city like 'Madrid'
+    GROUP BY s.sucursal_name, u.business_name, bt.type_name, d.city;
+```
 
 ![antes index](https://github.com/user-attachments/assets/132c6a20-bc8d-4fb4-8c8e-9f68301aaf99)
 ![antes index analyze](https://github.com/user-attachments/assets/34afefc9-62d8-4dd5-b71b-d81edf2159d5)
