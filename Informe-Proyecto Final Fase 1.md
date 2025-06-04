@@ -52,7 +52,8 @@
             4. finish_date **timestamp**
             5. description **text**
         
-        ![image.png](attachment:0f546278-0c99-40a1-a056-26f1fc2d80ed:image.png)
+        ![BD postgres](https://github.com/user-attachments/assets/f3c9d79b-b23a-456d-94e7-e9c4c82ea2a9)
+
         
 - MariaDB
     - Tablas:
@@ -88,8 +89,9 @@
             5. contact_phone **varchar(50)**
             6. contact_email **varchar(50)**
             
-            ![Captura de pantalla 2025-06-03 153537.png](attachment:9aeb3e6e-8e8a-46ad-ada4-fbc6ea616255:Captura_de_pantalla_2025-06-03_153537.png)
-            
+           
+            ![BD mariadb](https://github.com/user-attachments/assets/6ed5eb6f-ef93-4f03-acf3-c369e828523f)
+
 
 ## **No relacionales**:
 
@@ -747,11 +749,13 @@ docker exec -u postgres cowork pg_restore -U admin -d cowork_hashed /tmp/cowork_
 
 - Como primer paso realizamos consultas que use a nuestras tablas de users, reservas y payments para ver cuánto tiempo nos toma realizar cada consulta
 
-![image.png](attachment:6daa9380-e205-44ba-bdb0-b882bef4decf:image.png)
+![antes index](https://github.com/user-attachments/assets/132c6a20-bc8d-4fb4-8c8e-9f68301aaf99)
+![antes index analyze](https://github.com/user-attachments/assets/34afefc9-62d8-4dd5-b71b-d81edf2159d5)
 
-![image.png](attachment:dd12be99-7ec4-460e-9843-6d540724dc0c:image.png)
+![Diagrama](https://github.com/user-attachments/assets/d42803a9-6cba-4bb6-aed5-539f39db9187)
 
-![Captura de pantalla 2025-06-04 112744.png](attachment:ec0d2a8a-9745-4285-9e98-f6d6b79a6d88:Captura_de_pantalla_2025-06-04_112744.png)
+
+Imagen: Diagrama 
 
 - Query original:
     - Planning Time: 3.547 ms
@@ -763,7 +767,8 @@ create index idx_type_name on business_type(type_name);
 create index idx_city on directions(city);
 ```
 
-![Captura de pantalla 2025-06-04 113622.png](attachment:354b0508-b43a-41fe-8c2d-0f1acf0a93fa:Captura_de_pantalla_2025-06-04_113622.png)
+![Diagrama 2](https://github.com/user-attachments/assets/06ef0a6f-2223-4b2b-b7bd-74b3d573e74a)
+
 
 - Query con indices en los parametros del where
     - Planning Time: 1.774 ms
@@ -778,7 +783,8 @@ create index idx_users_business_type on users(business_type);
 create index idx_sucursals_direction_id on sucursals(direction_id);
 ```
 
-![Captura de pantalla 2025-06-04 114838.png](attachment:77ea9bfd-dad7-4256-9853-a283c80166a8:Captura_de_pantalla_2025-06-04_114838.png)
+![Diagrama 3](https://github.com/user-attachments/assets/cd0f32b1-3f87-4907-a014-b3d4bbcda205)
+
 
 - Optimizacion con indices en los foreign keys
     - Planning Time: 1.026 ms
