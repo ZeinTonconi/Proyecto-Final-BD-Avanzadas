@@ -13,8 +13,8 @@ const mongoClient = new MongoClient("mongodb://admin:secret@localhost:27017");
 const mongoDB = mongoClient.db("cowork");
 const stationSchedules = mongoDB.collection("station_schedules");
 
-const RESERVATION_HASH_KEY = "reservation"; 
-const SCHEDULE_KEY = "station_schedules"; 
+const RESERVATION_HASH_KEY = "reservation";
+const SCHEDULE_KEY = "station_schedules";
 
 const getReservationFromDB = async (id) => {
   const [reservation] = await sql`
@@ -45,6 +45,30 @@ const getReservation = async (id) => {
   return reserva;
 };
 
+const setReserva = async (data) => {
+  // Step 1: Update PostgreSQL
+  await sql`
+    UPDATE reservas SET
+      user_id = ${data.user_id},
+      estacion_id = ${data.estacion_id},
+      start_date = ${data.start_date},
+      finish_date = ${data.finish_date},
+      state = ${data.state},
+      reserva_type = ${data.type}
+    WHERE reserva_id = ${data.reserva_id}
+  `;
+
+  // Step 2: Update Redis cache
+  const redisKey = `${RESERVATION_HASH_KEY}:${data.reserva_id}`;
+
+  const mapping = Object.fromEntries(
+    Object.entries(data).map(([k, v]) => [k, String(v)])
+  );
+
+  await redisClient.hSet(redisKey, mapping);
+  await redisClient.expire(redisKey, 300); // 5 min TTL
+};
+
 const getSchedulesFromDB = async () => {
   return await stationSchedules.find().toArray();
 };
@@ -68,12 +92,22 @@ const getSchedules = async () => {
     console.log("Reserva:");
     const reservation = await getReservation(1);
     console.log(reservation);
-    console.log(await getReservation(1))
+    console.log(await getReservation(1));
+
+    await setReserva({
+      reserva_id: 1,
+      user_id: 2,
+      estacion_id: 3,
+      start_date: "2025-06-17",
+      finish_date: "2025-06-17",
+      state: "confirmado",
+      type: "eventual",
+    });
 
     console.log("\nHorarios:");
     const schedules = await getSchedules();
     console.log(schedules);
-    console.log(await getSchedules())
+    console.log(await getSchedules());
   } catch (err) {
     console.error(err);
   } finally {
