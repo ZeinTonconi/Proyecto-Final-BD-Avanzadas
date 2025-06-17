@@ -17,22 +17,21 @@ const runReplicationTest = async () => {
   `;
 
   try {
-    console.log("⏳ Inserting into master...");
+    console.log("Inserting into master...");
     await master.unsafe(insertQuery);
-    console.log("✅ Inserted. Waiting for replication...");
+    console.log("Inserted. Waiting for replication...");
 
-    // Wait for replication delay
     await sleep(3000);
 
-    console.log("\n📥 Reading from replica 1:");
+    console.log("Reading from replica 1:");
     const result1 = await replica1`SELECT * FROM users WHERE user_id = ${NEW_USER_ID}`;
     console.log(result1);
 
-    console.log("\n📥 Reading from replica 2:");
+    console.log("Reading from replica 2:");
     const result2 = await replica2`SELECT * FROM users WHERE user_id = ${NEW_USER_ID}`;
     console.log(result2);
   } catch (err) {
-    console.error("❌ Error:", err);
+    console.error("Error:", err);
   }
 };
 

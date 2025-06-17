@@ -120,8 +120,6 @@ const deleteUsers = async () => {
   await sqlLaPaz`
   delete from users;
   ` 
-  
-  
   await sqlCbba`
   delete from reservas_salon_talleres;
   `
@@ -134,8 +132,6 @@ const deleteUsers = async () => {
   await sqlCbba`
   delete from users;
   `
-  
-
 }
 
 const queries = async () => {

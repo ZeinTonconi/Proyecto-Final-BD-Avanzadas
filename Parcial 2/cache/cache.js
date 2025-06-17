@@ -46,7 +46,6 @@ const getReservation = async (id) => {
 };
 
 const setReserva = async (data) => {
-  // Step 1: Update PostgreSQL
   await sql`
     UPDATE reservas SET
       user_id = ${data.user_id},
@@ -58,7 +57,6 @@ const setReserva = async (data) => {
     WHERE reserva_id = ${data.reserva_id}
   `;
 
-  // Step 2: Update Redis cache
   const redisKey = `${RESERVATION_HASH_KEY}:${data.reserva_id}`;
 
   const mapping = Object.fromEntries(
