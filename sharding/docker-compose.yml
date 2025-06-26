@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  shard_lapaz:
+    image: postgres:17
+    container_name: shard_lapaz
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: lapazpass
+      POSTGRES_DB: cowork
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./db/cowork/lapaz.dump:/dump/cowork_backup.dump
+      - ./restore.sh:/docker-entrypoint-initdb.d/restore.sh
+
+  shard_cbba:
+    image: postgres:17
+    container_name: shard_cbba
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: cbbapass
+      POSTGRES_DB: cowork
+    ports:
+      - "5434:5432"
+    volumes:
+      - ./db/cowork/santa.dump:/dump/cowork_backup.dump
+      - ./restore.sh:/docker-entrypoint-initdb.d/restore.sh
