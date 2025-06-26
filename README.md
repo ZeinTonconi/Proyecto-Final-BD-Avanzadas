@@ -99,7 +99,7 @@ Para realizar backups se debe usar los siguientes comandos:
   ```
     docker exec -it stationdb mongodump --authenticationDatabase admin -u admin -p secret --db cowork_central --out /tmp/mongo_sqlynosql_backup
   ```
-  ![img_1.png](img_1.png)
+  ![img_1.png](Imagenes/img_1.png)
 ### MongoDB
 Partiendo de la raiz, dentro de la carpeta /MongoDB existen dos archivos:
 * *data.sql*: donde estan todos los documentos.
@@ -117,7 +117,7 @@ Y luego ejecutar el archivo cache.js con:
   node cache.js
 ```
 Y por consola se mostrara que el usuario fue llamado una vez a la BD y luego Redis se encargo de devolver el registro:
-![img_2.png](img_2.png)
+![img_2.png](Imagenes/img_2.png)
 Seguido de los horarios que tienen el mismo comportamiento, primero es llamada a la BD y luego el cache siempre responde sin pedir a la BD. 
 ### Sharding (La Paz y Cochabamba)
 Desde la raiz nos vamos a la carpeta sharding y levantamos el docker:
@@ -128,9 +128,9 @@ Desde la raiz nos vamos a la carpeta sharding y levantamos el docker:
 ```
 Se debe asegurar de que el puerto 5432 este libre si no lo esta debe apagar el programa quien este utilizando ese puerto, 
 con la aplicacion grafica de docker puede detener el contenedor que esta utilizando el puerto:
-![img_3.png](img_3.png)
+![img_3.png](Imagenes/img_3.png)
 Para luego volver a ejecutar *docker-compose up -d* y ya podra visualizar los shards de La Paz y Cochabamba
-![img_4.png](img_4.png)
+![img_4.png](Imagenes/img_4.png)
 Una vez de que el docker este arriba ejecutamos el .js con:
 ``` 
   node sharding.js
@@ -176,7 +176,7 @@ const monse = {
 };
 ```
 Cuando ejecutemos el sharding.js en consola tendremos lo siguiente:
-![img_5.png](img_5.png)
+![img_5.png](Imagenes/img_5.png)
 Donde se puede ver que esta separndo los datos de La Paz y Cochabamba y cuando recibe un dato que no tiene un shard asigno tambien lo almacena.
 
 ### master-slave
@@ -189,14 +189,14 @@ que estan en *requirements.txt*. Para luego ejecutar el archivo *loading.py*
 ```
 Y deberia mostrar el siguiente mensaje
 
-![img_6.png](img_6.png)
+![img_6.png](Imagenes/img_6.png)
 
 Si se va a su aplicacion de gestion de base de datos y se va a diagramas podra ver que la base de datos se creo.
 
-![img_7.png](img_7.png)
+![img_7.png](Imagenes/img_7.png)
 
-![img_8.png](img_8.png)
+![img_8.png](Imagenes/img_8.png)
 
-![img_9.png](img_9.png)
+![img_9.png](Imagenes/img_9.png)
 
 Y tambien dentro de la carpeta ETL hay un archivo *queries.sql* donde estan queries para el snowflake.
