@@ -20094,11 +20094,11 @@ UNLOCK TABLES;
 /*!50003 SET sql_mode              = 'IGNORE_SPACE,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
 DELIMITER ;;
 /*!50003 CREATE*/ /*!50017 DEFINER=`admin`@`%`*/ /*!50003 TRIGGER tr_set_repair
-before UPDATE ON cooking_equipment
-FOR EACH ROW
+    before UPDATE ON cooking_equipment
+    FOR EACH ROW
 BEGIN
-	if old.last_maintenance_date != new.last_maintenance_date then
-		set new.needs_repair = false;
+    if old.last_maintenance_date != new.last_maintenance_date then
+        set new.needs_repair = false;
     END IF;
 END */;;
 DELIMITER ;
@@ -40956,6 +40956,200 @@ INSERT INTO `suppliers` VALUES
 UNLOCK TABLES;
 
 --
+-- Dumping routines for database 'organization'
+--
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'IGNORE_SPACE,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+/*!50003 DROP FUNCTION IF EXISTS `fn_equipment_cost_efficiency` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_general_ci */ ;
+DELIMITER ;;
+CREATE DEFINER=`admin`@`%` FUNCTION `fn_equipment_cost_efficiency`(p_equipment_id INT) RETURNS decimal(10,2)
+    READS SQL DATA
+    DETERMINISTIC
+BEGIN
+    DECLARE v_price DECIMAL(10,2);
+    DECLARE v_hours INT;
+
+    SELECT purchase_price, hours_in_use
+    INTO v_price, v_hours
+    FROM cooking_equipment
+    WHERE equipment_id = p_equipment_id;
+
+    IF v_hours = 0 THEN
+        RETURN 0;
+    END IF;
+
+    RETURN ROUND(v_price / v_hours, 2);
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'IGNORE_SPACE,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+/*!50003 DROP FUNCTION IF EXISTS `fn_equipment_utilization_score` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_general_ci */ ;
+DELIMITER ;;
+CREATE DEFINER=`admin`@`%` FUNCTION `fn_equipment_utilization_score`(p_equipment_id INT) RETURNS decimal(5,2)
+    READS SQL DATA
+    DETERMINISTIC
+BEGIN
+    DECLARE v_hours_in_use INT;
+    DECLARE v_maintenance_date DATE;
+    DECLARE v_days_owned INT;
+    DECLARE v_max_hours_possible INT;
+    DECLARE v_score DECIMAL(5,2);
+
+    SELECT hours_in_use, last_maintenance_date
+    INTO v_hours_in_use, v_maintenance_date
+    FROM cooking_equipment
+    WHERE equipment_id = p_equipment_id;
+
+    SET v_days_owned = DATEDIFF(CURDATE(), v_maintenance_date);
+    SET v_max_hours_possible = v_days_owned * 8;
+
+    IF v_max_hours_possible = 0 THEN
+        RETURN 0;
+    END IF;
+
+    SET v_score = LEAST((v_hours_in_use / v_max_hours_possible) * 100, 100);
+
+    RETURN ROUND(v_score, 2);
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'IGNORE_SPACE,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `sp_mark_high_usage_equipment_for_maintenance` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_general_ci */ ;
+DELIMITER ;;
+CREATE DEFINER=`admin`@`%` PROCEDURE `sp_mark_high_usage_equipment_for_maintenance`(
+    IN p_min_hours INT
+)
+BEGIN
+    DECLARE v_equipment_id  INT;
+    DECLARE v_hours         INT;
+    DECLARE done            BOOLEAN DEFAULT FALSE;
+
+    DECLARE cur CURSOR FOR
+        SELECT equipment_id, hours_in_use
+        FROM cooking_equipment
+        WHERE needs_repair = 0
+          AND hours_in_use >= p_min_hours;
+
+    DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
+
+    START TRANSACTION;
+
+    OPEN cur;
+    read_loop: LOOP
+        FETCH cur INTO v_equipment_id, v_hours;
+        IF done THEN
+            LEAVE read_loop;
+        END IF;
+
+        UPDATE cooking_equipment
+        SET needs_repair = 1
+        WHERE equipment_id = v_equipment_id;
+    END LOOP;
+
+    CLOSE cur;
+    COMMIT;
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'IGNORE_SPACE,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `sp_transfer_equipment` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_general_ci */ ;
+DELIMITER ;;
+CREATE DEFINER=`admin`@`%` PROCEDURE `sp_transfer_equipment`(
+    IN p_equipment_id     INT,
+    IN p_new_sucursal_id  INT,
+    IN p_employee_id      INT,
+    IN p_notes            TEXT
+)
+BEGIN
+    DECLARE v_old_sucursal     INT;
+    DECLARE v_exists_equipment INT;
+
+
+    SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+
+    START TRANSACTION;
+
+    SELECT COUNT(*), sucursal_id
+    INTO v_exists_equipment, v_old_sucursal
+    FROM cooking_equipment
+    WHERE equipment_id = p_equipment_id;
+
+    IF v_exists_equipment = 0 THEN
+        Rollback;
+        SIGNAL SQLSTATE '45000'
+            SET MESSAGE_TEXT = 'Error: The equipment does not exist.';
+    END IF;
+
+    IF v_old_sucursal = p_new_sucursal_id THEN
+        rollback ;
+        SIGNAL SQLSTATE '45000'
+            SET MESSAGE_TEXT = 'Error: Destination branch is the same as the current one.';
+    END IF;
+
+
+    UPDATE cooking_equipment
+    SET sucursal_id = p_new_sucursal_id
+    WHERE equipment_id = p_equipment_id;
+
+    INSERT INTO log_equipment_transfer (
+        equipment_id,
+        from_sucursal,
+        to_sucursal,
+        employee_id,
+        notes
+    ) VALUES (
+                 p_equipment_id,
+                 v_old_sucursal,
+                 p_new_sucursal_id,
+                 p_employee_id,
+                 p_notes
+             );
+
+    COMMIT;
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+
+--
 -- Final view structure for view `equipment_costs_by_type`
 --
 
@@ -41000,4 +41194,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-06-03  6:06:20
+-- Dump completed on 2025-06-26 16:15:05
