@@ -1,0 +1,9002 @@
+[
+  {
+    "reservation_id": 1,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-839945",
+      "amount": 242.46
+    }
+  },
+  {
+    "reservation_id": 2,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-824586",
+      "amount": 456.77
+    }
+  },
+  {
+    "reservation_id": 3,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-710805",
+      "amount": 298.64
+    }
+  },
+  {
+    "reservation_id": 4,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-423232",
+      "amount": 214.09
+    }
+  },
+  {
+    "reservation_id": 5,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-815198",
+      "amount": 162.29
+    }
+  },
+  {
+    "reservation_id": 6,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-526117",
+      "amount": 488.23
+    }
+  },
+  {
+    "reservation_id": 7,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-938742",
+      "amount": 414.85
+    }
+  },
+  {
+    "reservation_id": 8,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-872343",
+      "amount": 466.02
+    }
+  },
+  {
+    "reservation_id": 9,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-266931",
+      "amount": 404.32
+    }
+  },
+  {
+    "reservation_id": 10,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-593554",
+      "amount": 150.1
+    }
+  },
+  {
+    "reservation_id": 11,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-960394",
+      "amount": 407.91
+    }
+  },
+  {
+    "reservation_id": 12,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-792094",
+      "amount": 136.91
+    }
+  },
+  {
+    "reservation_id": 13,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-910891",
+      "amount": 175.61
+    }
+  },
+  {
+    "reservation_id": 14,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-984642",
+      "amount": 291.3
+    }
+  },
+  {
+    "reservation_id": 15,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-287241",
+      "amount": 311.27
+    }
+  },
+  {
+    "reservation_id": 16,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-725550",
+      "amount": 245.55
+    }
+  },
+  {
+    "reservation_id": 17,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-636265",
+      "amount": 102.04
+    }
+  },
+  {
+    "reservation_id": 18,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-146542",
+      "amount": 368.95
+    }
+  },
+  {
+    "reservation_id": 19,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-552248",
+      "amount": 81.49
+    }
+  },
+  {
+    "reservation_id": 20,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-989208",
+      "amount": 106.08
+    }
+  },
+  {
+    "reservation_id": 21,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-528231",
+      "amount": 196.78
+    }
+  },
+  {
+    "reservation_id": 22,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-540869",
+      "amount": 349.22
+    }
+  },
+  {
+    "reservation_id": 23,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-696750",
+      "amount": 185.43
+    }
+  },
+  {
+    "reservation_id": 24,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-400850",
+      "amount": 144.58
+    }
+  },
+  {
+    "reservation_id": 25,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-563246",
+      "amount": 248.97
+    }
+  },
+  {
+    "reservation_id": 26,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-277934",
+      "amount": 346.48
+    }
+  },
+  {
+    "reservation_id": 27,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-958179",
+      "amount": 478.4
+    }
+  },
+  {
+    "reservation_id": 28,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-945742",
+      "amount": 139.61
+    }
+  },
+  {
+    "reservation_id": 29,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-598216",
+      "amount": 325.07
+    }
+  },
+  {
+    "reservation_id": 30,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-760356",
+      "amount": 309.05
+    }
+  },
+  {
+    "reservation_id": 31,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-355836",
+      "amount": 116.41
+    }
+  },
+  {
+    "reservation_id": 32,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-329471",
+      "amount": 129.15
+    }
+  },
+  {
+    "reservation_id": 33,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-684482",
+      "amount": 162.14
+    }
+  },
+  {
+    "reservation_id": 34,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-940346",
+      "amount": 259.09
+    }
+  },
+  {
+    "reservation_id": 35,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-742412",
+      "amount": 416.75
+    }
+  },
+  {
+    "reservation_id": 36,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-567574",
+      "amount": 453.74
+    }
+  },
+  {
+    "reservation_id": 37,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-888295",
+      "amount": 161.26
+    }
+  },
+  {
+    "reservation_id": 38,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-350867",
+      "amount": 173.57
+    }
+  },
+  {
+    "reservation_id": 39,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-384913",
+      "amount": 201.13
+    }
+  },
+  {
+    "reservation_id": 40,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-258157",
+      "amount": 154.07
+    }
+  },
+  {
+    "reservation_id": 41,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-535020",
+      "amount": 233.42
+    }
+  },
+  {
+    "reservation_id": 42,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-165290",
+      "amount": 143.08
+    }
+  },
+  {
+    "reservation_id": 43,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-829308",
+      "amount": 58.79
+    }
+  },
+  {
+    "reservation_id": 44,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-106182",
+      "amount": 474.23
+    }
+  },
+  {
+    "reservation_id": 45,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-664365",
+      "amount": 386.38
+    }
+  },
+  {
+    "reservation_id": 46,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-330080",
+      "amount": 172.82
+    }
+  },
+  {
+    "reservation_id": 47,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-452457",
+      "amount": 350.99
+    }
+  },
+  {
+    "reservation_id": 48,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-233827",
+      "amount": 491.32
+    }
+  },
+  {
+    "reservation_id": 49,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-720644",
+      "amount": 303.98
+    }
+  },
+  {
+    "reservation_id": 50,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-549433",
+      "amount": 111.06
+    }
+  },
+  {
+    "reservation_id": 51,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-372793",
+      "amount": 220.6
+    }
+  },
+  {
+    "reservation_id": 52,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-453894",
+      "amount": 392.55
+    }
+  },
+  {
+    "reservation_id": 53,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-364525",
+      "amount": 425.71
+    }
+  },
+  {
+    "reservation_id": 54,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-665621",
+      "amount": 73.44
+    }
+  },
+  {
+    "reservation_id": 55,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-171951",
+      "amount": 401.55
+    }
+  },
+  {
+    "reservation_id": 56,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-309044",
+      "amount": 427.65
+    }
+  },
+  {
+    "reservation_id": 57,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-232352",
+      "amount": 263.1
+    }
+  },
+  {
+    "reservation_id": 58,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-833442",
+      "amount": 165.31
+    }
+  },
+  {
+    "reservation_id": 59,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-736745",
+      "amount": 483.68
+    }
+  },
+  {
+    "reservation_id": 60,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-213349",
+      "amount": 310.41
+    }
+  },
+  {
+    "reservation_id": 61,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-849747",
+      "amount": 139.25
+    }
+  },
+  {
+    "reservation_id": 62,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-831059",
+      "amount": 397.62
+    }
+  },
+  {
+    "reservation_id": 63,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-920652",
+      "amount": 68.48
+    }
+  },
+  {
+    "reservation_id": 64,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-488571",
+      "amount": 81.03
+    }
+  },
+  {
+    "reservation_id": 65,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-962276",
+      "amount": 270.59
+    }
+  },
+  {
+    "reservation_id": 66,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-968962",
+      "amount": 256.88
+    }
+  },
+  {
+    "reservation_id": 67,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-869440",
+      "amount": 284.79
+    }
+  },
+  {
+    "reservation_id": 68,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-556732",
+      "amount": 421.58
+    }
+  },
+  {
+    "reservation_id": 69,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-993085",
+      "amount": 160.47
+    }
+  },
+  {
+    "reservation_id": 70,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-355709",
+      "amount": 387.71
+    }
+  },
+  {
+    "reservation_id": 71,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-130094",
+      "amount": 272.44
+    }
+  },
+  {
+    "reservation_id": 72,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-322423",
+      "amount": 209.67
+    }
+  },
+  {
+    "reservation_id": 73,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-725113",
+      "amount": 365.53
+    }
+  },
+  {
+    "reservation_id": 74,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-300337",
+      "amount": 88.53
+    }
+  },
+  {
+    "reservation_id": 75,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-894993",
+      "amount": 158.15
+    }
+  },
+  {
+    "reservation_id": 76,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-931450",
+      "amount": 57.76
+    }
+  },
+  {
+    "reservation_id": 77,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-825391",
+      "amount": 159.49
+    }
+  },
+  {
+    "reservation_id": 78,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-680358",
+      "amount": 288.91
+    }
+  },
+  {
+    "reservation_id": 79,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-836996",
+      "amount": 254.19
+    }
+  },
+  {
+    "reservation_id": 80,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-226516",
+      "amount": 374.58
+    }
+  },
+  {
+    "reservation_id": 81,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-661894",
+      "amount": 477.89
+    }
+  },
+  {
+    "reservation_id": 82,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-874483",
+      "amount": 267.89
+    }
+  },
+  {
+    "reservation_id": 83,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-973074",
+      "amount": 137.35
+    }
+  },
+  {
+    "reservation_id": 84,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-416950",
+      "amount": 56.37
+    }
+  },
+  {
+    "reservation_id": 85,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-147726",
+      "amount": 488.43
+    }
+  },
+  {
+    "reservation_id": 86,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-232413",
+      "amount": 337.04
+    }
+  },
+  {
+    "reservation_id": 87,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-701949",
+      "amount": 177.95
+    }
+  },
+  {
+    "reservation_id": 88,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-293319",
+      "amount": 484.47
+    }
+  },
+  {
+    "reservation_id": 89,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-962050",
+      "amount": 79.4
+    }
+  },
+  {
+    "reservation_id": 90,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-760021",
+      "amount": 358.9
+    }
+  },
+  {
+    "reservation_id": 91,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-418594",
+      "amount": 88.33
+    }
+  },
+  {
+    "reservation_id": 92,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-901577",
+      "amount": 237.28
+    }
+  },
+  {
+    "reservation_id": 93,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-498855",
+      "amount": 252.73
+    }
+  },
+  {
+    "reservation_id": 94,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-549660",
+      "amount": 187.42
+    }
+  },
+  {
+    "reservation_id": 95,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-876039",
+      "amount": 94.66
+    }
+  },
+  {
+    "reservation_id": 96,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-792509",
+      "amount": 86.53
+    }
+  },
+  {
+    "reservation_id": 97,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-178711",
+      "amount": 120.44
+    }
+  },
+  {
+    "reservation_id": 98,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-722656",
+      "amount": 261.46
+    }
+  },
+  {
+    "reservation_id": 99,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-841296",
+      "amount": 177.22
+    }
+  },
+  {
+    "reservation_id": 100,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-344762",
+      "amount": 465.76
+    }
+  },
+  {
+    "reservation_id": 101,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-220351",
+      "amount": 295.05
+    }
+  },
+  {
+    "reservation_id": 102,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-174878",
+      "amount": 76.84
+    }
+  },
+  {
+    "reservation_id": 103,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-230394",
+      "amount": 260.91
+    }
+  },
+  {
+    "reservation_id": 104,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-624783",
+      "amount": 292.99
+    }
+  },
+  {
+    "reservation_id": 105,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-141797",
+      "amount": 450.24
+    }
+  },
+  {
+    "reservation_id": 106,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-195763",
+      "amount": 153.02
+    }
+  },
+  {
+    "reservation_id": 107,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-961322",
+      "amount": 171.28
+    }
+  },
+  {
+    "reservation_id": 108,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-644173",
+      "amount": 343.18
+    }
+  },
+  {
+    "reservation_id": 109,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-557058",
+      "amount": 335.65
+    }
+  },
+  {
+    "reservation_id": 110,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-464863",
+      "amount": 233.76
+    }
+  },
+  {
+    "reservation_id": 111,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-445824",
+      "amount": 235.24
+    }
+  },
+  {
+    "reservation_id": 112,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-519904",
+      "amount": 416.1
+    }
+  },
+  {
+    "reservation_id": 113,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-192337",
+      "amount": 191.53
+    }
+  },
+  {
+    "reservation_id": 114,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-639593",
+      "amount": 421.22
+    }
+  },
+  {
+    "reservation_id": 115,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-156837",
+      "amount": 134.41
+    }
+  },
+  {
+    "reservation_id": 116,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-563513",
+      "amount": 392.0
+    }
+  },
+  {
+    "reservation_id": 117,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-237377",
+      "amount": 467.45
+    }
+  },
+  {
+    "reservation_id": 118,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-130271",
+      "amount": 487.92
+    }
+  },
+  {
+    "reservation_id": 119,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-266071",
+      "amount": 189.84
+    }
+  },
+  {
+    "reservation_id": 120,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-335615",
+      "amount": 496.52
+    }
+  },
+  {
+    "reservation_id": 121,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-779172",
+      "amount": 424.46
+    }
+  },
+  {
+    "reservation_id": 122,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-839677",
+      "amount": 173.04
+    }
+  },
+  {
+    "reservation_id": 123,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-578975",
+      "amount": 298.07
+    }
+  },
+  {
+    "reservation_id": 124,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-632929",
+      "amount": 385.83
+    }
+  },
+  {
+    "reservation_id": 125,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-910208",
+      "amount": 405.5
+    }
+  },
+  {
+    "reservation_id": 126,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-380150",
+      "amount": 419.25
+    }
+  },
+  {
+    "reservation_id": 127,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-708093",
+      "amount": 499.51
+    }
+  },
+  {
+    "reservation_id": 128,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-664742",
+      "amount": 267.95
+    }
+  },
+  {
+    "reservation_id": 129,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-437408",
+      "amount": 441.32
+    }
+  },
+  {
+    "reservation_id": 130,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-997594",
+      "amount": 399.0
+    }
+  },
+  {
+    "reservation_id": 131,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-595951",
+      "amount": 367.35
+    }
+  },
+  {
+    "reservation_id": 132,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-930884",
+      "amount": 419.34
+    }
+  },
+  {
+    "reservation_id": 133,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-232378",
+      "amount": 276.03
+    }
+  },
+  {
+    "reservation_id": 134,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-986088",
+      "amount": 248.14
+    }
+  },
+  {
+    "reservation_id": 135,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-857537",
+      "amount": 114.87
+    }
+  },
+  {
+    "reservation_id": 136,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-919488",
+      "amount": 486.14
+    }
+  },
+  {
+    "reservation_id": 137,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-184216",
+      "amount": 433.29
+    }
+  },
+  {
+    "reservation_id": 138,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-757246",
+      "amount": 373.42
+    }
+  },
+  {
+    "reservation_id": 139,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-171744",
+      "amount": 155.65
+    }
+  },
+  {
+    "reservation_id": 140,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-194769",
+      "amount": 245.29
+    }
+  },
+  {
+    "reservation_id": 141,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-274446",
+      "amount": 362.3
+    }
+  },
+  {
+    "reservation_id": 142,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-934816",
+      "amount": 75.25
+    }
+  },
+  {
+    "reservation_id": 143,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-252640",
+      "amount": 159.89
+    }
+  },
+  {
+    "reservation_id": 144,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-283573",
+      "amount": 85.54
+    }
+  },
+  {
+    "reservation_id": 145,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-711484",
+      "amount": 114.4
+    }
+  },
+  {
+    "reservation_id": 146,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-367729",
+      "amount": 350.08
+    }
+  },
+  {
+    "reservation_id": 147,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-673149",
+      "amount": 121.09
+    }
+  },
+  {
+    "reservation_id": 148,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-413685",
+      "amount": 337.52
+    }
+  },
+  {
+    "reservation_id": 149,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-986365",
+      "amount": 185.95
+    }
+  },
+  {
+    "reservation_id": 150,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-348728",
+      "amount": 221.61
+    }
+  },
+  {
+    "reservation_id": 151,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-409571",
+      "amount": 59.87
+    }
+  },
+  {
+    "reservation_id": 152,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-693419",
+      "amount": 439.28
+    }
+  },
+  {
+    "reservation_id": 153,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-913423",
+      "amount": 409.49
+    }
+  },
+  {
+    "reservation_id": 154,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-767542",
+      "amount": 135.56
+    }
+  },
+  {
+    "reservation_id": 155,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-201883",
+      "amount": 456.53
+    }
+  },
+  {
+    "reservation_id": 156,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-134985",
+      "amount": 310.81
+    }
+  },
+  {
+    "reservation_id": 157,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-442589",
+      "amount": 386.37
+    }
+  },
+  {
+    "reservation_id": 158,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-924718",
+      "amount": 292.73
+    }
+  },
+  {
+    "reservation_id": 159,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-369452",
+      "amount": 461.32
+    }
+  },
+  {
+    "reservation_id": 160,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-455168",
+      "amount": 411.9
+    }
+  },
+  {
+    "reservation_id": 161,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-890785",
+      "amount": 484.93
+    }
+  },
+  {
+    "reservation_id": 162,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-929090",
+      "amount": 227.56
+    }
+  },
+  {
+    "reservation_id": 163,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-486490",
+      "amount": 352.77
+    }
+  },
+  {
+    "reservation_id": 164,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-489518",
+      "amount": 98.76
+    }
+  },
+  {
+    "reservation_id": 165,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-749641",
+      "amount": 447.91
+    }
+  },
+  {
+    "reservation_id": 166,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-332120",
+      "amount": 341.44
+    }
+  },
+  {
+    "reservation_id": 167,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-528129",
+      "amount": 102.5
+    }
+  },
+  {
+    "reservation_id": 168,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-616554",
+      "amount": 102.25
+    }
+  },
+  {
+    "reservation_id": 169,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-575679",
+      "amount": 216.96
+    }
+  },
+  {
+    "reservation_id": 170,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-878325",
+      "amount": 376.97
+    }
+  },
+  {
+    "reservation_id": 171,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-745558",
+      "amount": 233.65
+    }
+  },
+  {
+    "reservation_id": 172,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-488528",
+      "amount": 147.77
+    }
+  },
+  {
+    "reservation_id": 173,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-204180",
+      "amount": 491.42
+    }
+  },
+  {
+    "reservation_id": 174,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-517479",
+      "amount": 174.15
+    }
+  },
+  {
+    "reservation_id": 175,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-794963",
+      "amount": 145.45
+    }
+  },
+  {
+    "reservation_id": 176,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-925013",
+      "amount": 200.08
+    }
+  },
+  {
+    "reservation_id": 177,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-970127",
+      "amount": 394.32
+    }
+  },
+  {
+    "reservation_id": 178,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-444519",
+      "amount": 398.47
+    }
+  },
+  {
+    "reservation_id": 179,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-251716",
+      "amount": 494.39
+    }
+  },
+  {
+    "reservation_id": 180,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-215266",
+      "amount": 347.48
+    }
+  },
+  {
+    "reservation_id": 181,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-475644",
+      "amount": 405.49
+    }
+  },
+  {
+    "reservation_id": 182,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-282710",
+      "amount": 169.42
+    }
+  },
+  {
+    "reservation_id": 183,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-219169",
+      "amount": 385.55
+    }
+  },
+  {
+    "reservation_id": 184,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-638169",
+      "amount": 317.15
+    }
+  },
+  {
+    "reservation_id": 185,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-145471",
+      "amount": 377.26
+    }
+  },
+  {
+    "reservation_id": 186,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-774591",
+      "amount": 483.81
+    }
+  },
+  {
+    "reservation_id": 187,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-546980",
+      "amount": 358.74
+    }
+  },
+  {
+    "reservation_id": 188,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-184714",
+      "amount": 194.95
+    }
+  },
+  {
+    "reservation_id": 189,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-388375",
+      "amount": 330.94
+    }
+  },
+  {
+    "reservation_id": 190,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-726410",
+      "amount": 288.75
+    }
+  },
+  {
+    "reservation_id": 191,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-931621",
+      "amount": 365.8
+    }
+  },
+  {
+    "reservation_id": 192,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-573489",
+      "amount": 449.64
+    }
+  },
+  {
+    "reservation_id": 193,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-518098",
+      "amount": 237.2
+    }
+  },
+  {
+    "reservation_id": 194,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-427704",
+      "amount": 349.3
+    }
+  },
+  {
+    "reservation_id": 195,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-597305",
+      "amount": 80.21
+    }
+  },
+  {
+    "reservation_id": 196,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-201255",
+      "amount": 385.07
+    }
+  },
+  {
+    "reservation_id": 197,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-162894",
+      "amount": 313.91
+    }
+  },
+  {
+    "reservation_id": 198,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-228168",
+      "amount": 234.86
+    }
+  },
+  {
+    "reservation_id": 199,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-729575",
+      "amount": 190.6
+    }
+  },
+  {
+    "reservation_id": 200,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-788637",
+      "amount": 266.99
+    }
+  },
+  {
+    "reservation_id": 201,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-485415",
+      "amount": 101.7
+    }
+  },
+  {
+    "reservation_id": 202,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-986209",
+      "amount": 302.43
+    }
+  },
+  {
+    "reservation_id": 203,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-789786",
+      "amount": 423.26
+    }
+  },
+  {
+    "reservation_id": 204,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-386544",
+      "amount": 366.21
+    }
+  },
+  {
+    "reservation_id": 205,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-106402",
+      "amount": 131.63
+    }
+  },
+  {
+    "reservation_id": 206,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-248766",
+      "amount": 383.44
+    }
+  },
+  {
+    "reservation_id": 207,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-656251",
+      "amount": 146.81
+    }
+  },
+  {
+    "reservation_id": 208,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-265055",
+      "amount": 216.52
+    }
+  },
+  {
+    "reservation_id": 209,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-263137",
+      "amount": 120.83
+    }
+  },
+  {
+    "reservation_id": 210,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-185544",
+      "amount": 172.45
+    }
+  },
+  {
+    "reservation_id": 211,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-563516",
+      "amount": 236.38
+    }
+  },
+  {
+    "reservation_id": 212,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-550797",
+      "amount": 99.9
+    }
+  },
+  {
+    "reservation_id": 213,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-799539",
+      "amount": 188.79
+    }
+  },
+  {
+    "reservation_id": 214,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-157443",
+      "amount": 53.46
+    }
+  },
+  {
+    "reservation_id": 215,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-901280",
+      "amount": 164.98
+    }
+  },
+  {
+    "reservation_id": 216,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-621546",
+      "amount": 386.16
+    }
+  },
+  {
+    "reservation_id": 217,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-658453",
+      "amount": 366.65
+    }
+  },
+  {
+    "reservation_id": 218,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-516359",
+      "amount": 437.79
+    }
+  },
+  {
+    "reservation_id": 219,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-582087",
+      "amount": 464.52
+    }
+  },
+  {
+    "reservation_id": 220,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-524068",
+      "amount": 369.27
+    }
+  },
+  {
+    "reservation_id": 221,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-524707",
+      "amount": 59.39
+    }
+  },
+  {
+    "reservation_id": 222,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-582446",
+      "amount": 424.41
+    }
+  },
+  {
+    "reservation_id": 223,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-985506",
+      "amount": 97.64
+    }
+  },
+  {
+    "reservation_id": 224,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-182467",
+      "amount": 228.1
+    }
+  },
+  {
+    "reservation_id": 225,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-449247",
+      "amount": 400.6
+    }
+  },
+  {
+    "reservation_id": 226,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-634723",
+      "amount": 137.26
+    }
+  },
+  {
+    "reservation_id": 227,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-958729",
+      "amount": 340.45
+    }
+  },
+  {
+    "reservation_id": 228,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-253557",
+      "amount": 165.19
+    }
+  },
+  {
+    "reservation_id": 229,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-179013",
+      "amount": 129.72
+    }
+  },
+  {
+    "reservation_id": 230,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-896788",
+      "amount": 310.76
+    }
+  },
+  {
+    "reservation_id": 231,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-431495",
+      "amount": 117.93
+    }
+  },
+  {
+    "reservation_id": 232,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-762055",
+      "amount": 186.27
+    }
+  },
+  {
+    "reservation_id": 233,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-631981",
+      "amount": 83.39
+    }
+  },
+  {
+    "reservation_id": 234,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-159653",
+      "amount": 215.93
+    }
+  },
+  {
+    "reservation_id": 235,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-996840",
+      "amount": 90.63
+    }
+  },
+  {
+    "reservation_id": 236,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-708519",
+      "amount": 299.44
+    }
+  },
+  {
+    "reservation_id": 237,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-783501",
+      "amount": 134.71
+    }
+  },
+  {
+    "reservation_id": 238,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-258189",
+      "amount": 480.98
+    }
+  },
+  {
+    "reservation_id": 239,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-849014",
+      "amount": 87.95
+    }
+  },
+  {
+    "reservation_id": 240,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-841995",
+      "amount": 246.99
+    }
+  },
+  {
+    "reservation_id": 241,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-490963",
+      "amount": 463.07
+    }
+  },
+  {
+    "reservation_id": 242,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-811875",
+      "amount": 319.05
+    }
+  },
+  {
+    "reservation_id": 243,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-199096",
+      "amount": 301.08
+    }
+  },
+  {
+    "reservation_id": 244,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-858889",
+      "amount": 433.2
+    }
+  },
+  {
+    "reservation_id": 245,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-185461",
+      "amount": 312.23
+    }
+  },
+  {
+    "reservation_id": 246,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-787923",
+      "amount": 364.32
+    }
+  },
+  {
+    "reservation_id": 247,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-843266",
+      "amount": 472.1
+    }
+  },
+  {
+    "reservation_id": 248,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-930117",
+      "amount": 197.81
+    }
+  },
+  {
+    "reservation_id": 249,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-803024",
+      "amount": 240.53
+    }
+  },
+  {
+    "reservation_id": 250,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-423869",
+      "amount": 131.12
+    }
+  },
+  {
+    "reservation_id": 251,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-301332",
+      "amount": 151.94
+    }
+  },
+  {
+    "reservation_id": 252,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-410160",
+      "amount": 429.99
+    }
+  },
+  {
+    "reservation_id": 253,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-453123",
+      "amount": 444.38
+    }
+  },
+  {
+    "reservation_id": 254,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-495019",
+      "amount": 119.41
+    }
+  },
+  {
+    "reservation_id": 255,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-558933",
+      "amount": 69.66
+    }
+  },
+  {
+    "reservation_id": 256,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-740255",
+      "amount": 178.22
+    }
+  },
+  {
+    "reservation_id": 257,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-350786",
+      "amount": 189.26
+    }
+  },
+  {
+    "reservation_id": 258,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-811256",
+      "amount": 476.21
+    }
+  },
+  {
+    "reservation_id": 259,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-915922",
+      "amount": 221.84
+    }
+  },
+  {
+    "reservation_id": 260,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-956572",
+      "amount": 139.86
+    }
+  },
+  {
+    "reservation_id": 261,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-154714",
+      "amount": 338.53
+    }
+  },
+  {
+    "reservation_id": 262,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-986982",
+      "amount": 282.16
+    }
+  },
+  {
+    "reservation_id": 263,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-900185",
+      "amount": 122.14
+    }
+  },
+  {
+    "reservation_id": 264,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-196168",
+      "amount": 475.89
+    }
+  },
+  {
+    "reservation_id": 265,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-127965",
+      "amount": 236.7
+    }
+  },
+  {
+    "reservation_id": 266,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-504924",
+      "amount": 497.54
+    }
+  },
+  {
+    "reservation_id": 267,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-434165",
+      "amount": 468.87
+    }
+  },
+  {
+    "reservation_id": 268,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-140163",
+      "amount": 179.1
+    }
+  },
+  {
+    "reservation_id": 269,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-591897",
+      "amount": 251.87
+    }
+  },
+  {
+    "reservation_id": 270,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-368355",
+      "amount": 147.04
+    }
+  },
+  {
+    "reservation_id": 271,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-913875",
+      "amount": 179.65
+    }
+  },
+  {
+    "reservation_id": 272,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-350021",
+      "amount": 238.92
+    }
+  },
+  {
+    "reservation_id": 273,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-216242",
+      "amount": 426.51
+    }
+  },
+  {
+    "reservation_id": 274,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-640410",
+      "amount": 308.77
+    }
+  },
+  {
+    "reservation_id": 275,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-101640",
+      "amount": 326.66
+    }
+  },
+  {
+    "reservation_id": 276,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-796643",
+      "amount": 350.7
+    }
+  },
+  {
+    "reservation_id": 277,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-651613",
+      "amount": 294.84
+    }
+  },
+  {
+    "reservation_id": 278,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-592972",
+      "amount": 69.59
+    }
+  },
+  {
+    "reservation_id": 279,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-883618",
+      "amount": 57.31
+    }
+  },
+  {
+    "reservation_id": 280,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-868544",
+      "amount": 345.7
+    }
+  },
+  {
+    "reservation_id": 281,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-146489",
+      "amount": 208.53
+    }
+  },
+  {
+    "reservation_id": 282,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-587192",
+      "amount": 491.37
+    }
+  },
+  {
+    "reservation_id": 283,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-166165",
+      "amount": 372.22
+    }
+  },
+  {
+    "reservation_id": 284,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-311383",
+      "amount": 69.71
+    }
+  },
+  {
+    "reservation_id": 285,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-425138",
+      "amount": 281.92
+    }
+  },
+  {
+    "reservation_id": 286,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-138399",
+      "amount": 388.98
+    }
+  },
+  {
+    "reservation_id": 287,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-918771",
+      "amount": 71.51
+    }
+  },
+  {
+    "reservation_id": 288,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-938171",
+      "amount": 215.61
+    }
+  },
+  {
+    "reservation_id": 289,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-455505",
+      "amount": 488.18
+    }
+  },
+  {
+    "reservation_id": 290,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-936020",
+      "amount": 283.67
+    }
+  },
+  {
+    "reservation_id": 291,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-551524",
+      "amount": 321.1
+    }
+  },
+  {
+    "reservation_id": 292,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-207581",
+      "amount": 86.03
+    }
+  },
+  {
+    "reservation_id": 293,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-731894",
+      "amount": 372.95
+    }
+  },
+  {
+    "reservation_id": 294,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-568849",
+      "amount": 69.06
+    }
+  },
+  {
+    "reservation_id": 295,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-770532",
+      "amount": 491.01
+    }
+  },
+  {
+    "reservation_id": 296,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-768480",
+      "amount": 232.79
+    }
+  },
+  {
+    "reservation_id": 297,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-249715",
+      "amount": 431.9
+    }
+  },
+  {
+    "reservation_id": 298,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-170499",
+      "amount": 156.2
+    }
+  },
+  {
+    "reservation_id": 299,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-694799",
+      "amount": 64.57
+    }
+  },
+  {
+    "reservation_id": 300,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-490084",
+      "amount": 249.77
+    }
+  },
+  {
+    "reservation_id": 301,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-484774",
+      "amount": 229.12
+    }
+  },
+  {
+    "reservation_id": 302,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-127172",
+      "amount": 381.05
+    }
+  },
+  {
+    "reservation_id": 303,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-223481",
+      "amount": 167.8
+    }
+  },
+  {
+    "reservation_id": 304,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-741599",
+      "amount": 178.51
+    }
+  },
+  {
+    "reservation_id": 305,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-242321",
+      "amount": 433.77
+    }
+  },
+  {
+    "reservation_id": 306,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-566732",
+      "amount": 498.77
+    }
+  },
+  {
+    "reservation_id": 307,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-168093",
+      "amount": 297.5
+    }
+  },
+  {
+    "reservation_id": 308,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-846385",
+      "amount": 369.3
+    }
+  },
+  {
+    "reservation_id": 309,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-335134",
+      "amount": 104.61
+    }
+  },
+  {
+    "reservation_id": 310,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-928766",
+      "amount": 272.31
+    }
+  },
+  {
+    "reservation_id": 311,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-942700",
+      "amount": 492.36
+    }
+  },
+  {
+    "reservation_id": 312,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-424314",
+      "amount": 229.17
+    }
+  },
+  {
+    "reservation_id": 313,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-963333",
+      "amount": 308.71
+    }
+  },
+  {
+    "reservation_id": 314,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-177767",
+      "amount": 252.49
+    }
+  },
+  {
+    "reservation_id": 315,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-969325",
+      "amount": 401.12
+    }
+  },
+  {
+    "reservation_id": 316,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-553633",
+      "amount": 276.29
+    }
+  },
+  {
+    "reservation_id": 317,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-260448",
+      "amount": 186.86
+    }
+  },
+  {
+    "reservation_id": 318,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-336422",
+      "amount": 205.71
+    }
+  },
+  {
+    "reservation_id": 319,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-362778",
+      "amount": 138.34
+    }
+  },
+  {
+    "reservation_id": 320,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-755383",
+      "amount": 186.27
+    }
+  },
+  {
+    "reservation_id": 321,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-772124",
+      "amount": 125.89
+    }
+  },
+  {
+    "reservation_id": 322,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-790731",
+      "amount": 331.02
+    }
+  },
+  {
+    "reservation_id": 323,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-143195",
+      "amount": 421.36
+    }
+  },
+  {
+    "reservation_id": 324,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-772612",
+      "amount": 396.96
+    }
+  },
+  {
+    "reservation_id": 325,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-536822",
+      "amount": 328.15
+    }
+  },
+  {
+    "reservation_id": 326,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-672079",
+      "amount": 180.35
+    }
+  },
+  {
+    "reservation_id": 327,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-943776",
+      "amount": 413.31
+    }
+  },
+  {
+    "reservation_id": 328,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-176517",
+      "amount": 359.88
+    }
+  },
+  {
+    "reservation_id": 329,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-607774",
+      "amount": 259.0
+    }
+  },
+  {
+    "reservation_id": 330,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-853258",
+      "amount": 193.69
+    }
+  },
+  {
+    "reservation_id": 331,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-897615",
+      "amount": 216.74
+    }
+  },
+  {
+    "reservation_id": 332,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-353480",
+      "amount": 259.91
+    }
+  },
+  {
+    "reservation_id": 333,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-247720",
+      "amount": 93.57
+    }
+  },
+  {
+    "reservation_id": 334,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-538446",
+      "amount": 161.72
+    }
+  },
+  {
+    "reservation_id": 335,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-856157",
+      "amount": 190.72
+    }
+  },
+  {
+    "reservation_id": 336,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-589491",
+      "amount": 274.44
+    }
+  },
+  {
+    "reservation_id": 337,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-194423",
+      "amount": 475.35
+    }
+  },
+  {
+    "reservation_id": 338,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-325595",
+      "amount": 312.5
+    }
+  },
+  {
+    "reservation_id": 339,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-618934",
+      "amount": 318.88
+    }
+  },
+  {
+    "reservation_id": 340,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-108574",
+      "amount": 431.23
+    }
+  },
+  {
+    "reservation_id": 341,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-862847",
+      "amount": 214.6
+    }
+  },
+  {
+    "reservation_id": 342,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-520040",
+      "amount": 73.02
+    }
+  },
+  {
+    "reservation_id": 343,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-680096",
+      "amount": 179.87
+    }
+  },
+  {
+    "reservation_id": 344,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-393308",
+      "amount": 421.39
+    }
+  },
+  {
+    "reservation_id": 345,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-201377",
+      "amount": 227.26
+    }
+  },
+  {
+    "reservation_id": 346,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-308727",
+      "amount": 321.11
+    }
+  },
+  {
+    "reservation_id": 347,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-140804",
+      "amount": 111.67
+    }
+  },
+  {
+    "reservation_id": 348,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-579187",
+      "amount": 117.02
+    }
+  },
+  {
+    "reservation_id": 349,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-742848",
+      "amount": 193.34
+    }
+  },
+  {
+    "reservation_id": 350,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-452713",
+      "amount": 278.29
+    }
+  },
+  {
+    "reservation_id": 351,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-690268",
+      "amount": 184.91
+    }
+  },
+  {
+    "reservation_id": 352,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-806537",
+      "amount": 99.32
+    }
+  },
+  {
+    "reservation_id": 353,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-821466",
+      "amount": 333.17
+    }
+  },
+  {
+    "reservation_id": 354,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-787436",
+      "amount": 402.31
+    }
+  },
+  {
+    "reservation_id": 355,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-153849",
+      "amount": 312.59
+    }
+  },
+  {
+    "reservation_id": 356,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-961574",
+      "amount": 356.33
+    }
+  },
+  {
+    "reservation_id": 357,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-119857",
+      "amount": 248.47
+    }
+  },
+  {
+    "reservation_id": 358,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-824042",
+      "amount": 141.75
+    }
+  },
+  {
+    "reservation_id": 359,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-862736",
+      "amount": 78.03
+    }
+  },
+  {
+    "reservation_id": 360,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-440839",
+      "amount": 499.16
+    }
+  },
+  {
+    "reservation_id": 361,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-281594",
+      "amount": 256.85
+    }
+  },
+  {
+    "reservation_id": 362,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-471496",
+      "amount": 354.14
+    }
+  },
+  {
+    "reservation_id": 363,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-358494",
+      "amount": 175.55
+    }
+  },
+  {
+    "reservation_id": 364,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-908634",
+      "amount": 180.05
+    }
+  },
+  {
+    "reservation_id": 365,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-603110",
+      "amount": 206.96
+    }
+  },
+  {
+    "reservation_id": 366,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-701334",
+      "amount": 354.48
+    }
+  },
+  {
+    "reservation_id": 367,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-910616",
+      "amount": 412.08
+    }
+  },
+  {
+    "reservation_id": 368,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-848831",
+      "amount": 85.56
+    }
+  },
+  {
+    "reservation_id": 369,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-602351",
+      "amount": 146.29
+    }
+  },
+  {
+    "reservation_id": 370,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-829988",
+      "amount": 172.23
+    }
+  },
+  {
+    "reservation_id": 371,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-153231",
+      "amount": 351.43
+    }
+  },
+  {
+    "reservation_id": 372,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-344146",
+      "amount": 73.62
+    }
+  },
+  {
+    "reservation_id": 373,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-595351",
+      "amount": 95.25
+    }
+  },
+  {
+    "reservation_id": 374,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-265613",
+      "amount": 233.11
+    }
+  },
+  {
+    "reservation_id": 375,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-309144",
+      "amount": 390.16
+    }
+  },
+  {
+    "reservation_id": 376,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-777273",
+      "amount": 76.62
+    }
+  },
+  {
+    "reservation_id": 377,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-874568",
+      "amount": 375.4
+    }
+  },
+  {
+    "reservation_id": 378,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-978292",
+      "amount": 129.1
+    }
+  },
+  {
+    "reservation_id": 379,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-295361",
+      "amount": 471.47
+    }
+  },
+  {
+    "reservation_id": 380,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-412886",
+      "amount": 305.58
+    }
+  },
+  {
+    "reservation_id": 381,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-576419",
+      "amount": 495.09
+    }
+  },
+  {
+    "reservation_id": 382,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-992400",
+      "amount": 276.9
+    }
+  },
+  {
+    "reservation_id": 383,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-446747",
+      "amount": 123.12
+    }
+  },
+  {
+    "reservation_id": 384,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-295243",
+      "amount": 56.34
+    }
+  },
+  {
+    "reservation_id": 385,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-807160",
+      "amount": 390.78
+    }
+  },
+  {
+    "reservation_id": 386,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-640310",
+      "amount": 197.57
+    }
+  },
+  {
+    "reservation_id": 387,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-247442",
+      "amount": 264.85
+    }
+  },
+  {
+    "reservation_id": 388,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-502206",
+      "amount": 155.98
+    }
+  },
+  {
+    "reservation_id": 389,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-710754",
+      "amount": 375.3
+    }
+  },
+  {
+    "reservation_id": 390,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-477017",
+      "amount": 361.75
+    }
+  },
+  {
+    "reservation_id": 391,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-421709",
+      "amount": 121.87
+    }
+  },
+  {
+    "reservation_id": 392,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-223119",
+      "amount": 337.42
+    }
+  },
+  {
+    "reservation_id": 393,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-331577",
+      "amount": 148.61
+    }
+  },
+  {
+    "reservation_id": 394,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-577079",
+      "amount": 386.48
+    }
+  },
+  {
+    "reservation_id": 395,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-836038",
+      "amount": 297.16
+    }
+  },
+  {
+    "reservation_id": 396,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-813390",
+      "amount": 389.63
+    }
+  },
+  {
+    "reservation_id": 397,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-837952",
+      "amount": 212.8
+    }
+  },
+  {
+    "reservation_id": 398,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-969032",
+      "amount": 296.44
+    }
+  },
+  {
+    "reservation_id": 399,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-662728",
+      "amount": 117.43
+    }
+  },
+  {
+    "reservation_id": 400,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-813341",
+      "amount": 142.43
+    }
+  },
+  {
+    "reservation_id": 401,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-635167",
+      "amount": 250.47
+    }
+  },
+  {
+    "reservation_id": 402,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-638179",
+      "amount": 236.94
+    }
+  },
+  {
+    "reservation_id": 403,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-584838",
+      "amount": 352.75
+    }
+  },
+  {
+    "reservation_id": 404,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-366817",
+      "amount": 417.4
+    }
+  },
+  {
+    "reservation_id": 405,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-544278",
+      "amount": 205.04
+    }
+  },
+  {
+    "reservation_id": 406,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-595002",
+      "amount": 64.28
+    }
+  },
+  {
+    "reservation_id": 407,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-903028",
+      "amount": 338.69
+    }
+  },
+  {
+    "reservation_id": 408,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-570325",
+      "amount": 441.33
+    }
+  },
+  {
+    "reservation_id": 409,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-815894",
+      "amount": 483.86
+    }
+  },
+  {
+    "reservation_id": 410,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-464663",
+      "amount": 103.38
+    }
+  },
+  {
+    "reservation_id": 411,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-233533",
+      "amount": 377.54
+    }
+  },
+  {
+    "reservation_id": 412,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-412856",
+      "amount": 258.35
+    }
+  },
+  {
+    "reservation_id": 413,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-497700",
+      "amount": 420.51
+    }
+  },
+  {
+    "reservation_id": 414,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-262656",
+      "amount": 174.04
+    }
+  },
+  {
+    "reservation_id": 415,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-539605",
+      "amount": 326.72
+    }
+  },
+  {
+    "reservation_id": 416,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-170559",
+      "amount": 95.4
+    }
+  },
+  {
+    "reservation_id": 417,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-804667",
+      "amount": 366.48
+    }
+  },
+  {
+    "reservation_id": 418,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-146385",
+      "amount": 231.02
+    }
+  },
+  {
+    "reservation_id": 419,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-246942",
+      "amount": 276.75
+    }
+  },
+  {
+    "reservation_id": 420,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-704095",
+      "amount": 193.51
+    }
+  },
+  {
+    "reservation_id": 421,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-416422",
+      "amount": 444.32
+    }
+  },
+  {
+    "reservation_id": 422,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-415098",
+      "amount": 173.82
+    }
+  },
+  {
+    "reservation_id": 423,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-811721",
+      "amount": 242.24
+    }
+  },
+  {
+    "reservation_id": 424,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-774565",
+      "amount": 352.1
+    }
+  },
+  {
+    "reservation_id": 425,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-536548",
+      "amount": 233.72
+    }
+  },
+  {
+    "reservation_id": 426,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-891062",
+      "amount": 292.07
+    }
+  },
+  {
+    "reservation_id": 427,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-999197",
+      "amount": 368.41
+    }
+  },
+  {
+    "reservation_id": 428,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-532723",
+      "amount": 485.5
+    }
+  },
+  {
+    "reservation_id": 429,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-354655",
+      "amount": 164.75
+    }
+  },
+  {
+    "reservation_id": 430,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-988283",
+      "amount": 216.98
+    }
+  },
+  {
+    "reservation_id": 431,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-381502",
+      "amount": 219.73
+    }
+  },
+  {
+    "reservation_id": 432,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-297303",
+      "amount": 412.09
+    }
+  },
+  {
+    "reservation_id": 433,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-319036",
+      "amount": 441.26
+    }
+  },
+  {
+    "reservation_id": 434,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-322096",
+      "amount": 471.72
+    }
+  },
+  {
+    "reservation_id": 435,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-829417",
+      "amount": 321.98
+    }
+  },
+  {
+    "reservation_id": 436,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-678897",
+      "amount": 194.73
+    }
+  },
+  {
+    "reservation_id": 437,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-659572",
+      "amount": 341.92
+    }
+  },
+  {
+    "reservation_id": 438,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-637727",
+      "amount": 447.27
+    }
+  },
+  {
+    "reservation_id": 439,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-592296",
+      "amount": 392.73
+    }
+  },
+  {
+    "reservation_id": 440,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-428122",
+      "amount": 236.27
+    }
+  },
+  {
+    "reservation_id": 441,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-253011",
+      "amount": 57.3
+    }
+  },
+  {
+    "reservation_id": 442,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-259814",
+      "amount": 138.29
+    }
+  },
+  {
+    "reservation_id": 443,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-973844",
+      "amount": 160.58
+    }
+  },
+  {
+    "reservation_id": 444,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-900441",
+      "amount": 419.72
+    }
+  },
+  {
+    "reservation_id": 445,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-868367",
+      "amount": 407.74
+    }
+  },
+  {
+    "reservation_id": 446,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-673095",
+      "amount": 269.74
+    }
+  },
+  {
+    "reservation_id": 447,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-135466",
+      "amount": 427.58
+    }
+  },
+  {
+    "reservation_id": 448,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-532424",
+      "amount": 111.87
+    }
+  },
+  {
+    "reservation_id": 449,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-258366",
+      "amount": 54.11
+    }
+  },
+  {
+    "reservation_id": 450,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-163386",
+      "amount": 328.03
+    }
+  },
+  {
+    "reservation_id": 451,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-611552",
+      "amount": 57.08
+    }
+  },
+  {
+    "reservation_id": 452,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-117538",
+      "amount": 288.24
+    }
+  },
+  {
+    "reservation_id": 453,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-626611",
+      "amount": 415.92
+    }
+  },
+  {
+    "reservation_id": 454,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-200992",
+      "amount": 285.97
+    }
+  },
+  {
+    "reservation_id": 455,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-652029",
+      "amount": 163.59
+    }
+  },
+  {
+    "reservation_id": 456,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-182857",
+      "amount": 217.87
+    }
+  },
+  {
+    "reservation_id": 457,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-355021",
+      "amount": 495.6
+    }
+  },
+  {
+    "reservation_id": 458,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-968286",
+      "amount": 431.54
+    }
+  },
+  {
+    "reservation_id": 459,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-497687",
+      "amount": 219.73
+    }
+  },
+  {
+    "reservation_id": 460,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-109909",
+      "amount": 366.28
+    }
+  },
+  {
+    "reservation_id": 461,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-776234",
+      "amount": 402.97
+    }
+  },
+  {
+    "reservation_id": 462,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-144618",
+      "amount": 153.39
+    }
+  },
+  {
+    "reservation_id": 463,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-148823",
+      "amount": 465.87
+    }
+  },
+  {
+    "reservation_id": 464,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-991737",
+      "amount": 191.52
+    }
+  },
+  {
+    "reservation_id": 465,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-960778",
+      "amount": 229.23
+    }
+  },
+  {
+    "reservation_id": 466,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-691353",
+      "amount": 158.21
+    }
+  },
+  {
+    "reservation_id": 467,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-892313",
+      "amount": 382.89
+    }
+  },
+  {
+    "reservation_id": 468,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-202430",
+      "amount": 246.69
+    }
+  },
+  {
+    "reservation_id": 469,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-906360",
+      "amount": 326.24
+    }
+  },
+  {
+    "reservation_id": 470,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-131064",
+      "amount": 335.36
+    }
+  },
+  {
+    "reservation_id": 471,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-473095",
+      "amount": 298.87
+    }
+  },
+  {
+    "reservation_id": 472,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-812711",
+      "amount": 313.64
+    }
+  },
+  {
+    "reservation_id": 473,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-409727",
+      "amount": 409.12
+    }
+  },
+  {
+    "reservation_id": 474,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-261712",
+      "amount": 221.0
+    }
+  },
+  {
+    "reservation_id": 475,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-478221",
+      "amount": 97.95
+    }
+  },
+  {
+    "reservation_id": 476,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-477400",
+      "amount": 392.61
+    }
+  },
+  {
+    "reservation_id": 477,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-296494",
+      "amount": 243.94
+    }
+  },
+  {
+    "reservation_id": 478,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-127537",
+      "amount": 90.33
+    }
+  },
+  {
+    "reservation_id": 479,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-727094",
+      "amount": 403.0
+    }
+  },
+  {
+    "reservation_id": 480,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-533911",
+      "amount": 224.51
+    }
+  },
+  {
+    "reservation_id": 481,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-646417",
+      "amount": 126.31
+    }
+  },
+  {
+    "reservation_id": 482,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-381981",
+      "amount": 185.51
+    }
+  },
+  {
+    "reservation_id": 483,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-275329",
+      "amount": 245.6
+    }
+  },
+  {
+    "reservation_id": 484,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-920685",
+      "amount": 84.61
+    }
+  },
+  {
+    "reservation_id": 485,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-755395",
+      "amount": 273.11
+    }
+  },
+  {
+    "reservation_id": 486,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-212168",
+      "amount": 110.97
+    }
+  },
+  {
+    "reservation_id": 487,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-982495",
+      "amount": 329.09
+    }
+  },
+  {
+    "reservation_id": 488,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-551533",
+      "amount": 416.96
+    }
+  },
+  {
+    "reservation_id": 489,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-436241",
+      "amount": 321.45
+    }
+  },
+  {
+    "reservation_id": 490,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-286266",
+      "amount": 484.06
+    }
+  },
+  {
+    "reservation_id": 491,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-828716",
+      "amount": 334.81
+    }
+  },
+  {
+    "reservation_id": 492,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-494322",
+      "amount": 176.14
+    }
+  },
+  {
+    "reservation_id": 493,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-691240",
+      "amount": 139.91
+    }
+  },
+  {
+    "reservation_id": 494,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-904905",
+      "amount": 297.54
+    }
+  },
+  {
+    "reservation_id": 495,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-936433",
+      "amount": 181.1
+    }
+  },
+  {
+    "reservation_id": 496,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-623557",
+      "amount": 112.63
+    }
+  },
+  {
+    "reservation_id": 497,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-790658",
+      "amount": 119.36
+    }
+  },
+  {
+    "reservation_id": 498,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-570880",
+      "amount": 495.82
+    }
+  },
+  {
+    "reservation_id": 499,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-631221",
+      "amount": 465.57
+    }
+  },
+  {
+    "reservation_id": 500,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-835716",
+      "amount": 452.98
+    }
+  },
+  {
+    "reservation_id": 501,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-906306",
+      "amount": 161.7
+    }
+  },
+  {
+    "reservation_id": 502,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-742439",
+      "amount": 69.93
+    }
+  },
+  {
+    "reservation_id": 503,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-211090",
+      "amount": 54.75
+    }
+  },
+  {
+    "reservation_id": 504,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-883132",
+      "amount": 283.46
+    }
+  },
+  {
+    "reservation_id": 505,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-492292",
+      "amount": 226.01
+    }
+  },
+  {
+    "reservation_id": 506,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-125755",
+      "amount": 267.25
+    }
+  },
+  {
+    "reservation_id": 507,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-221707",
+      "amount": 424.09
+    }
+  },
+  {
+    "reservation_id": 508,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-459731",
+      "amount": 254.9
+    }
+  },
+  {
+    "reservation_id": 509,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-599292",
+      "amount": 93.93
+    }
+  },
+  {
+    "reservation_id": 510,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-414849",
+      "amount": 70.11
+    }
+  },
+  {
+    "reservation_id": 511,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-779445",
+      "amount": 99.21
+    }
+  },
+  {
+    "reservation_id": 512,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-282927",
+      "amount": 298.36
+    }
+  },
+  {
+    "reservation_id": 513,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-343118",
+      "amount": 408.99
+    }
+  },
+  {
+    "reservation_id": 514,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-789237",
+      "amount": 244.46
+    }
+  },
+  {
+    "reservation_id": 515,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-720970",
+      "amount": 243.3
+    }
+  },
+  {
+    "reservation_id": 516,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-391865",
+      "amount": 388.55
+    }
+  },
+  {
+    "reservation_id": 517,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-296041",
+      "amount": 214.61
+    }
+  },
+  {
+    "reservation_id": 518,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-375097",
+      "amount": 351.82
+    }
+  },
+  {
+    "reservation_id": 519,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-507517",
+      "amount": 325.09
+    }
+  },
+  {
+    "reservation_id": 520,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-469082",
+      "amount": 430.48
+    }
+  },
+  {
+    "reservation_id": 521,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-840282",
+      "amount": 410.28
+    }
+  },
+  {
+    "reservation_id": 522,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-240454",
+      "amount": 190.93
+    }
+  },
+  {
+    "reservation_id": 523,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-291936",
+      "amount": 217.99
+    }
+  },
+  {
+    "reservation_id": 524,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-725397",
+      "amount": 112.04
+    }
+  },
+  {
+    "reservation_id": 525,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-610310",
+      "amount": 335.98
+    }
+  },
+  {
+    "reservation_id": 526,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-402865",
+      "amount": 113.13
+    }
+  },
+  {
+    "reservation_id": 527,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-156215",
+      "amount": 439.49
+    }
+  },
+  {
+    "reservation_id": 528,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-304607",
+      "amount": 416.85
+    }
+  },
+  {
+    "reservation_id": 529,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-817956",
+      "amount": 271.28
+    }
+  },
+  {
+    "reservation_id": 530,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-186686",
+      "amount": 304.43
+    }
+  },
+  {
+    "reservation_id": 531,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-388204",
+      "amount": 151.18
+    }
+  },
+  {
+    "reservation_id": 532,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-693127",
+      "amount": 384.13
+    }
+  },
+  {
+    "reservation_id": 533,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-219754",
+      "amount": 170.55
+    }
+  },
+  {
+    "reservation_id": 534,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-962570",
+      "amount": 390.55
+    }
+  },
+  {
+    "reservation_id": 535,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-207391",
+      "amount": 381.19
+    }
+  },
+  {
+    "reservation_id": 536,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-571578",
+      "amount": 168.27
+    }
+  },
+  {
+    "reservation_id": 537,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-913308",
+      "amount": 415.35
+    }
+  },
+  {
+    "reservation_id": 538,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-739905",
+      "amount": 334.75
+    }
+  },
+  {
+    "reservation_id": 539,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-953047",
+      "amount": 143.12
+    }
+  },
+  {
+    "reservation_id": 540,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-394739",
+      "amount": 318.59
+    }
+  },
+  {
+    "reservation_id": 541,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-406849",
+      "amount": 180.2
+    }
+  },
+  {
+    "reservation_id": 542,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-886530",
+      "amount": 403.56
+    }
+  },
+  {
+    "reservation_id": 543,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-233051",
+      "amount": 365.64
+    }
+  },
+  {
+    "reservation_id": 544,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-845951",
+      "amount": 194.94
+    }
+  },
+  {
+    "reservation_id": 545,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-249077",
+      "amount": 309.84
+    }
+  },
+  {
+    "reservation_id": 546,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-573947",
+      "amount": 83.98
+    }
+  },
+  {
+    "reservation_id": 547,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-886224",
+      "amount": 175.2
+    }
+  },
+  {
+    "reservation_id": 548,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-443187",
+      "amount": 311.88
+    }
+  },
+  {
+    "reservation_id": 549,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-796405",
+      "amount": 363.78
+    }
+  },
+  {
+    "reservation_id": 550,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-550513",
+      "amount": 421.18
+    }
+  },
+  {
+    "reservation_id": 551,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-968581",
+      "amount": 177.62
+    }
+  },
+  {
+    "reservation_id": 552,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-993829",
+      "amount": 268.4
+    }
+  },
+  {
+    "reservation_id": 553,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-204411",
+      "amount": 331.78
+    }
+  },
+  {
+    "reservation_id": 554,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-999312",
+      "amount": 121.09
+    }
+  },
+  {
+    "reservation_id": 555,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-312146",
+      "amount": 498.06
+    }
+  },
+  {
+    "reservation_id": 556,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-387330",
+      "amount": 92.0
+    }
+  },
+  {
+    "reservation_id": 557,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-489906",
+      "amount": 349.03
+    }
+  },
+  {
+    "reservation_id": 558,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-755993",
+      "amount": 187.48
+    }
+  },
+  {
+    "reservation_id": 559,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-195629",
+      "amount": 366.66
+    }
+  },
+  {
+    "reservation_id": 560,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-181724",
+      "amount": 109.71
+    }
+  },
+  {
+    "reservation_id": 561,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-108454",
+      "amount": 363.02
+    }
+  },
+  {
+    "reservation_id": 562,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-238595",
+      "amount": 264.97
+    }
+  },
+  {
+    "reservation_id": 563,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-866260",
+      "amount": 412.68
+    }
+  },
+  {
+    "reservation_id": 564,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-413791",
+      "amount": 111.71
+    }
+  },
+  {
+    "reservation_id": 565,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-656278",
+      "amount": 303.48
+    }
+  },
+  {
+    "reservation_id": 566,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-468247",
+      "amount": 375.09
+    }
+  },
+  {
+    "reservation_id": 567,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-819916",
+      "amount": 249.07
+    }
+  },
+  {
+    "reservation_id": 568,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-246814",
+      "amount": 388.6
+    }
+  },
+  {
+    "reservation_id": 569,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-550246",
+      "amount": 191.53
+    }
+  },
+  {
+    "reservation_id": 570,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-775933",
+      "amount": 87.91
+    }
+  },
+  {
+    "reservation_id": 571,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-128127",
+      "amount": 431.55
+    }
+  },
+  {
+    "reservation_id": 572,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-736408",
+      "amount": 279.29
+    }
+  },
+  {
+    "reservation_id": 573,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-157219",
+      "amount": 402.71
+    }
+  },
+  {
+    "reservation_id": 574,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-218220",
+      "amount": 158.49
+    }
+  },
+  {
+    "reservation_id": 575,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-112653",
+      "amount": 494.1
+    }
+  },
+  {
+    "reservation_id": 576,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-979727",
+      "amount": 305.77
+    }
+  },
+  {
+    "reservation_id": 577,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-907788",
+      "amount": 82.85
+    }
+  },
+  {
+    "reservation_id": 578,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-374921",
+      "amount": 147.08
+    }
+  },
+  {
+    "reservation_id": 579,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-400404",
+      "amount": 332.86
+    }
+  },
+  {
+    "reservation_id": 580,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-835901",
+      "amount": 231.02
+    }
+  },
+  {
+    "reservation_id": 581,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-187657",
+      "amount": 189.46
+    }
+  },
+  {
+    "reservation_id": 582,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-662445",
+      "amount": 197.04
+    }
+  },
+  {
+    "reservation_id": 583,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-832614",
+      "amount": 246.87
+    }
+  },
+  {
+    "reservation_id": 584,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-190400",
+      "amount": 466.08
+    }
+  },
+  {
+    "reservation_id": 585,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-738407",
+      "amount": 74.76
+    }
+  },
+  {
+    "reservation_id": 586,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-842287",
+      "amount": 111.75
+    }
+  },
+  {
+    "reservation_id": 587,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-463546",
+      "amount": 285.35
+    }
+  },
+  {
+    "reservation_id": 588,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-233096",
+      "amount": 387.4
+    }
+  },
+  {
+    "reservation_id": 589,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-451284",
+      "amount": 413.2
+    }
+  },
+  {
+    "reservation_id": 590,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-846925",
+      "amount": 488.77
+    }
+  },
+  {
+    "reservation_id": 591,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-635593",
+      "amount": 212.06
+    }
+  },
+  {
+    "reservation_id": 592,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-264951",
+      "amount": 164.8
+    }
+  },
+  {
+    "reservation_id": 593,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-876764",
+      "amount": 278.97
+    }
+  },
+  {
+    "reservation_id": 594,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-148215",
+      "amount": 262.29
+    }
+  },
+  {
+    "reservation_id": 595,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-999138",
+      "amount": 65.91
+    }
+  },
+  {
+    "reservation_id": 596,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-360322",
+      "amount": 237.32
+    }
+  },
+  {
+    "reservation_id": 597,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-699298",
+      "amount": 217.76
+    }
+  },
+  {
+    "reservation_id": 598,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-334026",
+      "amount": 411.95
+    }
+  },
+  {
+    "reservation_id": 599,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-587686",
+      "amount": 439.71
+    }
+  },
+  {
+    "reservation_id": 600,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-679958",
+      "amount": 255.54
+    }
+  },
+  {
+    "reservation_id": 601,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-691194",
+      "amount": 403.03
+    }
+  },
+  {
+    "reservation_id": 602,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-486162",
+      "amount": 316.26
+    }
+  },
+  {
+    "reservation_id": 603,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-673108",
+      "amount": 392.22
+    }
+  },
+  {
+    "reservation_id": 604,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-529954",
+      "amount": 60.76
+    }
+  },
+  {
+    "reservation_id": 605,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-980357",
+      "amount": 362.06
+    }
+  },
+  {
+    "reservation_id": 606,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-895794",
+      "amount": 345.79
+    }
+  },
+  {
+    "reservation_id": 607,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-655550",
+      "amount": 492.4
+    }
+  },
+  {
+    "reservation_id": 608,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-249289",
+      "amount": 370.24
+    }
+  },
+  {
+    "reservation_id": 609,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-986575",
+      "amount": 283.89
+    }
+  },
+  {
+    "reservation_id": 610,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-189026",
+      "amount": 311.35
+    }
+  },
+  {
+    "reservation_id": 611,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-959793",
+      "amount": 227.46
+    }
+  },
+  {
+    "reservation_id": 612,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-794622",
+      "amount": 483.9
+    }
+  },
+  {
+    "reservation_id": 613,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-992247",
+      "amount": 191.75
+    }
+  },
+  {
+    "reservation_id": 614,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-574751",
+      "amount": 172.38
+    }
+  },
+  {
+    "reservation_id": 615,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-917823",
+      "amount": 396.57
+    }
+  },
+  {
+    "reservation_id": 616,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-272359",
+      "amount": 252.31
+    }
+  },
+  {
+    "reservation_id": 617,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-661957",
+      "amount": 211.23
+    }
+  },
+  {
+    "reservation_id": 618,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-585854",
+      "amount": 169.25
+    }
+  },
+  {
+    "reservation_id": 619,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-946826",
+      "amount": 358.72
+    }
+  },
+  {
+    "reservation_id": 620,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-976530",
+      "amount": 435.46
+    }
+  },
+  {
+    "reservation_id": 621,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-360276",
+      "amount": 485.78
+    }
+  },
+  {
+    "reservation_id": 622,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-413357",
+      "amount": 167.08
+    }
+  },
+  {
+    "reservation_id": 623,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-996114",
+      "amount": 253.49
+    }
+  },
+  {
+    "reservation_id": 624,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-584487",
+      "amount": 95.86
+    }
+  },
+  {
+    "reservation_id": 625,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-164664",
+      "amount": 423.67
+    }
+  },
+  {
+    "reservation_id": 626,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-963684",
+      "amount": 230.26
+    }
+  },
+  {
+    "reservation_id": 627,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-122859",
+      "amount": 498.72
+    }
+  },
+  {
+    "reservation_id": 628,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-196446",
+      "amount": 457.29
+    }
+  },
+  {
+    "reservation_id": 629,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-583388",
+      "amount": 72.79
+    }
+  },
+  {
+    "reservation_id": 630,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-514186",
+      "amount": 273.26
+    }
+  },
+  {
+    "reservation_id": 631,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-471136",
+      "amount": 146.62
+    }
+  },
+  {
+    "reservation_id": 632,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-567676",
+      "amount": 447.54
+    }
+  },
+  {
+    "reservation_id": 633,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-409440",
+      "amount": 274.5
+    }
+  },
+  {
+    "reservation_id": 634,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-191982",
+      "amount": 175.9
+    }
+  },
+  {
+    "reservation_id": 635,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-773870",
+      "amount": 448.09
+    }
+  },
+  {
+    "reservation_id": 636,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-941134",
+      "amount": 294.65
+    }
+  },
+  {
+    "reservation_id": 637,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-476556",
+      "amount": 265.86
+    }
+  },
+  {
+    "reservation_id": 638,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-626797",
+      "amount": 194.72
+    }
+  },
+  {
+    "reservation_id": 639,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-434367",
+      "amount": 318.7
+    }
+  },
+  {
+    "reservation_id": 640,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-947935",
+      "amount": 496.19
+    }
+  },
+  {
+    "reservation_id": 641,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-344068",
+      "amount": 488.29
+    }
+  },
+  {
+    "reservation_id": 642,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-352867",
+      "amount": 169.94
+    }
+  },
+  {
+    "reservation_id": 643,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-987624",
+      "amount": 492.2
+    }
+  },
+  {
+    "reservation_id": 644,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-284654",
+      "amount": 156.45
+    }
+  },
+  {
+    "reservation_id": 645,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-129576",
+      "amount": 366.55
+    }
+  },
+  {
+    "reservation_id": 646,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-297377",
+      "amount": 426.51
+    }
+  },
+  {
+    "reservation_id": 647,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-614259",
+      "amount": 67.08
+    }
+  },
+  {
+    "reservation_id": 648,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-329437",
+      "amount": 58.97
+    }
+  },
+  {
+    "reservation_id": 649,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-743966",
+      "amount": 140.66
+    }
+  },
+  {
+    "reservation_id": 650,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-286080",
+      "amount": 463.45
+    }
+  },
+  {
+    "reservation_id": 651,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-254887",
+      "amount": 313.97
+    }
+  },
+  {
+    "reservation_id": 652,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-482614",
+      "amount": 482.25
+    }
+  },
+  {
+    "reservation_id": 653,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-205939",
+      "amount": 201.45
+    }
+  },
+  {
+    "reservation_id": 654,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-867926",
+      "amount": 476.91
+    }
+  },
+  {
+    "reservation_id": 655,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-841535",
+      "amount": 485.93
+    }
+  },
+  {
+    "reservation_id": 656,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-797860",
+      "amount": 315.03
+    }
+  },
+  {
+    "reservation_id": 657,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-869649",
+      "amount": 359.82
+    }
+  },
+  {
+    "reservation_id": 658,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-101885",
+      "amount": 476.95
+    }
+  },
+  {
+    "reservation_id": 659,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-133955",
+      "amount": 131.94
+    }
+  },
+  {
+    "reservation_id": 660,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-693022",
+      "amount": 96.85
+    }
+  },
+  {
+    "reservation_id": 661,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-881549",
+      "amount": 85.01
+    }
+  },
+  {
+    "reservation_id": 662,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-767090",
+      "amount": 448.39
+    }
+  },
+  {
+    "reservation_id": 663,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-111949",
+      "amount": 169.35
+    }
+  },
+  {
+    "reservation_id": 664,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-369125",
+      "amount": 404.16
+    }
+  },
+  {
+    "reservation_id": 665,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-559507",
+      "amount": 379.66
+    }
+  },
+  {
+    "reservation_id": 666,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-497108",
+      "amount": 208.05
+    }
+  },
+  {
+    "reservation_id": 667,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-927043",
+      "amount": 438.82
+    }
+  },
+  {
+    "reservation_id": 668,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-177289",
+      "amount": 409.64
+    }
+  },
+  {
+    "reservation_id": 669,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TRF-434198",
+      "amount": 167.51
+    }
+  },
+  {
+    "reservation_id": 670,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-278368",
+      "amount": 449.57
+    }
+  },
+  {
+    "reservation_id": 671,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-197627",
+      "amount": 202.08
+    }
+  },
+  {
+    "reservation_id": 672,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-132498",
+      "amount": 244.1
+    }
+  },
+  {
+    "reservation_id": 673,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-156157",
+      "amount": 95.57
+    }
+  },
+  {
+    "reservation_id": 674,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-831063",
+      "amount": 299.35
+    }
+  },
+  {
+    "reservation_id": 675,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-395198",
+      "amount": 183.83
+    }
+  },
+  {
+    "reservation_id": 676,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-699544",
+      "amount": 297.35
+    }
+  },
+  {
+    "reservation_id": 677,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-478356",
+      "amount": 51.72
+    }
+  },
+  {
+    "reservation_id": 678,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-755455",
+      "amount": 320.1
+    }
+  },
+  {
+    "reservation_id": 679,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-317005",
+      "amount": 126.87
+    }
+  },
+  {
+    "reservation_id": 680,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-984756",
+      "amount": 101.98
+    }
+  },
+  {
+    "reservation_id": 681,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-793150",
+      "amount": 169.25
+    }
+  },
+  {
+    "reservation_id": 682,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-489043",
+      "amount": 448.47
+    }
+  },
+  {
+    "reservation_id": 683,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-146784",
+      "amount": 168.48
+    }
+  },
+  {
+    "reservation_id": 684,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-977740",
+      "amount": 170.85
+    }
+  },
+  {
+    "reservation_id": 685,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-799891",
+      "amount": 93.52
+    }
+  },
+  {
+    "reservation_id": 686,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-338564",
+      "amount": 299.12
+    }
+  },
+  {
+    "reservation_id": 687,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-820442",
+      "amount": 440.1
+    }
+  },
+  {
+    "reservation_id": 688,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-413369",
+      "amount": 85.53
+    }
+  },
+  {
+    "reservation_id": 689,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-893969",
+      "amount": 252.07
+    }
+  },
+  {
+    "reservation_id": 690,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-232315",
+      "amount": 69.2
+    }
+  },
+  {
+    "reservation_id": 691,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-962520",
+      "amount": 332.25
+    }
+  },
+  {
+    "reservation_id": 692,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-862422",
+      "amount": 461.38
+    }
+  },
+  {
+    "reservation_id": 693,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-683390",
+      "amount": 228.81
+    }
+  },
+  {
+    "reservation_id": 694,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-580412",
+      "amount": 462.72
+    }
+  },
+  {
+    "reservation_id": 695,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-534574",
+      "amount": 117.34
+    }
+  },
+  {
+    "reservation_id": 696,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-690016",
+      "amount": 400.8
+    }
+  },
+  {
+    "reservation_id": 697,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-376967",
+      "amount": 222.37
+    }
+  },
+  {
+    "reservation_id": 698,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-280564",
+      "amount": 173.94
+    }
+  },
+  {
+    "reservation_id": 699,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-515018",
+      "amount": 450.31
+    }
+  },
+  {
+    "reservation_id": 700,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-881975",
+      "amount": 263.85
+    }
+  },
+  {
+    "reservation_id": 701,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-454278",
+      "amount": 417.82
+    }
+  },
+  {
+    "reservation_id": 702,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-983788",
+      "amount": 271.23
+    }
+  },
+  {
+    "reservation_id": 703,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-415076",
+      "amount": 488.4
+    }
+  },
+  {
+    "reservation_id": 704,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-864201",
+      "amount": 237.55
+    }
+  },
+  {
+    "reservation_id": 705,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-321659",
+      "amount": 461.04
+    }
+  },
+  {
+    "reservation_id": 706,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-492073",
+      "amount": 419.46
+    }
+  },
+  {
+    "reservation_id": 707,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-426236",
+      "amount": 369.31
+    }
+  },
+  {
+    "reservation_id": 708,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-696296",
+      "amount": 63.03
+    }
+  },
+  {
+    "reservation_id": 709,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-361609",
+      "amount": 64.88
+    }
+  },
+  {
+    "reservation_id": 710,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-308781",
+      "amount": 173.29
+    }
+  },
+  {
+    "reservation_id": 711,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-229890",
+      "amount": 356.53
+    }
+  },
+  {
+    "reservation_id": 712,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-722899",
+      "amount": 250.75
+    }
+  },
+  {
+    "reservation_id": 713,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-271456",
+      "amount": 426.94
+    }
+  },
+  {
+    "reservation_id": 714,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-128783",
+      "amount": 223.95
+    }
+  },
+  {
+    "reservation_id": 715,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-778827",
+      "amount": 151.3
+    }
+  },
+  {
+    "reservation_id": 716,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-529399",
+      "amount": 280.98
+    }
+  },
+  {
+    "reservation_id": 717,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-778818",
+      "amount": 127.94
+    }
+  },
+  {
+    "reservation_id": 718,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-737894",
+      "amount": 412.29
+    }
+  },
+  {
+    "reservation_id": 719,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-494763",
+      "amount": 433.21
+    }
+  },
+  {
+    "reservation_id": 720,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-589368",
+      "amount": 185.97
+    }
+  },
+  {
+    "reservation_id": 721,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-207282",
+      "amount": 53.31
+    }
+  },
+  {
+    "reservation_id": 722,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-817659",
+      "amount": 98.65
+    }
+  },
+  {
+    "reservation_id": 723,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-771712",
+      "amount": 196.31
+    }
+  },
+  {
+    "reservation_id": 724,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-845635",
+      "amount": 478.48
+    }
+  },
+  {
+    "reservation_id": 725,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-642421",
+      "amount": 394.46
+    }
+  },
+  {
+    "reservation_id": 726,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-435109",
+      "amount": 356.34
+    }
+  },
+  {
+    "reservation_id": 727,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-372028",
+      "amount": 458.11
+    }
+  },
+  {
+    "reservation_id": 728,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-137034",
+      "amount": 312.36
+    }
+  },
+  {
+    "reservation_id": 729,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-861842",
+      "amount": 371.02
+    }
+  },
+  {
+    "reservation_id": 730,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-475911",
+      "amount": 278.29
+    }
+  },
+  {
+    "reservation_id": 731,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-202344",
+      "amount": 261.85
+    }
+  },
+  {
+    "reservation_id": 732,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-451936",
+      "amount": 344.5
+    }
+  },
+  {
+    "reservation_id": 733,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-880360",
+      "amount": 442.14
+    }
+  },
+  {
+    "reservation_id": 734,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-373216",
+      "amount": 313.51
+    }
+  },
+  {
+    "reservation_id": 735,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-156284",
+      "amount": 439.88
+    }
+  },
+  {
+    "reservation_id": 736,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-303993",
+      "amount": 275.21
+    }
+  },
+  {
+    "reservation_id": 737,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-156688",
+      "amount": 441.88
+    }
+  },
+  {
+    "reservation_id": 738,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-459315",
+      "amount": 234.14
+    }
+  },
+  {
+    "reservation_id": 739,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-431752",
+      "amount": 438.08
+    }
+  },
+  {
+    "reservation_id": 740,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-448787",
+      "amount": 333.96
+    }
+  },
+  {
+    "reservation_id": 741,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-160831",
+      "amount": 52.12
+    }
+  },
+  {
+    "reservation_id": 742,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-704272",
+      "amount": 394.02
+    }
+  },
+  {
+    "reservation_id": 743,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-744328",
+      "amount": 245.17
+    }
+  },
+  {
+    "reservation_id": 744,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-600590",
+      "amount": 222.49
+    }
+  },
+  {
+    "reservation_id": 745,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-491225",
+      "amount": 477.53
+    }
+  },
+  {
+    "reservation_id": 746,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-809621",
+      "amount": 51.86
+    }
+  },
+  {
+    "reservation_id": 747,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-461076",
+      "amount": 190.44
+    }
+  },
+  {
+    "reservation_id": 748,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-717265",
+      "amount": 187.75
+    }
+  },
+  {
+    "reservation_id": 749,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-404955",
+      "amount": 255.17
+    }
+  },
+  {
+    "reservation_id": 750,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-820141",
+      "amount": 497.96
+    }
+  },
+  {
+    "reservation_id": 751,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-886553",
+      "amount": 134.79
+    }
+  },
+  {
+    "reservation_id": 752,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-335217",
+      "amount": 377.23
+    }
+  },
+  {
+    "reservation_id": 753,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-122977",
+      "amount": 315.36
+    }
+  },
+  {
+    "reservation_id": 754,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-845652",
+      "amount": 342.74
+    }
+  },
+  {
+    "reservation_id": 755,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-368214",
+      "amount": 397.06
+    }
+  },
+  {
+    "reservation_id": 756,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-150290",
+      "amount": 347.89
+    }
+  },
+  {
+    "reservation_id": 757,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-221414",
+      "amount": 237.55
+    }
+  },
+  {
+    "reservation_id": 758,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-365015",
+      "amount": 263.48
+    }
+  },
+  {
+    "reservation_id": 759,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-819050",
+      "amount": 333.64
+    }
+  },
+  {
+    "reservation_id": 760,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-205885",
+      "amount": 348.12
+    }
+  },
+  {
+    "reservation_id": 761,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-971002",
+      "amount": 454.38
+    }
+  },
+  {
+    "reservation_id": 762,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-219550",
+      "amount": 403.14
+    }
+  },
+  {
+    "reservation_id": 763,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-309452",
+      "amount": 400.08
+    }
+  },
+  {
+    "reservation_id": 764,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-837606",
+      "amount": 234.39
+    }
+  },
+  {
+    "reservation_id": 765,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-620465",
+      "amount": 459.66
+    }
+  },
+  {
+    "reservation_id": 766,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-102871",
+      "amount": 55.74
+    }
+  },
+  {
+    "reservation_id": 767,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-801520",
+      "amount": 272.35
+    }
+  },
+  {
+    "reservation_id": 768,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-858724",
+      "amount": 95.58
+    }
+  },
+  {
+    "reservation_id": 769,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-410401",
+      "amount": 168.86
+    }
+  },
+  {
+    "reservation_id": 770,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-141360",
+      "amount": 433.51
+    }
+  },
+  {
+    "reservation_id": 771,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-874415",
+      "amount": 102.16
+    }
+  },
+  {
+    "reservation_id": 772,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-795578",
+      "amount": 341.24
+    }
+  },
+  {
+    "reservation_id": 773,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-752011",
+      "amount": 170.74
+    }
+  },
+  {
+    "reservation_id": 774,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-291752",
+      "amount": 101.22
+    }
+  },
+  {
+    "reservation_id": 775,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-976303",
+      "amount": 223.57
+    }
+  },
+  {
+    "reservation_id": 776,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-935620",
+      "amount": 125.05
+    }
+  },
+  {
+    "reservation_id": 777,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-208751",
+      "amount": 237.21
+    }
+  },
+  {
+    "reservation_id": 778,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-811346",
+      "amount": 247.17
+    }
+  },
+  {
+    "reservation_id": 779,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-741055",
+      "amount": 62.97
+    }
+  },
+  {
+    "reservation_id": 780,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-218423",
+      "amount": 449.42
+    }
+  },
+  {
+    "reservation_id": 781,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-374320",
+      "amount": 344.74
+    }
+  },
+  {
+    "reservation_id": 782,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-454733",
+      "amount": 283.59
+    }
+  },
+  {
+    "reservation_id": 783,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-793856",
+      "amount": 376.99
+    }
+  },
+  {
+    "reservation_id": 784,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-809147",
+      "amount": 338.63
+    }
+  },
+  {
+    "reservation_id": 785,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-774652",
+      "amount": 470.47
+    }
+  },
+  {
+    "reservation_id": 786,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-273438",
+      "amount": 83.69
+    }
+  },
+  {
+    "reservation_id": 787,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-446968",
+      "amount": 486.57
+    }
+  },
+  {
+    "reservation_id": 788,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-774567",
+      "amount": 220.39
+    }
+  },
+  {
+    "reservation_id": 789,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-565765",
+      "amount": 410.57
+    }
+  },
+  {
+    "reservation_id": 790,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-568784",
+      "amount": 192.23
+    }
+  },
+  {
+    "reservation_id": 791,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-523037",
+      "amount": 235.55
+    }
+  },
+  {
+    "reservation_id": 792,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TRF-930244",
+      "amount": 321.89
+    }
+  },
+  {
+    "reservation_id": 793,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-689648",
+      "amount": 143.08
+    }
+  },
+  {
+    "reservation_id": 794,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-965401",
+      "amount": 74.42
+    }
+  },
+  {
+    "reservation_id": 795,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-687360",
+      "amount": 395.34
+    }
+  },
+  {
+    "reservation_id": 796,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-789089",
+      "amount": 213.48
+    }
+  },
+  {
+    "reservation_id": 797,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-896204",
+      "amount": 346.51
+    }
+  },
+  {
+    "reservation_id": 798,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-970196",
+      "amount": 335.15
+    }
+  },
+  {
+    "reservation_id": 799,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-211486",
+      "amount": 70.6
+    }
+  },
+  {
+    "reservation_id": 800,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-961760",
+      "amount": 372.59
+    }
+  },
+  {
+    "reservation_id": 801,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-740524",
+      "amount": 138.16
+    }
+  },
+  {
+    "reservation_id": 802,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-579247",
+      "amount": 421.05
+    }
+  },
+  {
+    "reservation_id": 803,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-893928",
+      "amount": 236.51
+    }
+  },
+  {
+    "reservation_id": 804,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-579605",
+      "amount": 346.31
+    }
+  },
+  {
+    "reservation_id": 805,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-104548",
+      "amount": 288.66
+    }
+  },
+  {
+    "reservation_id": 806,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-606390",
+      "amount": 465.97
+    }
+  },
+  {
+    "reservation_id": 807,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-954845",
+      "amount": 107.77
+    }
+  },
+  {
+    "reservation_id": 808,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-503348",
+      "amount": 238.4
+    }
+  },
+  {
+    "reservation_id": 809,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-517196",
+      "amount": 483.62
+    }
+  },
+  {
+    "reservation_id": 810,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-244892",
+      "amount": 235.74
+    }
+  },
+  {
+    "reservation_id": 811,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-674416",
+      "amount": 437.32
+    }
+  },
+  {
+    "reservation_id": 812,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-319899",
+      "amount": 330.88
+    }
+  },
+  {
+    "reservation_id": 813,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-239116",
+      "amount": 491.6
+    }
+  },
+  {
+    "reservation_id": 814,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-221011",
+      "amount": 392.35
+    }
+  },
+  {
+    "reservation_id": 815,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-698357",
+      "amount": 474.2
+    }
+  },
+  {
+    "reservation_id": 816,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-947568",
+      "amount": 55.75
+    }
+  },
+  {
+    "reservation_id": 817,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "EFEC-252386",
+      "amount": 73.88
+    }
+  },
+  {
+    "reservation_id": 818,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-886626",
+      "amount": 403.49
+    }
+  },
+  {
+    "reservation_id": 819,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TRF-980155",
+      "amount": 77.91
+    }
+  },
+  {
+    "reservation_id": 820,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-133875",
+      "amount": 211.41
+    }
+  },
+  {
+    "reservation_id": 821,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-808340",
+      "amount": 382.77
+    }
+  },
+  {
+    "reservation_id": 822,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-635740",
+      "amount": 402.94
+    }
+  },
+  {
+    "reservation_id": 823,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-506380",
+      "amount": 237.45
+    }
+  },
+  {
+    "reservation_id": 824,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-879794",
+      "amount": 163.1
+    }
+  },
+  {
+    "reservation_id": 825,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-764575",
+      "amount": 367.08
+    }
+  },
+  {
+    "reservation_id": 826,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-302897",
+      "amount": 182.38
+    }
+  },
+  {
+    "reservation_id": 827,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-282237",
+      "amount": 380.79
+    }
+  },
+  {
+    "reservation_id": 828,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TRF-549323",
+      "amount": 175.6
+    }
+  },
+  {
+    "reservation_id": 829,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-712353",
+      "amount": 430.71
+    }
+  },
+  {
+    "reservation_id": 830,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-844163",
+      "amount": 471.87
+    }
+  },
+  {
+    "reservation_id": 831,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-725874",
+      "amount": 72.88
+    }
+  },
+  {
+    "reservation_id": 832,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-928278",
+      "amount": 307.7
+    }
+  },
+  {
+    "reservation_id": 833,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-433299",
+      "amount": 286.43
+    }
+  },
+  {
+    "reservation_id": 834,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-267112",
+      "amount": 237.17
+    }
+  },
+  {
+    "reservation_id": 835,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-466375",
+      "amount": 149.54
+    }
+  },
+  {
+    "reservation_id": 836,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-478323",
+      "amount": 182.11
+    }
+  },
+  {
+    "reservation_id": 837,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-963699",
+      "amount": 388.46
+    }
+  },
+  {
+    "reservation_id": 838,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-462814",
+      "amount": 250.55
+    }
+  },
+  {
+    "reservation_id": 839,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-815706",
+      "amount": 448.55
+    }
+  },
+  {
+    "reservation_id": 840,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "EFEC-369054",
+      "amount": 293.11
+    }
+  },
+  {
+    "reservation_id": 841,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-962043",
+      "amount": 396.72
+    }
+  },
+  {
+    "reservation_id": 842,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-145981",
+      "amount": 183.4
+    }
+  },
+  {
+    "reservation_id": 843,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-186345",
+      "amount": 476.7
+    }
+  },
+  {
+    "reservation_id": 844,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-168652",
+      "amount": 144.85
+    }
+  },
+  {
+    "reservation_id": 845,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-315565",
+      "amount": 291.99
+    }
+  },
+  {
+    "reservation_id": 846,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-819368",
+      "amount": 119.19
+    }
+  },
+  {
+    "reservation_id": 847,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-191772",
+      "amount": 82.96
+    }
+  },
+  {
+    "reservation_id": 848,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TARJ-173863",
+      "amount": 308.73
+    }
+  },
+  {
+    "reservation_id": 849,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-506881",
+      "amount": 253.01
+    }
+  },
+  {
+    "reservation_id": 850,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-117711",
+      "amount": 225.28
+    }
+  },
+  {
+    "reservation_id": 851,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-855274",
+      "amount": 328.26
+    }
+  },
+  {
+    "reservation_id": 852,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-989455",
+      "amount": 82.67
+    }
+  },
+  {
+    "reservation_id": 853,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-925115",
+      "amount": 358.65
+    }
+  },
+  {
+    "reservation_id": 854,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-902448",
+      "amount": 467.01
+    }
+  },
+  {
+    "reservation_id": 855,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-132316",
+      "amount": 263.29
+    }
+  },
+  {
+    "reservation_id": 856,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-883028",
+      "amount": 225.95
+    }
+  },
+  {
+    "reservation_id": 857,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-251074",
+      "amount": 184.13
+    }
+  },
+  {
+    "reservation_id": 858,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-682032",
+      "amount": 113.62
+    }
+  },
+  {
+    "reservation_id": 859,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-725637",
+      "amount": 227.34
+    }
+  },
+  {
+    "reservation_id": 860,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-320256",
+      "amount": 386.73
+    }
+  },
+  {
+    "reservation_id": 861,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-777308",
+      "amount": 433.16
+    }
+  },
+  {
+    "reservation_id": 862,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TRF-331512",
+      "amount": 327.6
+    }
+  },
+  {
+    "reservation_id": 863,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-290167",
+      "amount": 351.94
+    }
+  },
+  {
+    "reservation_id": 864,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-583671",
+      "amount": 340.1
+    }
+  },
+  {
+    "reservation_id": 865,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "TARJ-170634",
+      "amount": 162.81
+    }
+  },
+  {
+    "reservation_id": 866,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-474486",
+      "amount": 107.7
+    }
+  },
+  {
+    "reservation_id": 867,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-749609",
+      "amount": 81.41
+    }
+  },
+  {
+    "reservation_id": 868,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-572536",
+      "amount": 197.76
+    }
+  },
+  {
+    "reservation_id": 869,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-694397",
+      "amount": 214.02
+    }
+  },
+  {
+    "reservation_id": 870,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TRF-105066",
+      "amount": 190.95
+    }
+  },
+  {
+    "reservation_id": 871,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-980919",
+      "amount": 211.77
+    }
+  },
+  {
+    "reservation_id": 872,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-566991",
+      "amount": 211.43
+    }
+  },
+  {
+    "reservation_id": 873,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-214119",
+      "amount": 129.1
+    }
+  },
+  {
+    "reservation_id": 874,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-966589",
+      "amount": 113.0
+    }
+  },
+  {
+    "reservation_id": 875,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-869177",
+      "amount": 448.85
+    }
+  },
+  {
+    "reservation_id": 876,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-990856",
+      "amount": 278.23
+    }
+  },
+  {
+    "reservation_id": 877,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-323095",
+      "amount": 457.84
+    }
+  },
+  {
+    "reservation_id": 878,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-665892",
+      "amount": 262.45
+    }
+  },
+  {
+    "reservation_id": 879,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-334153",
+      "amount": 451.15
+    }
+  },
+  {
+    "reservation_id": 880,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-587274",
+      "amount": 275.51
+    }
+  },
+  {
+    "reservation_id": 881,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-626560",
+      "amount": 54.77
+    }
+  },
+  {
+    "reservation_id": 882,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-247189",
+      "amount": 250.8
+    }
+  },
+  {
+    "reservation_id": 883,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-867562",
+      "amount": 267.58
+    }
+  },
+  {
+    "reservation_id": 884,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-898461",
+      "amount": 269.44
+    }
+  },
+  {
+    "reservation_id": 885,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-345386",
+      "amount": 69.26
+    }
+  },
+  {
+    "reservation_id": 886,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-592489",
+      "amount": 463.06
+    }
+  },
+  {
+    "reservation_id": 887,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-439813",
+      "amount": 96.45
+    }
+  },
+  {
+    "reservation_id": 888,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-376106",
+      "amount": 310.38
+    }
+  },
+  {
+    "reservation_id": 889,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-785428",
+      "amount": 220.33
+    }
+  },
+  {
+    "reservation_id": 890,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-363807",
+      "amount": 219.35
+    }
+  },
+  {
+    "reservation_id": 891,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-956934",
+      "amount": 440.47
+    }
+  },
+  {
+    "reservation_id": 892,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-106918",
+      "amount": 275.83
+    }
+  },
+  {
+    "reservation_id": 893,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-341162",
+      "amount": 84.69
+    }
+  },
+  {
+    "reservation_id": 894,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-295984",
+      "amount": 120.81
+    }
+  },
+  {
+    "reservation_id": 895,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-341535",
+      "amount": 236.58
+    }
+  },
+  {
+    "reservation_id": 896,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-808029",
+      "amount": 265.47
+    }
+  },
+  {
+    "reservation_id": 897,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "TARJ-973846",
+      "amount": 234.9
+    }
+  },
+  {
+    "reservation_id": 898,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-701344",
+      "amount": 316.56
+    }
+  },
+  {
+    "reservation_id": 899,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-253999",
+      "amount": 75.16
+    }
+  },
+  {
+    "reservation_id": 900,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-525151",
+      "amount": 319.71
+    }
+  },
+  {
+    "reservation_id": 901,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-863336",
+      "amount": 347.79
+    }
+  },
+  {
+    "reservation_id": 902,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-571023",
+      "amount": 322.94
+    }
+  },
+  {
+    "reservation_id": 903,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TRF-330019",
+      "amount": 423.66
+    }
+  },
+  {
+    "reservation_id": 904,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-960307",
+      "amount": 395.37
+    }
+  },
+  {
+    "reservation_id": 905,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-859364",
+      "amount": 358.52
+    }
+  },
+  {
+    "reservation_id": 906,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-496583",
+      "amount": 223.46
+    }
+  },
+  {
+    "reservation_id": 907,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-648102",
+      "amount": 436.82
+    }
+  },
+  {
+    "reservation_id": 908,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-734924",
+      "amount": 93.33
+    }
+  },
+  {
+    "reservation_id": 909,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TARJ-627778",
+      "amount": 388.57
+    }
+  },
+  {
+    "reservation_id": 910,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-236659",
+      "amount": 455.89
+    }
+  },
+  {
+    "reservation_id": 911,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-780768",
+      "amount": 244.17
+    }
+  },
+  {
+    "reservation_id": 912,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-831531",
+      "amount": 288.42
+    }
+  },
+  {
+    "reservation_id": 913,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-467544",
+      "amount": 315.07
+    }
+  },
+  {
+    "reservation_id": 914,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-240386",
+      "amount": 164.53
+    }
+  },
+  {
+    "reservation_id": 915,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "EFEC-727354",
+      "amount": 444.54
+    }
+  },
+  {
+    "reservation_id": 916,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TRF-105735",
+      "amount": 369.12
+    }
+  },
+  {
+    "reservation_id": 917,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-107543",
+      "amount": 218.76
+    }
+  },
+  {
+    "reservation_id": 918,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-479867",
+      "amount": 97.96
+    }
+  },
+  {
+    "reservation_id": 919,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-996508",
+      "amount": 291.25
+    }
+  },
+  {
+    "reservation_id": 920,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TARJ-388946",
+      "amount": 496.31
+    }
+  },
+  {
+    "reservation_id": 921,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-678923",
+      "amount": 402.7
+    }
+  },
+  {
+    "reservation_id": 922,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "EFEC-686252",
+      "amount": 299.71
+    }
+  },
+  {
+    "reservation_id": 923,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-461083",
+      "amount": 398.39
+    }
+  },
+  {
+    "reservation_id": 924,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-224870",
+      "amount": 386.52
+    }
+  },
+  {
+    "reservation_id": 925,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TRF-324875",
+      "amount": 278.75
+    }
+  },
+  {
+    "reservation_id": 926,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-508004",
+      "amount": 484.06
+    }
+  },
+  {
+    "reservation_id": 927,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TRF-594580",
+      "amount": 466.64
+    }
+  },
+  {
+    "reservation_id": 928,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-375871",
+      "amount": 149.8
+    }
+  },
+  {
+    "reservation_id": 929,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-502995",
+      "amount": 468.81
+    }
+  },
+  {
+    "reservation_id": 930,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "TARJ-726495",
+      "amount": 75.86
+    }
+  },
+  {
+    "reservation_id": 931,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-111230",
+      "amount": 140.77
+    }
+  },
+  {
+    "reservation_id": 932,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "TRF-135241",
+      "amount": 402.78
+    }
+  },
+  {
+    "reservation_id": 933,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TARJ-277715",
+      "amount": 353.31
+    }
+  },
+  {
+    "reservation_id": 934,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-100301",
+      "amount": 489.04
+    }
+  },
+  {
+    "reservation_id": 935,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-470281",
+      "amount": 351.35
+    }
+  },
+  {
+    "reservation_id": 936,
+    "payment_info": {
+      "method": "paypal",
+      "status": "pendiente",
+      "reference": "TARJ-116112",
+      "amount": 381.62
+    }
+  },
+  {
+    "reservation_id": 937,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "completado",
+      "reference": "TARJ-398313",
+      "amount": 376.76
+    }
+  },
+  {
+    "reservation_id": 938,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-955129",
+      "amount": 174.43
+    }
+  },
+  {
+    "reservation_id": 939,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-523579",
+      "amount": 308.71
+    }
+  },
+  {
+    "reservation_id": 940,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "EFEC-630829",
+      "amount": 97.91
+    }
+  },
+  {
+    "reservation_id": 941,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "rechazado",
+      "reference": "EFEC-222692",
+      "amount": 411.32
+    }
+  },
+  {
+    "reservation_id": 942,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-564276",
+      "amount": 484.72
+    }
+  },
+  {
+    "reservation_id": 943,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-894268",
+      "amount": 202.85
+    }
+  },
+  {
+    "reservation_id": 944,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "TARJ-128679",
+      "amount": 266.89
+    }
+  },
+  {
+    "reservation_id": 945,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-764442",
+      "amount": 404.9
+    }
+  },
+  {
+    "reservation_id": 946,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "pendiente",
+      "reference": "EFEC-532459",
+      "amount": 479.95
+    }
+  },
+  {
+    "reservation_id": 947,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-972600",
+      "amount": 168.51
+    }
+  },
+  {
+    "reservation_id": 948,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "EFEC-806423",
+      "amount": 386.95
+    }
+  },
+  {
+    "reservation_id": 949,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TARJ-287155",
+      "amount": 264.45
+    }
+  },
+  {
+    "reservation_id": 950,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-382146",
+      "amount": 132.25
+    }
+  },
+  {
+    "reservation_id": 951,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-309365",
+      "amount": 155.69
+    }
+  },
+  {
+    "reservation_id": 952,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-340341",
+      "amount": 141.24
+    }
+  },
+  {
+    "reservation_id": 953,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-916776",
+      "amount": 98.01
+    }
+  },
+  {
+    "reservation_id": 954,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-106945",
+      "amount": 393.91
+    }
+  },
+  {
+    "reservation_id": 955,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-489227",
+      "amount": 329.3
+    }
+  },
+  {
+    "reservation_id": 956,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-291755",
+      "amount": 492.98
+    }
+  },
+  {
+    "reservation_id": 957,
+    "payment_info": {
+      "method": "QR",
+      "status": "rechazado",
+      "reference": "EFEC-332881",
+      "amount": 387.58
+    }
+  },
+  {
+    "reservation_id": 958,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TARJ-938095",
+      "amount": 240.43
+    }
+  },
+  {
+    "reservation_id": 959,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "TARJ-464158",
+      "amount": 227.17
+    }
+  },
+  {
+    "reservation_id": 960,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-832162",
+      "amount": 283.19
+    }
+  },
+  {
+    "reservation_id": 961,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "completado",
+      "reference": "TRF-806848",
+      "amount": 144.84
+    }
+  },
+  {
+    "reservation_id": 962,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-479167",
+      "amount": 325.75
+    }
+  },
+  {
+    "reservation_id": 963,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-375617",
+      "amount": 156.71
+    }
+  },
+  {
+    "reservation_id": 964,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-292847",
+      "amount": 274.45
+    }
+  },
+  {
+    "reservation_id": 965,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TARJ-888734",
+      "amount": 217.54
+    }
+  },
+  {
+    "reservation_id": 966,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-288627",
+      "amount": 307.13
+    }
+  },
+  {
+    "reservation_id": 967,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "TRF-855829",
+      "amount": 171.48
+    }
+  },
+  {
+    "reservation_id": 968,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "EFEC-305587",
+      "amount": 115.63
+    }
+  },
+  {
+    "reservation_id": 969,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "parcial",
+      "reference": "TRF-285186",
+      "amount": 239.68
+    }
+  },
+  {
+    "reservation_id": 970,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-414608",
+      "amount": 162.94
+    }
+  },
+  {
+    "reservation_id": 971,
+    "payment_info": {
+      "method": "QR",
+      "status": "completado",
+      "reference": "EFEC-203782",
+      "amount": 360.74
+    }
+  },
+  {
+    "reservation_id": 972,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "EFEC-599687",
+      "amount": 427.54
+    }
+  },
+  {
+    "reservation_id": 973,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-450912",
+      "amount": 166.9
+    }
+  },
+  {
+    "reservation_id": 974,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-120798",
+      "amount": 235.29
+    }
+  },
+  {
+    "reservation_id": 975,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TARJ-703869",
+      "amount": 342.44
+    }
+  },
+  {
+    "reservation_id": 976,
+    "payment_info": {
+      "method": "QR",
+      "status": "pendiente",
+      "reference": "EFEC-472358",
+      "amount": 196.29
+    }
+  },
+  {
+    "reservation_id": 977,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-568640",
+      "amount": 450.33
+    }
+  },
+  {
+    "reservation_id": 978,
+    "payment_info": {
+      "method": "paypal",
+      "status": "rechazado",
+      "reference": "EFEC-762398",
+      "amount": 480.47
+    }
+  },
+  {
+    "reservation_id": 979,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-761938",
+      "amount": 325.54
+    }
+  },
+  {
+    "reservation_id": 980,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-269868",
+      "amount": 204.63
+    }
+  },
+  {
+    "reservation_id": 981,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "TARJ-405509",
+      "amount": 369.7
+    }
+  },
+  {
+    "reservation_id": 982,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "EFEC-566509",
+      "amount": 401.44
+    }
+  },
+  {
+    "reservation_id": 983,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-275445",
+      "amount": 132.75
+    }
+  },
+  {
+    "reservation_id": 984,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TARJ-346024",
+      "amount": 347.91
+    }
+  },
+  {
+    "reservation_id": 985,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "pendiente",
+      "reference": "TRF-516332",
+      "amount": 96.35
+    }
+  },
+  {
+    "reservation_id": 986,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "TARJ-156440",
+      "amount": 61.86
+    }
+  },
+  {
+    "reservation_id": 987,
+    "payment_info": {
+      "method": "paypal",
+      "status": "completado",
+      "reference": "TRF-375201",
+      "amount": 328.15
+    }
+  },
+  {
+    "reservation_id": 988,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-340497",
+      "amount": 161.33
+    }
+  },
+  {
+    "reservation_id": 989,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "TARJ-232552",
+      "amount": 109.07
+    }
+  },
+  {
+    "reservation_id": 990,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "completado",
+      "reference": "TRF-795781",
+      "amount": 210.58
+    }
+  },
+  {
+    "reservation_id": 991,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "parcial",
+      "reference": "EFEC-666843",
+      "amount": 470.69
+    }
+  },
+  {
+    "reservation_id": 992,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TRF-831510",
+      "amount": 292.68
+    }
+  },
+  {
+    "reservation_id": 993,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-885290",
+      "amount": 336.13
+    }
+  },
+  {
+    "reservation_id": 994,
+    "payment_info": {
+      "method": "QR",
+      "status": "parcial",
+      "reference": "TARJ-770864",
+      "amount": 337.79
+    }
+  },
+  {
+    "reservation_id": 995,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "rechazado",
+      "reference": "EFEC-665883",
+      "amount": 152.21
+    }
+  },
+  {
+    "reservation_id": 996,
+    "payment_info": {
+      "method": "efectivo",
+      "status": "parcial",
+      "reference": "EFEC-483551",
+      "amount": 235.49
+    }
+  },
+  {
+    "reservation_id": 997,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "TRF-100096",
+      "amount": 285.49
+    }
+  },
+  {
+    "reservation_id": 998,
+    "payment_info": {
+      "method": "tarjeta",
+      "status": "rechazado",
+      "reference": "EFEC-591989",
+      "amount": 290.79
+    }
+  },
+  {
+    "reservation_id": 999,
+    "payment_info": {
+      "method": "paypal",
+      "status": "parcial",
+      "reference": "EFEC-109576",
+      "amount": 394.64
+    }
+  },
+  {
+    "reservation_id": 1000,
+    "payment_info": {
+      "method": "transferencia",
+      "status": "pendiente",
+      "reference": "TRF-674842",
+      "amount": 218.14
+    }
+  }
+]

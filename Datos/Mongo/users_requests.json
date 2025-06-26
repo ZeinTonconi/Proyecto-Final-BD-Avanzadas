@@ -1,0 +1,1782 @@
+[
+  
+  {
+    "_id": 3006,
+    "user_id": 6,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-31T21:01:20",
+        "detail": "Quis doloremque eaque doloremque pariatur.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-13T07:26:15"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-12T20:21:57",
+        "detail": "Quisquam tenetur assumenda nisi molestiae ducimus a. Neque blanditiis ab.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-01T23:37:36"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-20T07:45:03",
+        "detail": "Iusto nobis at ea. Aspernatur alias fugit voluptates nostrum maxime.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3007,
+    "user_id": 7,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-03T16:51:27",
+        "detail": "Eligendi rerum totam expedita vitae eius non. Iste illo a cupiditate magni.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-12T20:02:23",
+        "detail": "Architecto odio voluptatibus perspiciatis dolorem. Impedit explicabo modi praesentium ea enim.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3008,
+    "user_id": 8,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-04T15:51:26",
+        "detail": "Expedita similique quod itaque blanditiis maxime et.\nPerferendis fugit aut.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3009,
+    "user_id": 9,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-11T13:26:25",
+        "detail": "Optio similique eveniet.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3010,
+    "user_id": 10,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-04-27T01:10:59",
+        "detail": "Pariatur dignissimos harum vero vel culpa quas. Maxime ducimus odit dicta suscipit sint dolor.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3011,
+    "user_id": 11,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-02T02:23:22",
+        "detail": "Culpa at nulla ut voluptatum. Animi explicabo culpa modi autem laborum et nam.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-22T14:36:58",
+        "detail": "Saepe consectetur sit. Autem deleniti adipisci odit harum.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-04T14:34:14"
+      }
+    ]
+  },
+  {
+    "_id": 3012,
+    "user_id": 12,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-18T00:03:05",
+        "detail": "Voluptatem nisi maxime.\nError dolore sequi. Quo velit reprehenderit.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3013,
+    "user_id": 13,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-21T23:48:23",
+        "detail": "Quod ullam ex sunt. Impedit sint sit dolorem officiis nobis. Odio odio amet.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-01T19:52:16",
+        "detail": "Incidunt expedita eum nisi ad esse. Nulla voluptatibus ipsam corporis aliquid repellendus.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-07T20:15:52",
+        "detail": "Ratione nulla amet omnis ab. Optio optio totam facere autem eos.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3014,
+    "user_id": 14,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-14T16:58:07",
+        "detail": "Numquam soluta tempora repellendus. Velit veniam dolorem.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3015,
+    "user_id": 15,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-16T21:31:23",
+        "detail": "Voluptatum voluptate corporis ut totam et. Minus quaerat delectus saepe corporis adipisci eum.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3016,
+    "user_id": 16,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-24T18:02:54",
+        "detail": "Maxime id quasi nam maiores.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3017,
+    "user_id": 17,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-06T04:37:51",
+        "detail": "Error mollitia quisquam beatae ex. Quam nulla adipisci cupiditate ex excepturi.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-31T08:54:19"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-03T11:15:20",
+        "detail": "Sapiente excepturi fugiat modi cumque. Harum nisi sint quibusdam provident et adipisci impedit.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3018,
+    "user_id": 18,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-06T13:54:38",
+        "detail": "Dignissimos alias harum sint. A ut porro nisi. Ex suscipit aut quisquam.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-12T07:57:37",
+        "detail": "Accusamus numquam maiores dignissimos. Molestias earum velit rem nemo cupiditate.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-27T09:00:27",
+        "detail": "Dolor consequuntur neque quidem. Quidem optio iste.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3019,
+    "user_id": 19,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-22T14:49:13",
+        "detail": "Voluptates illo consectetur eos fuga molestias amet provident.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-12T00:26:12",
+        "detail": "Quasi in vero reiciendis enim alias ullam. Quas natus aperiam labore cumque. Omnis eos qui.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-24T07:40:48"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-23T18:16:13",
+        "detail": "Qui nobis tenetur. Omnis fuga cupiditate quos.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3020,
+    "user_id": 20,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-30T13:03:09",
+        "detail": "Quidem blanditiis cumque id error.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-07T23:06:07"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-25T07:30:09",
+        "detail": "Earum rem ducimus nesciunt itaque perferendis. Quasi nihil deserunt excepturi porro.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3021,
+    "user_id": 21,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-18T02:12:22",
+        "detail": "Debitis architecto voluptatem dicta hic. Autem molestiae inventore nostrum autem ipsam ea.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-14T08:41:46",
+        "detail": "Ut optio eaque. Temporibus nemo maiores velit laudantium ipsa.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3022,
+    "user_id": 22,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-30T01:22:18",
+        "detail": "Quis enim dicta mollitia voluptas optio error. Tempore occaecati facere assumenda odio quasi.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3023,
+    "user_id": 23,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-04-28T15:13:31",
+        "detail": "Animi ratione aliquam blanditiis rem pariatur.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-23T19:21:57",
+        "detail": "Aliquam aut sed nostrum quod accusamus laborum ab. Unde provident nisi eligendi.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-19T22:02:48"
+      }
+    ]
+  },
+  {
+    "_id": 3024,
+    "user_id": 24,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-15T16:08:02",
+        "detail": "Voluptate nulla sint voluptates magni iure occaecati. Eius deserunt recusandae placeat voluptas.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-28T15:52:08",
+        "detail": "Eveniet atque qui sit. Tempora asperiores nesciunt amet ipsa dolor.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-12T00:16:38",
+        "detail": "Accusamus incidunt sit dolorum ipsa. Tempora nihil corrupti nemo a. Aliquam iusto quisquam.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3025,
+    "user_id": 25,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-20T06:20:13",
+        "detail": "Veniam consequatur eos officia at laboriosam.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-04-27T04:08:44",
+        "detail": "Veritatis ad impedit placeat ut labore in. Eos aperiam sit.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-25T00:23:51"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-01T15:13:45",
+        "detail": "Eligendi vero nulla cum modi delectus. Saepe possimus pariatur corrupti.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-11T09:42:11"
+      }
+    ]
+  },
+  {
+    "_id": 3026,
+    "user_id": 26,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-02T05:55:22",
+        "detail": "Hic laudantium nobis maiores animi pariatur id. Fuga fuga eligendi expedita voluptate soluta.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-17T01:00:29",
+        "detail": "Ut nihil fugiat ab. Impedit nam quae quidem consequatur. Rerum enim laudantium reprehenderit.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-23T22:55:50"
+      }
+    ]
+  },
+  {
+    "_id": 3027,
+    "user_id": 27,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-13T21:51:30",
+        "detail": "Amet facere odio veritatis. Enim minus vel. Deserunt occaecati quisquam nisi cumque eum et.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-06T00:59:05",
+        "detail": "Recusandae maiores animi. Tenetur aliquam error ab.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-14T15:31:50"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-25T13:15:36",
+        "detail": "Rerum libero ad. Fugit perspiciatis corrupti numquam.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3028,
+    "user_id": 28,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-19T02:41:06",
+        "detail": "Voluptatibus sunt blanditiis.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-11T15:43:27",
+        "detail": "Officia nihil tenetur aperiam esse. Cumque modi alias omnis in maiores.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-04T08:28:44",
+        "detail": "Doloribus repudiandae iure. Voluptatibus in temporibus dicta earum adipisci ratione.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3029,
+    "user_id": 29,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-10T16:29:49",
+        "detail": "Necessitatibus magnam blanditiis optio. Veniam ut dolorum sunt dolores commodi rem eveniet.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3030,
+    "user_id": 30,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-24T20:37:07",
+        "detail": "Porro ratione dolores.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3031,
+    "user_id": 31,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-05T11:41:22",
+        "detail": "Sint reprehenderit velit iusto impedit.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-07T19:12:59",
+        "detail": "Maiores voluptas rerum quis sed. Recusandae eum laboriosam quasi ea porro.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-11T12:44:54"
+      }
+    ]
+  },
+  {
+    "_id": 3032,
+    "user_id": 32,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-05T16:29:45",
+        "detail": "Quibusdam reprehenderit natus optio. Nesciunt voluptas minima necessitatibus impedit.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-11T23:17:27"
+      }
+    ]
+  },
+  {
+    "_id": 3033,
+    "user_id": 33,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-04-29T20:15:01",
+        "detail": "Reiciendis quia molestias nobis at ducimus. Vitae sint at sequi cum.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-07T01:32:56",
+        "detail": "Nesciunt iste pariatur numquam eaque vitae. Distinctio aspernatur voluptatem ea.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-05T13:10:21",
+        "detail": "Accusamus beatae accusamus voluptas. Distinctio officiis officiis.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-22T05:20:47"
+      }
+    ]
+  },
+  {
+    "_id": 3034,
+    "user_id": 34,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-23T21:22:29",
+        "detail": "Non aut impedit voluptatibus. Doloremque nam voluptatum facere ea.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3035,
+    "user_id": 35,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-01T13:43:54",
+        "detail": "Tempore sequi soluta nobis aut. Unde ipsa itaque. Voluptate quos non similique.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-08T23:32:25",
+        "detail": "Voluptas quisquam ab rerum labore enim. Assumenda fuga quidem facere.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-29T22:19:14",
+        "detail": "Consequuntur nihil aliquid tempora.\nDelectus qui a molestias architecto. Impedit nemo natus.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3036,
+    "user_id": 36,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-13T02:52:42",
+        "detail": "Occaecati quo est officia officia assumenda veritatis.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3037,
+    "user_id": 37,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-17T07:04:05",
+        "detail": "Velit tempore amet dolores nisi dolores. Quibusdam harum beatae aperiam iure illum laborum.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-07T04:22:58",
+        "detail": "Quam voluptatum soluta distinctio. Vero et placeat exercitationem ea quibusdam iste.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3038,
+    "user_id": 38,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-13T21:20:10",
+        "detail": "Commodi fuga deserunt. Dolore accusantium eligendi.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-24T13:59:45"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-20T21:50:24",
+        "detail": "Nihil quia consectetur ut. Sunt quas earum sed ad.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3039,
+    "user_id": 39,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-06T19:47:01",
+        "detail": "Maxime omnis corporis. Magni saepe similique in deserunt. Odit dicta architecto deleniti labore.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-02T12:54:21",
+        "detail": "Delectus voluptatibus facilis asperiores adipisci beatae. Ipsam occaecati totam facere voluptate.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-10T08:46:07",
+        "detail": "Ipsum nam fugiat neque consectetur velit. Libero omnis explicabo.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-21T18:12:08"
+      }
+    ]
+  },
+  {
+    "_id": 3040,
+    "user_id": 40,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-03T23:47:53",
+        "detail": "Doloremque optio architecto animi maxime. Eveniet tenetur hic voluptatibus.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-10T21:27:52",
+        "detail": "Aliquid ad odit perferendis iure exercitationem id. Id ab beatae totam eveniet.",
+        "status": "resuelto",
+        "resolution_date": "2025-04-30T09:13:49"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-17T17:18:51",
+        "detail": "Possimus saepe repellat odit quaerat tempore. Porro ipsam nisi aliquid fugiat dicta.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3041,
+    "user_id": 41,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-13T08:09:48",
+        "detail": "Impedit autem eveniet. Occaecati numquam vel hic incidunt doloremque autem.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-21T07:18:43",
+        "detail": "Vero nobis voluptatem possimus perspiciatis. Ex odio sunt et.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-02T20:35:55"
+      }
+    ]
+  },
+  {
+    "_id": 3042,
+    "user_id": 42,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-10T09:29:44",
+        "detail": "Reiciendis possimus dolore sit maxime.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3043,
+    "user_id": 43,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-15T07:21:10",
+        "detail": "Quam est quam doloribus debitis dolorum. Nemo voluptas dicta similique laboriosam.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3044,
+    "user_id": 44,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-24T21:06:34",
+        "detail": "Ex quaerat deserunt totam. Accusamus magnam quas. Illo impedit hic quia fugit est voluptates.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-01T18:53:27"
+      }
+    ]
+  },
+  {
+    "_id": 3045,
+    "user_id": 45,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-02T15:25:46",
+        "detail": "Tenetur soluta cumque incidunt porro magnam modi. Nesciunt quasi quibusdam unde sit autem.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-14T20:08:34",
+        "detail": "Aperiam adipisci doloremque laborum quis. Aperiam quibusdam ab.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-10T12:32:32"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-04-29T12:48:28",
+        "detail": "Ullam odio laudantium recusandae. Sit ut quisquam nobis officia fugiat.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3046,
+    "user_id": 46,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-01T11:32:06",
+        "detail": "Optio nihil autem ab sequi et repellendus. Saepe libero iste nobis corporis.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-25T08:12:03",
+        "detail": "Facere sequi aut. Fugiat voluptatem perspiciatis cumque.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-13T11:32:56"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-26T10:17:09",
+        "detail": "Sequi dolor consequatur mollitia nihil. Consectetur numquam asperiores ducimus fugit.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3047,
+    "user_id": 47,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-06T18:54:30",
+        "detail": "Voluptatibus inventore ad nobis aspernatur commodi. Placeat illum eveniet at.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-24T10:04:04",
+        "detail": "Quas velit cumque animi. Mollitia laudantium soluta vitae incidunt.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-17T07:33:24",
+        "detail": "Illum totam ab quo. Dolorem hic error incidunt delectus. Autem ipsa saepe cum explicabo.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3048,
+    "user_id": 48,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-14T03:43:27",
+        "detail": "Quibusdam quos id quas quia repudiandae. Autem autem accusantium culpa.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3049,
+    "user_id": 49,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-21T01:20:43",
+        "detail": "Labore quos aut quas nostrum. Voluptatibus nihil odio dolorem consequatur. Earum deleniti corporis.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-02T23:55:23",
+        "detail": "Atque accusamus mollitia similique. Facere repellat quia nihil non dolores.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-15T12:42:37",
+        "detail": "Quibusdam fugit quod id earum delectus. Nemo nihil ab ut.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3050,
+    "user_id": 50,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-17T10:14:21",
+        "detail": "Omnis sint vel nesciunt quam porro veniam.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-12T13:08:06",
+        "detail": "Delectus delectus similique deleniti laudantium quas officia. Est suscipit repellendus.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3051,
+    "user_id": 51,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-24T06:13:26",
+        "detail": "Vero autem quasi.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-15T16:56:53",
+        "detail": "Asperiores ex facere unde assumenda aliquam. Debitis minus nobis perspiciatis.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-11T11:19:52",
+        "detail": "Corporis ipsum reiciendis voluptate repellendus beatae. Vero eius at voluptatum delectus harum.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3052,
+    "user_id": 52,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-18T08:03:11",
+        "detail": "Facere dicta sed facere labore. Ullam animi expedita sed.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-02T16:30:55",
+        "detail": "Fuga praesentium optio asperiores saepe sit.\nFacilis aspernatur aspernatur necessitatibus.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3053,
+    "user_id": 53,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-14T21:43:53",
+        "detail": "Id incidunt veniam. Mollitia repudiandae ullam magnam quae incidunt culpa.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-02T08:21:44"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-02T02:34:29",
+        "detail": "Rem corrupti nesciunt fugit nesciunt sequi enim. Placeat aspernatur numquam veritatis.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3054,
+    "user_id": 54,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-07T21:02:28",
+        "detail": "Dolores voluptatum non vero necessitatibus voluptatibus.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-03T15:47:47",
+        "detail": "Fugiat necessitatibus sequi dolore soluta. Expedita iusto modi repellendus.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-12T06:38:23"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-08T03:22:04",
+        "detail": "Earum odio assumenda architecto illo error.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3055,
+    "user_id": 55,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-28T00:06:36",
+        "detail": "Itaque fuga mollitia cum. Fugit sapiente porro ipsa eligendi nulla.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-04-30T05:00:51",
+        "detail": "Quos magni eaque omnis esse temporibus.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-03T22:41:35",
+        "detail": "Temporibus maxime ipsa aut reiciendis magnam. Neque hic quis totam saepe culpa eum at.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3056,
+    "user_id": 56,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-21T13:20:39",
+        "detail": "Occaecati sequi blanditiis exercitationem expedita voluptatum nobis. Culpa qui unde.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-05T23:16:23"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-30T21:09:22",
+        "detail": "Numquam non inventore necessitatibus fugiat odio. Ipsum suscipit vero ducimus.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3057,
+    "user_id": 57,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-27T23:24:52",
+        "detail": "Ea quos beatae.\nEa porro recusandae fugit. Unde nesciunt blanditiis eum.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-05T01:53:33",
+        "detail": "Quia dolores tempora deleniti. Labore minus explicabo. Unde assumenda inventore corrupti.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-02T04:47:16"
+      }
+    ]
+  },
+  {
+    "_id": 3058,
+    "user_id": 58,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-04-30T12:07:37",
+        "detail": "Aperiam eos iste dolor repudiandae. Amet esse inventore optio. Amet consequuntur soluta.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-28T08:24:02",
+        "detail": "Quidem nostrum esse doloribus. Fuga numquam tempore soluta amet sapiente commodi. Iure quis maxime.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-06T11:55:27",
+        "detail": "Laboriosam ex aperiam qui perferendis qui amet. Maiores natus voluptas consequatur tempora.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3059,
+    "user_id": 59,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-16T21:00:24",
+        "detail": "Ad magni hic unde error laborum delectus. Sapiente molestias reprehenderit placeat similique.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3060,
+    "user_id": 60,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-08T16:52:59",
+        "detail": "Itaque similique consequuntur quos omnis unde. Totam officia fugiat iusto. Nemo unde quod minima.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-28T11:08:56"
+      }
+    ]
+  },
+  {
+    "_id": 3061,
+    "user_id": 61,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-19T12:28:57",
+        "detail": "Tempore cupiditate tempora quidem. Ullam aperiam dolorum alias quibusdam ipsam.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-04-27T13:10:10",
+        "detail": "Consectetur maxime aut libero. Nobis ex dolore. Ullam dolorum praesentium architecto sit.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3062,
+    "user_id": 62,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-22T13:55:34",
+        "detail": "Excepturi ea ex.\nDignissimos repellendus eveniet quidem. Doloremque asperiores veniam temporibus.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-09T14:38:32"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-23T07:17:53",
+        "detail": "Alias magni officiis inventore.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-07T18:17:06",
+        "detail": "Quae velit quod eos officiis minima. Eum molestiae aut expedita illum.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3063,
+    "user_id": 63,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-03T04:27:47",
+        "detail": "Assumenda dolorum molestiae excepturi hic. Earum eaque dolorum officiis quo accusamus esse optio.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3064,
+    "user_id": 64,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-25T07:08:11",
+        "detail": "Mollitia dolorem veritatis. Voluptate accusamus sapiente sed molestiae. Nobis expedita aspernatur.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-25T06:45:01",
+        "detail": "Ad non repellat magni quos magni neque exercitationem. Fugiat nesciunt omnis corrupti quis.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-08T20:36:47"
+      }
+    ]
+  },
+  {
+    "_id": 3065,
+    "user_id": 65,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-27T19:29:25",
+        "detail": "Saepe eos doloribus doloribus quisquam. Doloremque et voluptas possimus ipsam vero.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-14T00:32:17",
+        "detail": "Enim laborum dolore cumque. Voluptates quidem unde pariatur consequuntur.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-24T09:41:49"
+      }
+    ]
+  },
+  {
+    "_id": 3066,
+    "user_id": 66,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-21T11:52:45",
+        "detail": "Dolor vitae tempore quisquam. Voluptas eveniet optio blanditiis iure eum.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-20T15:07:21",
+        "detail": "Perferendis illum repellat incidunt ea. Eaque quas excepturi. Est illum nemo.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-31T06:49:12",
+        "detail": "Omnis maxime facere dicta. Saepe hic quaerat enim. Tenetur ex dolor quasi.\nSapiente quidem minima.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3067,
+    "user_id": 67,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-06T08:52:25",
+        "detail": "Quia molestiae ullam.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-18T14:51:17",
+        "detail": "Sint laudantium dolorum consequuntur nulla. Minima saepe quis animi laudantium illum qui.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-13T11:47:03",
+        "detail": "Possimus modi ex aperiam iusto. Architecto odio sunt exercitationem.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3068,
+    "user_id": 68,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-05T04:39:05",
+        "detail": "Molestiae optio aspernatur corrupti quas eius ea. Consectetur minima officia fugit.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-26T09:58:48",
+        "detail": "Ipsam minima ab est atque.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3069,
+    "user_id": 69,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-04-30T17:57:56",
+        "detail": "Nostrum quae provident. Sit consectetur in sapiente. Ipsam quae et similique.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-05T04:25:45"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-06T11:12:02",
+        "detail": "Deserunt quis corporis eaque. Ipsam eius dicta magnam.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-15T01:35:04"
+      }
+    ]
+  },
+  {
+    "_id": 3070,
+    "user_id": 70,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-27T20:47:58",
+        "detail": "Quo ducimus iusto adipisci beatae omnis delectus. Iusto eum natus omnis.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-06T18:28:08",
+        "detail": "Aliquam ut doloremque vel unde. In quo veritatis id. Cum cumque error.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3071,
+    "user_id": 71,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-27T12:29:24",
+        "detail": "Corrupti est perferendis laboriosam ea veritatis. Cum placeat rerum iure.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-07T07:14:45",
+        "detail": "Nobis rem ipsum fuga. Quae sapiente voluptas beatae debitis incidunt quis.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3072,
+    "user_id": 72,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-01T16:22:57",
+        "detail": "Placeat dolorum excepturi eos reprehenderit molestiae debitis explicabo.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3073,
+    "user_id": 73,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-05T04:48:41",
+        "detail": "Maiores quas excepturi odio error id. Veniam ducimus officiis sunt.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3074,
+    "user_id": 74,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-24T16:51:44",
+        "detail": "Illum accusantium impedit. Eius iure ratione odio.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-30T16:03:36",
+        "detail": "Quisquam voluptates voluptatem mollitia. Quibusdam in nobis eum facilis autem.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-06T15:36:24",
+        "detail": "Quidem beatae cumque impedit excepturi totam recusandae distinctio. Ex possimus itaque quae.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3075,
+    "user_id": 75,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-02T01:06:49",
+        "detail": "Quam quia voluptatum illo nulla cupiditate. Officia nesciunt magnam minima fugiat unde.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-31T15:40:36",
+        "detail": "Esse dignissimos doloribus quis labore atque sunt. Eum odio deserunt.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-04-27T02:07:18",
+        "detail": "Nobis laudantium debitis magni maiores veritatis. Eaque minus exercitationem perspiciatis magnam.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3076,
+    "user_id": 76,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-13T17:14:17",
+        "detail": "Optio eveniet maiores labore nisi impedit quas dolorem. Iusto sequi esse corporis ex.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-03T04:02:21",
+        "detail": "Odit eius fuga unde. Iusto sunt asperiores voluptate.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3077,
+    "user_id": 77,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-27T12:33:02",
+        "detail": "Aliquid ipsa dicta quo nihil commodi. Magni neque maxime cum.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-10T09:44:50",
+        "detail": "Fugit in vitae.\nFacere est aperiam veniam officiis dolorem. Officiis repellat soluta accusamus.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3078,
+    "user_id": 78,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-12T07:55:45",
+        "detail": "Cupiditate maxime corrupti repellat. Facilis unde ratione adipisci. Esse numquam tenetur eaque eum.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-24T03:35:29",
+        "detail": "Quis ea quos incidunt ad molestiae. Dolorem itaque beatae mollitia.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3079,
+    "user_id": 79,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-15T15:27:43",
+        "detail": "Saepe dolore accusantium quasi. Minima quod natus minus aliquid modi.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3080,
+    "user_id": 80,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-26T04:00:10",
+        "detail": "Dolorum nam est ullam.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3081,
+    "user_id": 81,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-08T10:16:41",
+        "detail": "Assumenda aut rem doloribus libero nihil. Aut quos provident natus saepe.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-04T17:59:22",
+        "detail": "Eum beatae neque tenetur. Eos nam debitis nulla asperiores at quae.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3082,
+    "user_id": 82,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-18T07:13:01",
+        "detail": "Ipsam repellat corporis error vitae. Laboriosam ipsa nam voluptatum deleniti delectus maxime id.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3083,
+    "user_id": 83,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-12T05:31:02",
+        "detail": "Quas quasi dolorum nobis quis debitis. Adipisci ut quas ex. Veniam nemo veniam harum.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3084,
+    "user_id": 84,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-24T21:25:18",
+        "detail": "Animi fuga cumque vitae minus a harum. Reiciendis necessitatibus fugiat.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-14T06:33:15",
+        "detail": "Repellendus ipsum numquam vel. Rem est eos expedita. Nihil cumque aut deserunt.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-02T17:34:20",
+        "detail": "Minus aliquam veniam esse. Quibusdam necessitatibus cupiditate et aliquid adipisci vitae harum.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3085,
+    "user_id": 85,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-28T13:18:06",
+        "detail": "Dignissimos porro unde a dolores repellendus.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-16T22:21:51",
+        "detail": "Beatae temporibus laborum delectus. Cumque qui veritatis quaerat possimus eligendi.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3086,
+    "user_id": 86,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-11T13:43:01",
+        "detail": "Similique dolorum cupiditate iure temporibus animi. Corrupti eos aperiam delectus deserunt omnis.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3087,
+    "user_id": 87,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-01T23:59:51",
+        "detail": "Temporibus placeat ab a.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3088,
+    "user_id": 88,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-25T12:26:57",
+        "detail": "Voluptatem odio laboriosam tempore iste sunt. Corporis odio cupiditate voluptas voluptatum.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-06T14:20:21",
+        "detail": "Autem officiis error rerum quo numquam amet. Excepturi suscipit optio vel inventore.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-13T07:01:34",
+        "detail": "Totam ullam assumenda pariatur. Similique tempore ad consectetur quis doloribus.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3089,
+    "user_id": 89,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-29T04:01:20",
+        "detail": "Commodi provident dicta quia aspernatur at veritatis a. Distinctio quaerat harum numquam deserunt.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-18T15:54:57",
+        "detail": "Ea corporis ad officiis quis.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-09T12:28:40",
+        "detail": "Commodi sint mollitia. Consequuntur rerum fugiat ad ipsa eum. Eveniet saepe alias eligendi.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3090,
+    "user_id": 90,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-04T11:41:31",
+        "detail": "Eum harum odio id magni enim ad. Mollitia aliquam nihil distinctio nesciunt ab.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-29T12:22:34",
+        "detail": "Tempore hic officiis iste ipsum voluptas. Quo dignissimos beatae harum autem ut dignissimos.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3091,
+    "user_id": 91,
+    "requests": [
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-17T01:48:16",
+        "detail": "Cupiditate beatae quam iste suscipit possimus earum.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-11T06:07:53",
+        "detail": "Ad adipisci commodi delectus quod. Architecto iste blanditiis velit.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3092,
+    "user_id": 92,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-06T13:20:25",
+        "detail": "Nostrum ratione suscipit officia quidem culpa nobis. Libero asperiores nobis impedit natus.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-03T12:37:54"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-23T06:44:41",
+        "detail": "Unde iste voluptatibus nesciunt eius. In eaque voluptatem occaecati laudantium autem ipsa.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-21T01:09:56",
+        "detail": "Beatae voluptate quaerat. Inventore dolorem nulla necessitatibus eaque.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3093,
+    "user_id": 93,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-25T05:27:20",
+        "detail": "Ullam eius a perferendis. Neque nobis harum distinctio aut aspernatur.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-06-02T16:59:22",
+        "detail": "Nulla mollitia dolorum minima. Iste eos similique eius totam.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-04-28T17:00:16",
+        "detail": "Quae architecto aut repellendus debitis commodi iure quis. Corrupti ut doloribus ab.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3094,
+    "user_id": 94,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-06-25T03:58:08",
+        "detail": "Ipsa odit corporis sint ratione.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-11T04:05:41"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-06T20:58:43",
+        "detail": "Amet iure harum officiis inventore nisi. Reprehenderit mollitia aliquam voluptatem sed architecto.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-08T02:52:56"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-15T22:36:31",
+        "detail": "Quas necessitatibus architecto voluptas ut fugiat optio.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-03T11:17:27"
+      }
+    ]
+  },
+  {
+    "_id": 3095,
+    "user_id": 95,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-12T21:41:51",
+        "detail": "Quas ratione dolor totam cumque.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Facturación",
+        "request_date": "2025-05-24T03:00:09",
+        "detail": "Unde animi illo inventore impedit voluptatem. Vel blanditiis doloremque soluta laudantium vero.",
+        "status": "nuevo"
+      }
+    ]
+  },
+  {
+    "_id": 3096,
+    "user_id": 96,
+    "requests": [
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-02T00:38:25",
+        "detail": "Debitis consequatur voluptates facilis placeat repudiandae facere.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-03T08:17:42",
+        "detail": "Vero rem earum. Velit accusamus sit quasi quisquam ratione quisquam. Libero neque modi.",
+        "status": "en_proceso"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-25T10:06:54",
+        "detail": "Cum incidunt quas facere quisquam enim. Porro odit asperiores culpa commodi vel veritatis.",
+        "status": "en_proceso"
+      }
+    ]
+  },
+  {
+    "_id": 3097,
+    "user_id": 97,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-06-03T16:47:43",
+        "detail": "Velit quas tenetur nulla voluptas quisquam voluptatibus. Corporis cum repellendus modi.",
+        "status": "nuevo"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-28T07:46:51",
+        "detail": "A distinctio beatae possimus impedit exercitationem ipsum. Quam quos sit eveniet.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-02T19:49:41"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-06-10T13:55:38",
+        "detail": "Labore eius cumque. Unde laudantium voluptatibus.",
+        "status": "resuelto",
+        "resolution_date": "2025-05-17T08:08:19"
+      }
+    ]
+  },
+  {
+    "_id": 3098,
+    "user_id": 98,
+    "requests": [
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-16T05:30:48",
+        "detail": "Itaque optio dolorem consequatur blanditiis. Facilis quidem quis rerum inventore.",
+        "status": "pendiente"
+      },
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-13T04:13:00",
+        "detail": "Nam hic officiis quae. Amet debitis soluta reiciendis. Tenetur magni non sunt dolores.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-08T23:42:46"
+      },
+      {
+        "type": "Mantenimiento",
+        "request_date": "2025-05-03T23:25:27",
+        "detail": "Magnam ratione et iusto magni. Ad nobis a ea doloribus exercitationem exercitationem.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3099,
+    "user_id": 99,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-31T12:21:27",
+        "detail": "Quod veritatis sequi minima commodi aperiam reiciendis unde.",
+        "status": "resuelto",
+        "resolution_date": "2025-06-04T21:13:41"
+      },
+      {
+        "type": "Reclamo técnico",
+        "request_date": "2025-05-25T16:43:11",
+        "detail": "Necessitatibus pariatur quas illum culpa doloribus in. Fuga quam minus distinctio.",
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "_id": 3100,
+    "user_id": 100,
+    "requests": [
+      {
+        "type": "Cambio de horario",
+        "request_date": "2025-05-19T06:45:39",
+        "detail": "Quas rem rem at quae iste. Quam ratione molestias non dicta nihil occaecati.",
+        "status": "en_proceso"
+      }
+    ]
+  }
+]

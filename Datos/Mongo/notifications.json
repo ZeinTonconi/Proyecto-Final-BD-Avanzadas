@@ -1,0 +1,2414 @@
+[
+  {
+    "_id": 2001,
+    "user_id": 1,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Nostrum deleniti doloribus nam dolore.",
+        "read": true,
+        "date": "2025-05-25T22:27:36"
+      }
+    ]
+  },
+  {
+    "_id": 2002,
+    "user_id": 2,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Provident porro laborum laboriosam natus.",
+        "read": false,
+        "date": "2025-05-23T14:10:13"
+      },
+      {
+        "type": "reservation",
+        "message": "Commodi perspiciatis fugit voluptatem repellendus.",
+        "read": true,
+        "date": "2025-05-11T06:16:55",
+        "metadata": {
+          "reservation_id": 814,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2003,
+    "user_id": 3,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Aliquam veritatis aspernatur unde omnis.",
+        "read": true,
+        "date": "2025-06-12T13:18:13"
+      }
+    ]
+  },
+  {
+    "_id": 2004,
+    "user_id": 4,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Dicta molestiae ut possimus consequatur.",
+        "read": false,
+        "date": "2025-06-25T19:35:58",
+        "metadata": {
+          "reservation_id": 705,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2005,
+    "user_id": 5,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Dolores amet temporibus dolorem doloremque aut ex iusto.",
+        "read": true,
+        "date": "2025-05-10T09:17:22",
+        "metadata": {
+          "reservation_id": 255,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Vitae voluptate culpa.",
+        "read": true,
+        "date": "2025-06-12T05:25:42"
+      }
+    ]
+  },
+  {
+    "_id": 2006,
+    "user_id": 6,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Officiis quidem enim eligendi animi quisquam officiis.",
+        "read": true,
+        "date": "2025-05-19T14:04:49",
+        "metadata": {
+          "reservation_id": 365,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Qui sed alias ullam in saepe ut.",
+        "read": true,
+        "date": "2025-04-30T13:38:45"
+      },
+      {
+        "type": "promotion",
+        "message": "Ratione delectus quibusdam sit enim alias.",
+        "read": false,
+        "date": "2025-05-26T00:16:20"
+      }
+    ]
+  },
+  {
+    "_id": 2007,
+    "user_id": 7,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Nobis unde ex iste odit minima suscipit.",
+        "read": false,
+        "date": "2025-05-10T01:40:35",
+        "metadata": {
+          "reservation_id": 825,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Iusto deserunt beatae cum itaque ducimus delectus.",
+        "read": true,
+        "date": "2025-05-29T18:29:46"
+      }
+    ]
+  },
+  {
+    "_id": 2008,
+    "user_id": 8,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Necessitatibus quidem cupiditate sequi tempore.",
+        "read": true,
+        "date": "2025-06-07T13:35:19",
+        "metadata": {
+          "reservation_id": 257,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Eveniet id atque voluptatem labore vel ab.",
+        "read": false,
+        "date": "2025-06-03T06:45:40"
+      },
+      {
+        "type": "reminder",
+        "message": "Ipsum eaque eveniet nesciunt nemo.",
+        "read": false,
+        "date": "2025-05-22T10:25:51"
+      },
+      {
+        "type": "reminder",
+        "message": "Possimus aperiam blanditiis esse illo magnam.",
+        "read": false,
+        "date": "2025-05-27T05:35:57"
+      }
+    ]
+  },
+  {
+    "_id": 2009,
+    "user_id": 9,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Odit velit facilis dolore.",
+        "read": true,
+        "date": "2025-05-10T00:12:21"
+      },
+      {
+        "type": "reminder",
+        "message": "Corrupti quibusdam non impedit molestias iusto modi.",
+        "read": false,
+        "date": "2025-05-18T05:54:14"
+      }
+    ]
+  },
+  {
+    "_id": 2010,
+    "user_id": 10,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Perspiciatis nisi ratione minima minus.",
+        "read": false,
+        "date": "2025-06-01T03:59:16"
+      },
+      {
+        "type": "reminder",
+        "message": "Totam beatae repudiandae temporibus.",
+        "read": true,
+        "date": "2025-05-16T16:01:38"
+      },
+      {
+        "type": "reservation",
+        "message": "Modi cum sequi ipsam perspiciatis quaerat laborum.",
+        "read": true,
+        "date": "2025-06-15T14:13:43",
+        "metadata": {
+          "reservation_id": 461,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2011,
+    "user_id": 11,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Repellat iste maiores itaque animi iure rem.",
+        "read": false,
+        "date": "2025-04-29T03:41:48"
+      },
+      {
+        "type": "alert",
+        "message": "Ducimus a dolor asperiores incidunt praesentium.",
+        "read": true,
+        "date": "2025-06-18T13:58:13"
+      },
+      {
+        "type": "reminder",
+        "message": "Vel architecto ut adipisci.",
+        "read": false,
+        "date": "2025-06-05T17:41:49"
+      }
+    ]
+  },
+  {
+    "_id": 2012,
+    "user_id": 12,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Quisquam quisquam voluptatem officia.",
+        "read": false,
+        "date": "2025-06-06T20:28:56",
+        "metadata": {
+          "reservation_id": 795,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Voluptatibus fugit sit tenetur fugiat placeat.",
+        "read": false,
+        "date": "2025-06-18T09:37:43"
+      }
+    ]
+  },
+  {
+    "_id": 2013,
+    "user_id": 13,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Officiis expedita debitis modi.",
+        "read": false,
+        "date": "2025-06-17T09:15:37"
+      }
+    ]
+  },
+  {
+    "_id": 2014,
+    "user_id": 14,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Quas dolore a ad.",
+        "read": false,
+        "date": "2025-05-26T00:12:15"
+      },
+      {
+        "type": "reminder",
+        "message": "Perferendis molestias minus reprehenderit dolorum expedita eius.",
+        "read": true,
+        "date": "2025-05-07T23:54:54"
+      }
+    ]
+  },
+  {
+    "_id": 2015,
+    "user_id": 15,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Repellat in quisquam.",
+        "read": false,
+        "date": "2025-04-28T13:25:31",
+        "metadata": {
+          "reservation_id": 657,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Dignissimos aut alias nisi praesentium.",
+        "read": true,
+        "date": "2025-05-01T18:23:31",
+        "metadata": {
+          "reservation_id": 536,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Qui illo doloremque dolor sint.",
+        "read": true,
+        "date": "2025-05-02T12:29:31",
+        "metadata": {
+          "reservation_id": 856,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2016,
+    "user_id": 16,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Magnam enim repellendus quasi.",
+        "read": true,
+        "date": "2025-05-28T00:04:03",
+        "metadata": {
+          "reservation_id": 110,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Nisi perferendis eum error corporis optio dolore.",
+        "read": true,
+        "date": "2025-05-26T05:11:09"
+      }
+    ]
+  },
+  {
+    "_id": 2017,
+    "user_id": 17,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Aperiam veniam sunt tenetur numquam.",
+        "read": false,
+        "date": "2025-06-07T12:25:03"
+      }
+    ]
+  },
+  {
+    "_id": 2018,
+    "user_id": 18,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Libero voluptas velit perferendis ratione eum impedit.",
+        "read": false,
+        "date": "2025-05-11T12:40:13"
+      },
+      {
+        "type": "reservation",
+        "message": "Fugiat quidem labore sed error.",
+        "read": false,
+        "date": "2025-05-11T01:19:55",
+        "metadata": {
+          "reservation_id": 227,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Totam natus voluptas nam consequatur doloribus dignissimos.",
+        "read": true,
+        "date": "2025-05-04T17:12:55",
+        "metadata": {
+          "reservation_id": 953,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Sed at quam deleniti eaque perferendis nobis.",
+        "read": true,
+        "date": "2025-05-04T02:34:04"
+      }
+    ]
+  },
+  {
+    "_id": 2019,
+    "user_id": 19,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Rem nesciunt perferendis dolor distinctio.",
+        "read": false,
+        "date": "2025-05-29T08:49:52",
+        "metadata": {
+          "reservation_id": 572,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Vero accusamus vel vitae blanditiis.",
+        "read": false,
+        "date": "2025-06-12T12:56:04"
+      },
+      {
+        "type": "reservation",
+        "message": "Possimus provident id dolores eum.",
+        "read": false,
+        "date": "2025-05-24T12:32:37",
+        "metadata": {
+          "reservation_id": 542,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Iure officiis est facere sunt iure.",
+        "read": false,
+        "date": "2025-06-11T14:57:36",
+        "metadata": {
+          "reservation_id": 80,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2020,
+    "user_id": 20,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Totam fuga impedit natus dolore corporis.",
+        "read": true,
+        "date": "2025-05-22T08:36:56",
+        "metadata": {
+          "reservation_id": 545,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2021,
+    "user_id": 21,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Vel neque impedit corrupti ex fugit rerum.",
+        "read": true,
+        "date": "2025-06-14T12:25:29"
+      },
+      {
+        "type": "reminder",
+        "message": "Omnis placeat ducimus reprehenderit vitae odit laudantium.",
+        "read": true,
+        "date": "2025-05-13T08:58:51"
+      }
+    ]
+  },
+  {
+    "_id": 2022,
+    "user_id": 22,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Cumque quam laborum totam molestiae odit.",
+        "read": false,
+        "date": "2025-05-02T17:49:25",
+        "metadata": {
+          "reservation_id": 691,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Alias sed veniam pariatur quisquam impedit sapiente.",
+        "read": true,
+        "date": "2025-05-19T12:14:49"
+      },
+      {
+        "type": "promotion",
+        "message": "Provident ab magni fuga.",
+        "read": true,
+        "date": "2025-06-26T00:37:42"
+      },
+      {
+        "type": "reminder",
+        "message": "Totam omnis accusamus minus illum accusantium quam modi.",
+        "read": false,
+        "date": "2025-05-24T21:00:02"
+      }
+    ]
+  },
+  {
+    "_id": 2023,
+    "user_id": 23,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Magnam praesentium inventore.",
+        "read": false,
+        "date": "2025-05-14T10:41:24"
+      },
+      {
+        "type": "payment",
+        "message": "Ullam minima dolores nulla.",
+        "read": false,
+        "date": "2025-05-21T13:08:42",
+        "metadata": {
+          "reservation_id": 564,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Eaque id fuga illo natus voluptatibus.",
+        "read": false,
+        "date": "2025-05-18T23:15:12",
+        "metadata": {
+          "reservation_id": 783,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2024,
+    "user_id": 24,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Placeat sed officiis similique quis.",
+        "read": true,
+        "date": "2025-05-06T02:50:24",
+        "metadata": {
+          "reservation_id": 577,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Fugit mollitia animi ab cupiditate libero.",
+        "read": false,
+        "date": "2025-06-08T04:03:02"
+      },
+      {
+        "type": "reminder",
+        "message": "Natus similique atque minus aliquam distinctio.",
+        "read": false,
+        "date": "2025-06-21T01:40:15"
+      },
+      {
+        "type": "payment",
+        "message": "Earum unde placeat eligendi molestiae omnis debitis.",
+        "read": false,
+        "date": "2025-05-27T13:46:13",
+        "metadata": {
+          "reservation_id": 459,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2025,
+    "user_id": 25,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Vero nesciunt quibusdam.",
+        "read": false,
+        "date": "2025-06-04T17:03:54",
+        "metadata": {
+          "reservation_id": 611,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2026,
+    "user_id": 26,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Error natus necessitatibus sed.",
+        "read": true,
+        "date": "2025-06-18T12:34:11",
+        "metadata": {
+          "reservation_id": 308,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Fugit qui ratione porro aspernatur quia.",
+        "read": false,
+        "date": "2025-05-30T14:52:44"
+      }
+    ]
+  },
+  {
+    "_id": 2027,
+    "user_id": 27,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Atque doloremque asperiores.",
+        "read": true,
+        "date": "2025-06-24T19:06:48",
+        "metadata": {
+          "reservation_id": 97,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2028,
+    "user_id": 28,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Veritatis id quo adipisci earum voluptatibus laudantium explicabo.",
+        "read": true,
+        "date": "2025-06-02T11:46:34",
+        "metadata": {
+          "reservation_id": 142,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Delectus nesciunt fugit quo eos doloribus.",
+        "read": true,
+        "date": "2025-05-04T04:15:03",
+        "metadata": {
+          "reservation_id": 239,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Eaque fugit quos culpa.",
+        "read": true,
+        "date": "2025-06-03T20:51:11",
+        "metadata": {
+          "reservation_id": 585,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Facere at velit ipsam quis aut.",
+        "read": true,
+        "date": "2025-05-05T12:23:07"
+      }
+    ]
+  },
+  {
+    "_id": 2029,
+    "user_id": 29,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Inventore nam maiores aut.",
+        "read": false,
+        "date": "2025-05-05T17:47:42",
+        "metadata": {
+          "reservation_id": 178,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2030,
+    "user_id": 30,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Mollitia nisi quos sint accusamus impedit.",
+        "read": false,
+        "date": "2025-05-05T06:19:56"
+      }
+    ]
+  },
+  {
+    "_id": 2031,
+    "user_id": 31,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Temporibus voluptatem nemo cumque fugit consequuntur error.",
+        "read": false,
+        "date": "2025-06-13T22:01:48"
+      }
+    ]
+  },
+  {
+    "_id": 2032,
+    "user_id": 32,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Aperiam ipsa in laborum.",
+        "read": false,
+        "date": "2025-05-04T12:12:28",
+        "metadata": {
+          "reservation_id": 357,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2033,
+    "user_id": 33,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Dolorum doloribus numquam nisi deserunt autem.",
+        "read": true,
+        "date": "2025-05-26T14:52:21",
+        "metadata": {
+          "reservation_id": 766,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Veniam ex nulla.",
+        "read": true,
+        "date": "2025-05-29T00:51:21"
+      },
+      {
+        "type": "alert",
+        "message": "Ex repellendus similique voluptate consequatur eum.",
+        "read": true,
+        "date": "2025-05-16T12:59:09"
+      },
+      {
+        "type": "payment",
+        "message": "Et vitae voluptas eos possimus laudantium nemo.",
+        "read": true,
+        "date": "2025-05-20T13:51:27",
+        "metadata": {
+          "reservation_id": 327,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2034,
+    "user_id": 34,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Fugiat repellendus hic beatae natus nihil.",
+        "read": true,
+        "date": "2025-06-19T00:22:33",
+        "metadata": {
+          "reservation_id": 157,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Placeat mollitia veritatis iure.",
+        "read": false,
+        "date": "2025-05-17T09:29:03"
+      }
+    ]
+  },
+  {
+    "_id": 2035,
+    "user_id": 35,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Reiciendis rerum architecto sed recusandae perferendis.",
+        "read": false,
+        "date": "2025-05-10T13:16:44"
+      }
+    ]
+  },
+  {
+    "_id": 2036,
+    "user_id": 36,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Doloribus omnis quaerat ratione asperiores.",
+        "read": true,
+        "date": "2025-06-24T02:15:17"
+      },
+      {
+        "type": "promotion",
+        "message": "Neque modi unde sit in alias voluptas.",
+        "read": false,
+        "date": "2025-06-18T04:02:58"
+      },
+      {
+        "type": "reservation",
+        "message": "Odit assumenda quisquam omnis explicabo officia aliquid voluptates.",
+        "read": false,
+        "date": "2025-06-04T20:08:41",
+        "metadata": {
+          "reservation_id": 586,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2037,
+    "user_id": 37,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Vitae inventore ab ea magni maxime.",
+        "read": false,
+        "date": "2025-06-22T09:40:25"
+      }
+    ]
+  },
+  {
+    "_id": 2038,
+    "user_id": 38,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Dolore fugiat iure perspiciatis porro corrupti voluptatum.",
+        "read": false,
+        "date": "2025-06-12T21:54:22",
+        "metadata": {
+          "reservation_id": 514,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Eos ullam assumenda rerum.",
+        "read": true,
+        "date": "2025-05-10T19:05:42"
+      },
+      {
+        "type": "alert",
+        "message": "Est iste dignissimos laboriosam labore ipsa.",
+        "read": true,
+        "date": "2025-06-09T23:14:47"
+      }
+    ]
+  },
+  {
+    "_id": 2039,
+    "user_id": 39,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Architecto aliquid quae ad exercitationem autem.",
+        "read": true,
+        "date": "2025-05-12T23:56:27"
+      },
+      {
+        "type": "reminder",
+        "message": "Maiores mollitia ex incidunt iure.",
+        "read": true,
+        "date": "2025-06-05T08:47:49"
+      },
+      {
+        "type": "promotion",
+        "message": "Delectus odit inventore adipisci nostrum deserunt nihil harum.",
+        "read": true,
+        "date": "2025-05-17T21:28:45"
+      },
+      {
+        "type": "payment",
+        "message": "Eius provident recusandae neque reiciendis.",
+        "read": false,
+        "date": "2025-06-18T04:00:36",
+        "metadata": {
+          "reservation_id": 332,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2040,
+    "user_id": 40,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Facilis deserunt beatae perferendis.",
+        "read": false,
+        "date": "2025-06-13T13:32:54",
+        "metadata": {
+          "reservation_id": 434,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2041,
+    "user_id": 41,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Vitae et harum hic beatae explicabo itaque.",
+        "read": false,
+        "date": "2025-05-13T18:59:10"
+      },
+      {
+        "type": "payment",
+        "message": "Ullam nihil perferendis est dolores.",
+        "read": true,
+        "date": "2025-05-08T09:28:43",
+        "metadata": {
+          "reservation_id": 789,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Fuga consequuntur harum nisi.",
+        "read": false,
+        "date": "2025-06-21T20:21:47"
+      }
+    ]
+  },
+  {
+    "_id": 2042,
+    "user_id": 42,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "In laborum modi ullam ut cupiditate.",
+        "read": true,
+        "date": "2025-05-13T05:47:34"
+      },
+      {
+        "type": "alert",
+        "message": "Enim deleniti sapiente nulla sint veritatis laborum.",
+        "read": true,
+        "date": "2025-05-15T23:39:01"
+      },
+      {
+        "type": "promotion",
+        "message": "Vitae magnam libero placeat impedit saepe.",
+        "read": true,
+        "date": "2025-06-13T11:43:13"
+      },
+      {
+        "type": "payment",
+        "message": "Assumenda adipisci quis eos.",
+        "read": true,
+        "date": "2025-05-23T17:25:18",
+        "metadata": {
+          "reservation_id": 776,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2043,
+    "user_id": 43,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Modi cumque itaque quia quisquam.",
+        "read": true,
+        "date": "2025-06-19T09:55:22",
+        "metadata": {
+          "reservation_id": 249,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2044,
+    "user_id": 44,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Beatae beatae quod reprehenderit facilis reprehenderit aliquam.",
+        "read": true,
+        "date": "2025-06-08T21:25:36",
+        "metadata": {
+          "reservation_id": 352,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Dolor incidunt quasi officiis dolorum soluta adipisci.",
+        "read": false,
+        "date": "2025-05-22T13:22:18",
+        "metadata": {
+          "reservation_id": 461,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2045,
+    "user_id": 45,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Similique assumenda sint blanditiis repellat distinctio.",
+        "read": true,
+        "date": "2025-06-23T02:55:48",
+        "metadata": {
+          "reservation_id": 758,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2046,
+    "user_id": 46,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Similique nostrum incidunt nulla quos repellendus.",
+        "read": false,
+        "date": "2025-05-02T19:16:54"
+      },
+      {
+        "type": "reminder",
+        "message": "Expedita eligendi molestiae eum provident enim eaque.",
+        "read": false,
+        "date": "2025-06-15T23:38:30"
+      }
+    ]
+  },
+  {
+    "_id": 2047,
+    "user_id": 47,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Consequatur quibusdam illum animi.",
+        "read": false,
+        "date": "2025-05-23T23:10:43",
+        "metadata": {
+          "reservation_id": 597,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Praesentium consequatur corporis eum.",
+        "read": true,
+        "date": "2025-05-21T01:48:44"
+      }
+    ]
+  },
+  {
+    "_id": 2048,
+    "user_id": 48,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Laudantium neque eaque impedit iste odio.",
+        "read": true,
+        "date": "2025-05-06T01:53:40"
+      },
+      {
+        "type": "payment",
+        "message": "Maiores eius vel fuga veniam eveniet.",
+        "read": true,
+        "date": "2025-04-27T06:43:50",
+        "metadata": {
+          "reservation_id": 809,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Quasi itaque optio facere.",
+        "read": false,
+        "date": "2025-05-03T04:32:21"
+      }
+    ]
+  },
+  {
+    "_id": 2049,
+    "user_id": 49,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Id voluptas repudiandae libero eum eligendi molestias.",
+        "read": true,
+        "date": "2025-05-09T17:16:28"
+      }
+    ]
+  },
+  {
+    "_id": 2050,
+    "user_id": 50,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Sequi ratione tempora quis aliquid numquam saepe.",
+        "read": false,
+        "date": "2025-04-28T14:54:22"
+      }
+    ]
+  },
+  {
+    "_id": 2051,
+    "user_id": 51,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Ut culpa itaque voluptatibus.",
+        "read": true,
+        "date": "2025-06-07T13:48:45",
+        "metadata": {
+          "reservation_id": 300,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Voluptatum tenetur sunt error soluta.",
+        "read": true,
+        "date": "2025-05-23T15:28:46"
+      },
+      {
+        "type": "alert",
+        "message": "Omnis dolorum fuga temporibus.",
+        "read": true,
+        "date": "2025-05-13T02:40:10"
+      }
+    ]
+  },
+  {
+    "_id": 2052,
+    "user_id": 52,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Id esse praesentium.",
+        "read": true,
+        "date": "2025-05-19T18:33:45"
+      },
+      {
+        "type": "promotion",
+        "message": "Omnis provident a labore consequatur dolorem.",
+        "read": true,
+        "date": "2025-06-09T06:02:56"
+      },
+      {
+        "type": "reminder",
+        "message": "Ab exercitationem blanditiis.",
+        "read": false,
+        "date": "2025-06-07T01:01:51"
+      }
+    ]
+  },
+  {
+    "_id": 2053,
+    "user_id": 53,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Labore dolorem at rem.",
+        "read": true,
+        "date": "2025-05-07T01:26:42",
+        "metadata": {
+          "reservation_id": 945,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2054,
+    "user_id": 54,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Facilis error fugit repellendus soluta odit.",
+        "read": false,
+        "date": "2025-05-10T21:50:23",
+        "metadata": {
+          "reservation_id": 403,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Minus ab officiis ipsam.",
+        "read": true,
+        "date": "2025-05-17T17:25:23"
+      },
+      {
+        "type": "payment",
+        "message": "Quibusdam ullam nulla ipsam dolor tempore consequuntur commodi.",
+        "read": false,
+        "date": "2025-06-03T07:49:38",
+        "metadata": {
+          "reservation_id": 364,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2055,
+    "user_id": 55,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Vitae et consequuntur eius assumenda mollitia.",
+        "read": false,
+        "date": "2025-06-24T07:05:15"
+      },
+      {
+        "type": "reservation",
+        "message": "Eligendi velit ad sed soluta dignissimos non deleniti.",
+        "read": false,
+        "date": "2025-06-04T01:48:50",
+        "metadata": {
+          "reservation_id": 900,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Officia quos recusandae dolores harum.",
+        "read": false,
+        "date": "2025-05-20T10:43:45",
+        "metadata": {
+          "reservation_id": 231,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2056,
+    "user_id": 56,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Odit architecto suscipit accusamus facere et harum.",
+        "read": true,
+        "date": "2025-06-21T05:23:25"
+      },
+      {
+        "type": "reservation",
+        "message": "Facilis placeat quis veritatis quo accusantium.",
+        "read": false,
+        "date": "2025-05-03T14:19:49",
+        "metadata": {
+          "reservation_id": 534,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Ea aliquam aperiam.",
+        "read": true,
+        "date": "2025-06-04T16:19:01"
+      }
+    ]
+  },
+  {
+    "_id": 2057,
+    "user_id": 57,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Enim quae quisquam incidunt illo odit modi.",
+        "read": true,
+        "date": "2025-05-11T20:44:21"
+      },
+      {
+        "type": "alert",
+        "message": "Assumenda aspernatur ullam voluptate culpa.",
+        "read": false,
+        "date": "2025-05-28T18:21:05"
+      },
+      {
+        "type": "reminder",
+        "message": "Nesciunt quis officiis officia est ipsa.",
+        "read": false,
+        "date": "2025-05-20T05:02:00"
+      },
+      {
+        "type": "alert",
+        "message": "Doloribus unde blanditiis nostrum.",
+        "read": true,
+        "date": "2025-05-02T09:11:38"
+      }
+    ]
+  },
+  {
+    "_id": 2058,
+    "user_id": 58,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Pariatur omnis cupiditate accusamus consequatur.",
+        "read": true,
+        "date": "2025-04-28T03:25:00"
+      },
+      {
+        "type": "promotion",
+        "message": "Libero expedita maxime reprehenderit.",
+        "read": false,
+        "date": "2025-05-22T05:03:26"
+      }
+    ]
+  },
+  {
+    "_id": 2059,
+    "user_id": 59,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Fuga quibusdam sit quasi.",
+        "read": true,
+        "date": "2025-05-08T12:03:36"
+      },
+      {
+        "type": "reminder",
+        "message": "Ex inventore minima.",
+        "read": true,
+        "date": "2025-05-22T13:41:06"
+      }
+    ]
+  },
+  {
+    "_id": 2060,
+    "user_id": 60,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Occaecati libero magni animi similique cumque culpa.",
+        "read": true,
+        "date": "2025-05-07T00:45:13",
+        "metadata": {
+          "reservation_id": 189,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Perferendis beatae qui a similique accusamus aliquid.",
+        "read": true,
+        "date": "2025-06-01T09:05:41"
+      },
+      {
+        "type": "payment",
+        "message": "Ullam debitis vero alias rem quae.",
+        "read": false,
+        "date": "2025-06-06T18:10:09",
+        "metadata": {
+          "reservation_id": 985,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2061,
+    "user_id": 61,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Eum impedit quam earum aspernatur.",
+        "read": false,
+        "date": "2025-06-02T05:40:26"
+      },
+      {
+        "type": "promotion",
+        "message": "Magnam temporibus debitis rem.",
+        "read": true,
+        "date": "2025-05-01T11:59:21"
+      },
+      {
+        "type": "reservation",
+        "message": "Architecto iure eligendi sapiente eveniet mollitia.",
+        "read": true,
+        "date": "2025-04-27T19:32:15",
+        "metadata": {
+          "reservation_id": 190,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2062,
+    "user_id": 62,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Dicta natus esse numquam iure nihil.",
+        "read": true,
+        "date": "2025-06-13T22:34:54"
+      },
+      {
+        "type": "reminder",
+        "message": "Quasi molestias recusandae corrupti ut.",
+        "read": true,
+        "date": "2025-04-29T08:40:58"
+      },
+      {
+        "type": "promotion",
+        "message": "Molestiae odio possimus ab ex.",
+        "read": true,
+        "date": "2025-06-02T13:45:07"
+      }
+    ]
+  },
+  {
+    "_id": 2063,
+    "user_id": 63,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Aut minus dolores laudantium animi.",
+        "read": false,
+        "date": "2025-05-10T20:43:20",
+        "metadata": {
+          "reservation_id": 138,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "At ullam tempore maxime praesentium.",
+        "read": false,
+        "date": "2025-06-02T04:56:14"
+      },
+      {
+        "type": "payment",
+        "message": "Voluptate assumenda atque consequatur reprehenderit asperiores necessitatibus.",
+        "read": true,
+        "date": "2025-06-08T06:33:05",
+        "metadata": {
+          "reservation_id": 873,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2064,
+    "user_id": 64,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Dolores ea et reiciendis.",
+        "read": true,
+        "date": "2025-05-28T17:11:21"
+      },
+      {
+        "type": "promotion",
+        "message": "Iste doloremque velit consequatur quo autem.",
+        "read": true,
+        "date": "2025-05-07T07:10:06"
+      },
+      {
+        "type": "promotion",
+        "message": "Ipsum et blanditiis facere.",
+        "read": true,
+        "date": "2025-05-17T04:47:43"
+      },
+      {
+        "type": "alert",
+        "message": "Est eaque blanditiis culpa placeat repudiandae possimus.",
+        "read": true,
+        "date": "2025-04-30T22:56:35"
+      }
+    ]
+  },
+  {
+    "_id": 2065,
+    "user_id": 65,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Saepe eveniet at dolorum explicabo.",
+        "read": true,
+        "date": "2025-06-15T21:24:56"
+      },
+      {
+        "type": "promotion",
+        "message": "Perspiciatis ea voluptatibus.",
+        "read": true,
+        "date": "2025-04-30T01:23:40"
+      },
+      {
+        "type": "reservation",
+        "message": "Sequi nam mollitia atque aut recusandae.",
+        "read": true,
+        "date": "2025-05-08T19:58:28",
+        "metadata": {
+          "reservation_id": 950,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2066,
+    "user_id": 66,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Aperiam quos dolore.",
+        "read": false,
+        "date": "2025-05-16T06:39:05",
+        "metadata": {
+          "reservation_id": 909,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Fuga occaecati officia neque ea repellat.",
+        "read": false,
+        "date": "2025-04-29T03:45:58"
+      },
+      {
+        "type": "reservation",
+        "message": "Deserunt officia repellat at.",
+        "read": false,
+        "date": "2025-05-29T05:32:07",
+        "metadata": {
+          "reservation_id": 738,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Aliquam itaque cumque nemo.",
+        "read": true,
+        "date": "2025-06-04T09:22:54"
+      }
+    ]
+  },
+  {
+    "_id": 2067,
+    "user_id": 67,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Adipisci placeat cupiditate dolor deleniti eius sunt.",
+        "read": false,
+        "date": "2025-04-30T09:42:25"
+      }
+    ]
+  },
+  {
+    "_id": 2068,
+    "user_id": 68,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Nulla doloribus eos illum mollitia aperiam eius consequatur.",
+        "read": false,
+        "date": "2025-05-16T09:44:18"
+      }
+    ]
+  },
+  {
+    "_id": 2069,
+    "user_id": 69,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Dolorum voluptatibus molestiae accusantium fugit quae laboriosam.",
+        "read": false,
+        "date": "2025-06-13T02:21:11"
+      }
+    ]
+  },
+  {
+    "_id": 2070,
+    "user_id": 70,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Totam magnam harum debitis eum dolor.",
+        "read": false,
+        "date": "2025-05-24T07:35:19"
+      }
+    ]
+  },
+  {
+    "_id": 2071,
+    "user_id": 71,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Repellat iusto facere nesciunt.",
+        "read": false,
+        "date": "2025-05-19T15:20:35"
+      },
+      {
+        "type": "payment",
+        "message": "Aut omnis eaque repellendus.",
+        "read": false,
+        "date": "2025-05-02T11:14:40",
+        "metadata": {
+          "reservation_id": 171,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Nemo voluptatem harum vel voluptatibus.",
+        "read": true,
+        "date": "2025-05-13T21:44:47",
+        "metadata": {
+          "reservation_id": 707,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Dolores et qui facere.",
+        "read": false,
+        "date": "2025-06-23T11:24:30"
+      }
+    ]
+  },
+  {
+    "_id": 2072,
+    "user_id": 72,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Provident explicabo necessitatibus.",
+        "read": true,
+        "date": "2025-05-10T20:05:25",
+        "metadata": {
+          "reservation_id": 185,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Veniam saepe repellat voluptas molestiae cupiditate alias.",
+        "read": true,
+        "date": "2025-05-02T11:50:56"
+      },
+      {
+        "type": "alert",
+        "message": "Nobis accusantium labore ex nostrum.",
+        "read": false,
+        "date": "2025-05-09T17:01:50"
+      },
+      {
+        "type": "payment",
+        "message": "Quaerat ullam sapiente eum accusantium nesciunt.",
+        "read": false,
+        "date": "2025-05-10T19:02:33",
+        "metadata": {
+          "reservation_id": 26,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2073,
+    "user_id": 73,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Sed similique vero fuga.",
+        "read": true,
+        "date": "2025-06-04T10:46:21"
+      },
+      {
+        "type": "alert",
+        "message": "Aut error consequatur culpa veniam recusandae vero officiis.",
+        "read": true,
+        "date": "2025-05-13T22:53:22"
+      },
+      {
+        "type": "payment",
+        "message": "Possimus ut ratione dolore nihil cupiditate esse.",
+        "read": false,
+        "date": "2025-05-25T15:14:34",
+        "metadata": {
+          "reservation_id": 709,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Debitis a praesentium nemo.",
+        "read": true,
+        "date": "2025-06-21T03:17:55"
+      }
+    ]
+  },
+  {
+    "_id": 2074,
+    "user_id": 74,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Delectus et repellat.",
+        "read": false,
+        "date": "2025-06-25T09:35:21",
+        "metadata": {
+          "reservation_id": 650,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2075,
+    "user_id": 75,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Odit aut libero ex aspernatur.",
+        "read": false,
+        "date": "2025-05-30T17:05:39"
+      }
+    ]
+  },
+  {
+    "_id": 2076,
+    "user_id": 76,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Cumque suscipit at quae odit suscipit.",
+        "read": false,
+        "date": "2025-06-09T09:41:28"
+      },
+      {
+        "type": "reservation",
+        "message": "Eaque dolorum architecto.",
+        "read": true,
+        "date": "2025-05-21T23:01:27",
+        "metadata": {
+          "reservation_id": 935,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2077,
+    "user_id": 77,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Quam aliquid ipsa in.",
+        "read": true,
+        "date": "2025-05-13T04:33:52"
+      },
+      {
+        "type": "promotion",
+        "message": "Laudantium fugiat molestias aut laboriosam sint.",
+        "read": true,
+        "date": "2025-05-18T22:36:50"
+      }
+    ]
+  },
+  {
+    "_id": 2078,
+    "user_id": 78,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Iste reiciendis alias accusantium.",
+        "read": false,
+        "date": "2025-05-22T09:26:22",
+        "metadata": {
+          "reservation_id": 748,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Asperiores cumque fugiat quasi.",
+        "read": true,
+        "date": "2025-06-19T03:40:41",
+        "metadata": {
+          "reservation_id": 121,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Excepturi voluptates tempora provident.",
+        "read": true,
+        "date": "2025-06-07T22:01:27"
+      },
+      {
+        "type": "reminder",
+        "message": "Non ipsa amet ex.",
+        "read": false,
+        "date": "2025-05-15T11:39:48"
+      }
+    ]
+  },
+  {
+    "_id": 2079,
+    "user_id": 79,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Possimus quam quas eaque eligendi dolores.",
+        "read": false,
+        "date": "2025-05-01T20:37:37"
+      }
+    ]
+  },
+  {
+    "_id": 2080,
+    "user_id": 80,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Nemo saepe corrupti facere incidunt eos.",
+        "read": true,
+        "date": "2025-06-24T07:34:17"
+      },
+      {
+        "type": "reminder",
+        "message": "Dicta ad cupiditate eos aspernatur sapiente est.",
+        "read": false,
+        "date": "2025-06-04T15:08:02"
+      },
+      {
+        "type": "promotion",
+        "message": "Laudantium optio at molestias delectus suscipit fuga.",
+        "read": true,
+        "date": "2025-06-09T07:41:59"
+      },
+      {
+        "type": "reminder",
+        "message": "Ea iure dolorem.",
+        "read": false,
+        "date": "2025-05-23T02:45:46"
+      }
+    ]
+  },
+  {
+    "_id": 2081,
+    "user_id": 81,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Aperiam quibusdam pariatur assumenda exercitationem molestiae voluptas.",
+        "read": false,
+        "date": "2025-06-23T07:07:48"
+      },
+      {
+        "type": "reservation",
+        "message": "Mollitia sapiente repellendus in modi.",
+        "read": true,
+        "date": "2025-06-12T03:23:20",
+        "metadata": {
+          "reservation_id": 251,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "Sunt labore aspernatur temporibus quaerat magnam tempore.",
+        "read": true,
+        "date": "2025-06-21T12:37:32",
+        "metadata": {
+          "reservation_id": 51,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Corporis veniam ipsum veniam cumque distinctio deserunt aliquam.",
+        "read": true,
+        "date": "2025-05-04T15:34:47"
+      }
+    ]
+  },
+  {
+    "_id": 2082,
+    "user_id": 82,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Dicta reprehenderit corporis nisi eum quas.",
+        "read": true,
+        "date": "2025-05-03T13:07:02",
+        "metadata": {
+          "reservation_id": 875,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Harum id eveniet eius.",
+        "read": false,
+        "date": "2025-06-10T12:33:05"
+      },
+      {
+        "type": "payment",
+        "message": "Ratione numquam minima.",
+        "read": true,
+        "date": "2025-06-06T18:41:33",
+        "metadata": {
+          "reservation_id": 51,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2083,
+    "user_id": 83,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Impedit corporis nihil quis.",
+        "read": true,
+        "date": "2025-05-06T18:27:37"
+      },
+      {
+        "type": "payment",
+        "message": "Natus aut enim modi.",
+        "read": true,
+        "date": "2025-05-30T10:14:28",
+        "metadata": {
+          "reservation_id": 990,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Eaque omnis nemo labore cupiditate illo.",
+        "read": false,
+        "date": "2025-06-25T03:14:15"
+      },
+      {
+        "type": "reservation",
+        "message": "Aliquam suscipit ex dolores quia ullam.",
+        "read": true,
+        "date": "2025-06-02T04:49:04",
+        "metadata": {
+          "reservation_id": 787,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2084,
+    "user_id": 84,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Excepturi recusandae est.",
+        "read": false,
+        "date": "2025-06-13T18:31:25",
+        "metadata": {
+          "reservation_id": 840,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Voluptas dolorem error quia.",
+        "read": true,
+        "date": "2025-05-28T04:38:43"
+      },
+      {
+        "type": "payment",
+        "message": "Quas non at ipsam totam.",
+        "read": false,
+        "date": "2025-06-05T13:44:37",
+        "metadata": {
+          "reservation_id": 138,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2085,
+    "user_id": 85,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Quis sint reprehenderit maiores culpa est magni.",
+        "read": false,
+        "date": "2025-05-10T05:03:18",
+        "metadata": {
+          "reservation_id": 538,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Sunt adipisci deserunt rerum saepe dolorum itaque.",
+        "read": true,
+        "date": "2025-06-01T00:42:10"
+      },
+      {
+        "type": "reservation",
+        "message": "Earum reprehenderit magnam odio commodi.",
+        "read": true,
+        "date": "2025-04-30T00:11:07",
+        "metadata": {
+          "reservation_id": 496,
+          "status": "cancelled"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2086,
+    "user_id": 86,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Fuga nisi debitis sit nesciunt.",
+        "read": false,
+        "date": "2025-05-30T23:58:03"
+      },
+      {
+        "type": "payment",
+        "message": "Cum tempora quibusdam porro eligendi harum.",
+        "read": false,
+        "date": "2025-05-12T20:34:11",
+        "metadata": {
+          "reservation_id": 950,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Quod dolor dolore dolore dignissimos officiis maiores.",
+        "read": false,
+        "date": "2025-04-27T21:42:06"
+      }
+    ]
+  },
+  {
+    "_id": 2087,
+    "user_id": 87,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Tenetur officia nobis ab dolorum rem esse.",
+        "read": true,
+        "date": "2025-05-23T18:38:47"
+      },
+      {
+        "type": "reminder",
+        "message": "Tempora sed itaque dolor error maxime.",
+        "read": true,
+        "date": "2025-06-04T14:24:01"
+      },
+      {
+        "type": "payment",
+        "message": "Aut maiores optio sapiente fugiat officia non error.",
+        "read": true,
+        "date": "2025-05-07T12:52:11",
+        "metadata": {
+          "reservation_id": 2,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "reservation",
+        "message": "Aperiam voluptates odit similique ea quae tempora.",
+        "read": false,
+        "date": "2025-05-26T01:12:06",
+        "metadata": {
+          "reservation_id": 641,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2088,
+    "user_id": 88,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Corrupti quisquam tempore rem rem.",
+        "read": false,
+        "date": "2025-06-24T07:08:49"
+      },
+      {
+        "type": "alert",
+        "message": "Optio perspiciatis quam omnis voluptatum ea.",
+        "read": true,
+        "date": "2025-06-06T16:17:48"
+      }
+    ]
+  },
+  {
+    "_id": 2089,
+    "user_id": 89,
+    "notifications": [
+      {
+        "type": "payment",
+        "message": "Harum alias provident nemo deleniti quas.",
+        "read": true,
+        "date": "2025-05-18T15:06:42",
+        "metadata": {
+          "reservation_id": 12,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "promotion",
+        "message": "Odit labore velit facere error cumque omnis.",
+        "read": false,
+        "date": "2025-06-20T05:46:49"
+      },
+      {
+        "type": "payment",
+        "message": "Eos iusto qui quam.",
+        "read": true,
+        "date": "2025-06-20T07:36:22",
+        "metadata": {
+          "reservation_id": 316,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2090,
+    "user_id": 90,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Veniam tempore omnis dolore.",
+        "read": true,
+        "date": "2025-05-18T17:21:35",
+        "metadata": {
+          "reservation_id": 703,
+          "status": "pending"
+        }
+      },
+      {
+        "type": "payment",
+        "message": "In suscipit fuga nesciunt iure.",
+        "read": false,
+        "date": "2025-05-08T11:25:07",
+        "metadata": {
+          "reservation_id": 742,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Amet odio neque nulla iusto deserunt blanditiis.",
+        "read": true,
+        "date": "2025-06-03T02:19:18"
+      }
+    ]
+  },
+  {
+    "_id": 2091,
+    "user_id": 91,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Error amet sequi consequuntur dicta illum necessitatibus.",
+        "read": false,
+        "date": "2025-06-10T11:11:12"
+      },
+      {
+        "type": "payment",
+        "message": "Et quaerat quod laborum.",
+        "read": false,
+        "date": "2025-05-14T04:59:54",
+        "metadata": {
+          "reservation_id": 939,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2092,
+    "user_id": 92,
+    "notifications": [
+      {
+        "type": "promotion",
+        "message": "Odio a earum quis cumque quisquam.",
+        "read": false,
+        "date": "2025-06-13T13:45:55"
+      }
+    ]
+  },
+  {
+    "_id": 2093,
+    "user_id": 93,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Consectetur inventore inventore inventore.",
+        "read": false,
+        "date": "2025-06-12T09:23:28"
+      },
+      {
+        "type": "alert",
+        "message": "A modi quas veniam tempora quidem.",
+        "read": false,
+        "date": "2025-06-17T14:21:59"
+      }
+    ]
+  },
+  {
+    "_id": 2094,
+    "user_id": 94,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Accusantium a quasi dolorem soluta.",
+        "read": false,
+        "date": "2025-05-27T08:11:44"
+      }
+    ]
+  },
+  {
+    "_id": 2095,
+    "user_id": 95,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Aut magnam esse aperiam.",
+        "read": true,
+        "date": "2025-05-01T11:29:58"
+      },
+      {
+        "type": "promotion",
+        "message": "Veniam iste maxime minima inventore.",
+        "read": false,
+        "date": "2025-05-10T00:43:12"
+      },
+      {
+        "type": "payment",
+        "message": "Voluptatum laudantium quibusdam cumque tenetur repellat.",
+        "read": true,
+        "date": "2025-04-28T21:31:54",
+        "metadata": {
+          "reservation_id": 993,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2096,
+    "user_id": 96,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Dolore voluptates distinctio accusantium magnam.",
+        "read": false,
+        "date": "2025-05-08T23:57:22",
+        "metadata": {
+          "reservation_id": 385,
+          "status": "cancelled"
+        }
+      },
+      {
+        "type": "reminder",
+        "message": "Quae recusandae fugiat odit quo numquam.",
+        "read": true,
+        "date": "2025-06-23T16:54:41"
+      },
+      {
+        "type": "reminder",
+        "message": "Optio officiis accusantium.",
+        "read": false,
+        "date": "2025-05-08T06:46:40"
+      }
+    ]
+  },
+  {
+    "_id": 2097,
+    "user_id": 97,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Ipsam commodi dolorum praesentium dignissimos placeat.",
+        "read": true,
+        "date": "2025-04-27T22:38:57"
+      },
+      {
+        "type": "payment",
+        "message": "In aut maxime numquam praesentium.",
+        "read": false,
+        "date": "2025-06-06T16:54:10",
+        "metadata": {
+          "reservation_id": 727,
+          "status": "confirmed"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2098,
+    "user_id": 98,
+    "notifications": [
+      {
+        "type": "alert",
+        "message": "Maiores nulla eligendi quos.",
+        "read": true,
+        "date": "2025-06-14T08:47:02"
+      },
+      {
+        "type": "alert",
+        "message": "Non quod rerum voluptate facere.",
+        "read": true,
+        "date": "2025-06-05T19:46:09"
+      },
+      {
+        "type": "payment",
+        "message": "Cum molestias tenetur porro laboriosam.",
+        "read": false,
+        "date": "2025-05-19T19:24:17",
+        "metadata": {
+          "reservation_id": 850,
+          "status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2099,
+    "user_id": 99,
+    "notifications": [
+      {
+        "type": "reminder",
+        "message": "Accusamus at beatae.",
+        "read": false,
+        "date": "2025-06-21T18:50:27"
+      },
+      {
+        "type": "promotion",
+        "message": "Corrupti at maiores quam aut ducimus doloremque.",
+        "read": true,
+        "date": "2025-05-25T18:44:59"
+      }
+    ]
+  },
+  {
+    "_id": 2100,
+    "user_id": 100,
+    "notifications": [
+      {
+        "type": "reservation",
+        "message": "Iure aut cupiditate aliquam enim.",
+        "read": true,
+        "date": "2025-05-27T09:37:42",
+        "metadata": {
+          "reservation_id": 936,
+          "status": "confirmed"
+        }
+      },
+      {
+        "type": "alert",
+        "message": "Qui atque quidem aliquid sequi optio.",
+        "read": true,
+        "date": "2025-05-13T14:17:25"
+      },
+      {
+        "type": "alert",
+        "message": "Facere ipsa numquam soluta at repellendus.",
+        "read": true,
+        "date": "2025-05-14T19:05:04"
+      }
+    ]
+  }
+]

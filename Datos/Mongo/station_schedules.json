@@ -1,0 +1,632 @@
+[
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 1,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 2,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 3,
+    "branch_id": 3,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 4,
+    "branch_id": 2,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 5,
+    "branch_id": 2,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 6,
+    "branch_id": 2,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 7,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 8,
+    "branch_id": 5,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 9,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 10,
+    "branch_id": 5,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 11,
+    "branch_id": 4,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 12,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 13,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 14,
+    "branch_id": 1,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Lunes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Martes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Miércoles",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Jueves",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Viernes",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  },
+  {
+    "station_id": 15,
+    "branch_id": 2,
+    "day_of_week": "Sábado",
+    "opening_time": "08:00",
+    "closing_time": "18:00"
+  }
+]
