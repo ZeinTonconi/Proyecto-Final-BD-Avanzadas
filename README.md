@@ -4,14 +4,19 @@ El Mortero es un cowork de cocinas creado para apoyar a emprendedores gastronóm
 
 Este proyecto busca solucionar estos problemas mediante un sistema que gestione eficientemente las reservas, el mantenimiento de equipos y la administración de recursos, mejorando así la operación del negocio y el servicio a sus usuarios.
 
-## Pre-requisitos
+### 0.  Pre-requisitos
 
 Para ejecutar este proyecto, es necesario tener instalado lo siguiente:
 
 - Python 3.10+
 - Node.js 18+
 - Docker y Docker Compose
-#### Dependencias de Python
+### 1. Clonar Repositorio
+Clonar la rama main del repositorio con:
+````
+git clone https://github.com/ZeinTonconi/Proyecto-Final-BD-Avanzadas.git
+````
+### 2. Dependencias de Python
 Si opta por crear un entorno virtual de python lo puede hacer de la siguiente forma:
 ```
 python -m venv venv
@@ -23,7 +28,7 @@ Para instalar las dependencias de python debe utilizar el siguiente comando:
 pip install -r requirements.txt
 ```
 
-### Inicializacion de las Base de Datos SQL
+### 3. Inicializacion de las Base de Datos 
 Dentro de la carpeta /Cowork ejecutar:
 ```
 docker-compose up -d
@@ -34,16 +39,22 @@ Una vez levantado el docker debe ejecutar el script *import_database.sh* para im
 el backup de la base de datos cowork.
 ```
 cd ./Backups/cowork
-
+chmod +x import_database.sh
 ./import_database.sh
 ```
-![img.png](img.png)
-Luego ir a organization y recuperar el backup
+![img.png](Imagenes/img.png)
+Luego ir a la carpeta organization y recuperar el backup
 ```
 cd ../organization
 
 docker exec -i organization   sh -c 'exec mysql -u root -p"admin123" organization'   < organization_bakcup.sql
 ```
+Finalmente ir a la carpeta Mongo y ejecutar el cambio de permisos (por si es requerido) y el script para importar los datos:
+````
+cd ../Mongo
+chmod +x import_mongo.sh
+./import_mongo.sh
+````
 ### SP, Vistas, Triggers, Funciones y Particiones
 Primero se debe crear una conexion a MariaDB y a postgres con los siguientes credenciales:
 
