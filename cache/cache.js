@@ -10,21 +10,21 @@ redisClient.connect().catch(console.error);
 const sql = postgres("postgres://admin:admin@localhost:5432/cowork");
 
 const mongoClient = new MongoClient("mongodb://admin:secret@localhost:27017");
-const mongoDB = mongoClient.db("cowork");
+const mongoDB = mongoClient.db("cowork_fase2");
 const stationSchedules = mongoDB.collection("station_schedules");
 
-const RESERVATION_HASH_KEY = "reservation";
+const USER_HASH_KEY = "user";
 const SCHEDULE_KEY = "station_schedules";
 
-const getReservationFromDB = async (id) => {
-  const [reservation] = await sql`
-    SELECT * FROM reservas WHERE reserva_id = ${id}
+const getUserFromDB = async (id) => {
+  const [user] = await sql`
+    SELECT * FROM users WHERE user_id = ${id}
   `;
-  return reservation;
+  return user;
 };
 
-const getReservation = async (id) => {
-  const redisKey = `${RESERVATION_HASH_KEY}:${id}`;
+const getUser = async (id) => {
+  const redisKey = `${USER_HASH_KEY}:${id}`;
   const cached = await redisClient.hGetAll(redisKey);
 
   if (Object.keys(cached).length > 0) {
@@ -32,17 +32,17 @@ const getReservation = async (id) => {
     return cached;
   }
 
-  const reserva = await getReservationFromDB(id);
-  if (reserva) {
+  const user = await getUserFromDB(id);
+  if (user) {
     const mapping = Object.fromEntries(
-      Object.entries(reserva).map(([k, v]) => [k, String(v)])
+      Object.entries(user).map(([k, v]) => [k, String(v)])
     );
 
     await redisClient.hSet(redisKey, mapping);
-    await redisClient.expire(redisKey, 300); // 5 min TTL
+    await redisClient.expire(redisKey, 3600); // 1 hr TTL
   }
 
-  return reserva;
+  return user;
 };
 
 const setReserva = async (data) => {
@@ -87,20 +87,12 @@ const getSchedules = async () => {
   try {
     await mongoClient.connect();
 
-    console.log("Reserva:");
-    const reservation = await getReservation(1);
-    console.log(reservation);
-    console.log(await getReservation(1));
+    console.log("\nUsuario: ")
 
-    await setReserva({
-      reserva_id: 1,
-      user_id: 2,
-      estacion_id: 3,
-      start_date: "2025-06-17",
-      finish_date: "2025-06-17",
-      state: "confirmado",
-      type: "eventual",
-    });
+    const user = await getUser(1);
+    console.log(user);
+    console.log(await getUser(1));
+
 
     console.log("\nHorarios:");
     const schedules = await getSchedules();

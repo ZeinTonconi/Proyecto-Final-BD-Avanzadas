@@ -8,4 +8,9 @@ Parcial\ 2/master-slave/backup1_data
 Parcial\ 2/master-slave/backup2_data
 Parcial\ 2/cache/node_modules
 
-
+**/node_modules/
+**/grafana_data
+**/primary_data
+**/backup1_data
+**/backup2_data
+**/*.png
