@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6030777d62ad4fc1a80e8608f9000ccd","collectionName":"reserve_workshops","type":"collection"}

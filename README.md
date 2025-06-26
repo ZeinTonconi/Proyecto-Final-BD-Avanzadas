@@ -49,12 +49,19 @@ cd ../organization
 
 docker exec -i organization   sh -c 'exec mysql -u root -p"admin123" organization'   < organization_bakcup.sql
 ```
-Finalmente ir a la carpeta Mongo y ejecutar el cambio de permisos (por si es requerido) y el script para importar los datos:
+Luego ir a la carpeta Mongo y ejecutar el cambio de permisos (por si es requerido) y el script para importar los datos:
 ````
 cd ../Mongo
 chmod +x import_mongo.sh
 ./import_mongo.sh
 ````
+Finalmente ir a la carpeta Centralizado y ejecutar el cambio de permisos (por si es requerido) y el script para importar los datos:
+````
+cd ../Centralizado
+chmod +x import_mongo.sh
+./import_centralizado.sh
+````
+
 ### SP, Vistas, Triggers, Funciones y Particiones
 Primero se debe crear una conexion a MariaDB y a postgres con los siguientes credenciales:
 
