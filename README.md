@@ -92,6 +92,13 @@ Para realizar backups se debe usar los siguientes comandos:
     --routines --single-transaction --quick --lock-tables=false organization' \
   > organization_backup.sql
   ```
+* Mongo (Genera dentro del contenedor)
+    ```
+    docker exec -it stationdb mongodump --authenticationDatabase admin -u admin -p secret --db information --out /tmp/mongo_backup
+  ```
+  ```
+    docker exec -it stationdb mongodump --authenticationDatabase admin -u admin -p secret --db cowork_central --out /tmp/mongo_sqlynosql_backup
+  ```
   ![img_1.png](img_1.png)
 ### MongoDB
 Partiendo de la raiz, dentro de la carpeta /MongoDB existen dos archivos:
