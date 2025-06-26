@@ -21,22 +21,18 @@ MONGO_INITDB_ROOT_USERNAME=admin
 MONGO_INITDB_ROOT_PASSWORD=secret
 ```
 
-4. Ejecutar el comando "docker compose up -d" para levantar los contenedores
+4. Ejecutar el comando ```docker compose up -d``` para levantar los contenedores
+![alt text](/Imagenes/docker.png)
+
 
 ### 2. PostgreSQL
 
-![alt text](/Imagenes/docker.png)
-
 5. Ir a la carpeta de PostgreSQL
-6. Ejecutar el siguiente comando para otorgar permisos, si es necesario.
-```chmod +x import_database.sh```
-
-7. Luego ejecutar el siguiente comando para importar la base de datos.
-```./import_database.sh```
-
+6. Ejecutar ```chmod +x import_database.sh``` para otorgar permisos, si es necesario.
+7. Luego ejecutar ```./import_database.sh``` para importar la base de datos.
 8. En Data Grip realizar la conexión con el usuario y contraseña del env
 
-### 2. MariaDB
+### 3. MariaDB
 
 9. Ir a la carpeta de MariaDB
 10. Ejecutar el siguiente comando en la terminal según el sistema operativo de su preferencia:
@@ -46,13 +42,9 @@ MONGO_INITDB_ROOT_PASSWORD=secret
     ```type organization_bakcup.sql | docker exec -i organization mysql -u root -p"admin123" organization```
 11. En Data Grip hacer la conexión con los datos del env
 
-### 3. MongoDB:
+### 4. MongoDB:
 
 12. Muy parecido a Postgres, vamos a la carpeta Mongo
-13. Ejecutar el siguiente comando para otorgar permisos, si es necesario.
-```chmod +x import_mongo.sh```
-14. Luego ejecutar el siguiente comando en git bash para ejecutar y no powershell.
-```./import_mongo.sh```
-
-
+13. Ejecutar ```chmod +x import_mongo.sh``` para otorgar permisos, si es necesario.
+14. Luego ejecutar ```./import_mongo.sh``` en git bash para ejecutar y no powershell.
 
